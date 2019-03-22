@@ -1,0 +1,10 @@
+Compartireis una suscripción Azure cada dos alumnos. Para conectar con esas suscripción azure debéis de ir a la url https://portal.azure.com
+y autenticaros con las siguientes credenciales:
+
+Student900XX@solidqdemo.net 
+
+donde XX deberéis de sustituirlo por 31,32,33,... según el orden que os indice el instructor. 
+
+La contraseña será StUd3nT@#SQ81
+
+
