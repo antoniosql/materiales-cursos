@@ -1,4 +1,4 @@
-﻿Configuración: /etc/Hadoop/conf/hdfs-site.xml
+﻿Configuración: /etc/hadoop/conf/hdfs-site.xml
 
 Hadoop fs –ls /
 
