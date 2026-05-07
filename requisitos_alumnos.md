@@ -47,7 +47,7 @@ En macOS y Linux tambien se comprueba `curl`, porque varios scripts bash lo util
 Levantar la infraestructura de contenedores, para tenerlos descagados y no perder tiempo en el aula. 
 
 ```text
-docker compose up -d
+docker compose up -d 
 ```
 
 Cuando finaliza comprobar que los contenedores están ok:

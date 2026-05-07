@@ -228,3 +228,10 @@ Revisa por este orden:
 ## Siguiente paso
 
 Levanta el stack, abre el puerto definido en `ANYTHINGLLM_PORT` para la demo inicial y despues sigue con `notebooks/00_ollama_y_embeddings.ipynb`.
+
+## Nota sobre Modelos
+
+La posibilidad de ejecutar unos modelos u otros, depende, básicamente de la cantidad de memoria RAM que se tenga disponible en el equipo, en el momento de ejecutar el modelo. A continuación reflejamos un listado corto de modelos pequeños que se pueden ejecutar dependiendo de la memoria RAM disponible:
+- Menos de 2 GB libres: qwen2.5:0.5b, tinyllama, gemma3:1b
+- Entre 2 y 3 GB libres: qwen2.5:1.5b, llama3.2:1b, gemma2:2b
+- Entre 3 y 3.5 GB libres: qwen2.5:3b, llama3.2:3b, phi3:mini
