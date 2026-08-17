@@ -1,0 +1,21 @@
+site_name: RAG con Copilot Studio
+site_url: ""
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.expand
+    - navigation.sections
+    - navigation.tabs
+    - navigation.path
+    - search.highlight
+    - search.suggest
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.tabbed
+  - pymdownx.superfences
+  - pymdownx.details
+docs_dir: docs
