@@ -47,7 +47,7 @@ El recorrido empieza por entender cada pieza por separado y solo después se mon
 
 Requisitos del alumnado:
 
-- [docs/requisitos_alumnos.md](/c:/Repos/rag-local-lab/docs/requisitos_alumnos.md)
+- [requisitos_alumnos.md](requisitos_alumnos.md)
 
 ### 2. Levanta la infraestructura
 
