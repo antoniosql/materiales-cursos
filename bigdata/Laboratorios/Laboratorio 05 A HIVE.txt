@@ -1,0 +1,49 @@
+DROP DATABASE IF EXISTS HDILABDB CASCADE;
+CREATE DATABASE HDILABDB;
+Use HDILABDB;
+CREATE EXTERNAL TABLE IF NOT EXISTS weblogs(
+	TransactionDate varchar(50) ,
+	CustomerId varchar(50) ,
+	BookId varchar(50) ,
+	PurchaseType varchar(50) ,
+	TransactionId varchar(50) ,
+	OrderId varchar(50) ,
+	BookName varchar(50) ,
+	CategoryName varchar(50) ,
+	Quantity varchar(50) ,
+	ShippingAmount varchar(50) ,
+	InvoiceNumber varchar(50) ,
+	InvoiceStatus varchar(50) ,
+	PaymentAmount varchar(50) 
+) ROW FORMAT DELIMITED FIELDS TERMINATED by ',' lines TERMINATED by '\n' 
+STORED AS TEXTFILE LOCATION ‘/curso/weblogs’;
+
+Con esto, tendríamos una tabla externa. Comprueba que el fichero continúa en su ubicación original, y que puedes consultar el contenido de la tabla weblogs. 
+
+Ahora:
+Elimina la tabla
+Créala de nuevo, pero como tabla interna
+Carga el fichero con el comando:
+
+LOAD DATA INPATH ‘/curso/weblogs/weblogs.csv' INTO TABLE HDILABDB.weblogs
+
+Lo que creará la tabla weblogs en la base de datos HDILABDB. Puedes comprobar que se ha creado ejecutando:
+
+hdfs dfs -ls /hive/warehouse
+
+
+Ejercicio 2: Algunas consultas
+
+Ejecuta las siguientes consultas:
+
+SELECT COUNT(*) FROM HDILABDB.weblogs;
+
+SELECT * FROM HDILABDB.weblogs LIMIT 5;
+
+SELECT * FROM HDILABDB.weblogs WHERE orderid='107’;
+
+
+
+SELECT DISTINCT bookname FROM HDILABDB.weblogs WHERE orderid='107’;
+
+SELECT bookname,COUNT(*) FROM HDILABDB.weblogs GROUP BY bookname; 

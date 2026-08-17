@@ -1,0 +1,1001 @@
+Ticket,Linea,Fecha,Tienda,m2_superficie,NombreCliente,Hombre,Mujer,FechaNacimiento,EstadoCivil,IngresosAnuales,Producto,Familia,SubFamilia,UnidadMedida,Cantidad,ImporteVenta,ImporteCoste
+S1-12-001-1000812,154015,12/24/2010 14:05,Tienda Principal,220,Isaiah Perez,1,0,12/8/1970,Casado/a,Más de 70mil,CHOCO EXTRAFINO LECHE 150GR,Comestibles,Golosinas y Chocolates,Unidad,1,1.18,0.86
+S1-12-001-1001435,154771,6/28/2011 13:20,Tienda Principal,220,Bailey Scott,0,1,6/24/1974,Casado/a,Más de 70mil,KOJAK COLA CHUPA C/CHICLE,Comestibles,Golosinas y Chocolates,Unidad,2,0.48,0.26
+S1-12-001-1003244,157526,8/8/2011 17:59,Tienda Principal,220,Isaiah Perez,1,0,12/8/1970,Casado/a,Más de 70mil,RISI PATATAS ONDULADAS 100GRS,Comestibles,Snacks y Aperitivos,Unidad,1,1.26,0.75
+S1-12-001-1004042,158775,11/30/2011 0:00,Tienda Principal,220,Nathaniel Cooper,1,0,10/13/1955,Casado/a,Entre 40 y 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-001-1004462,159332,8/31/2011 0:00,Tienda Principal,220,Isaiah Perez,1,0,12/8/1970,Casado/a,Más de 70mil,CHOCO EXTRAFINO LECHE 150GR,Comestibles,Golosinas y Chocolates,Unidad,1,1.18,0.86
+S1-12-001-1006122,161817,4/22/2009 10:52,Tienda Principal,220,Alexandria Rogers,0,1,3/8/1973,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.88,0.43
+S1-12-001-1007410,163709,4/23/2009 10:09,Tienda Principal,220,Sara Reed,0,1,1/7/1971,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.89,0.43
+S1-12-001-1007681,163975,4/8/2009 18:43,Tienda Principal,220,Sebastian Stewart,1,0,9/21/1972,Soltero/a,Más de 70mil,COCA COLA ZERO LATA 33CL,Comestibles,Refrescos y Bebidas,Unidad,1,0.93,0.56
+S1-12-001-1008793,165730,4/23/2009 16:30,Tienda Principal,220,Jamie Li,0,1,9/27/1971,Casado/a,Entre 20 y 40mil,BARRA PAN DE MEDIO,Comestibles,Alimentacion,Unidad,1,1.06,0.95
+S1-12-001-1009035,165992,4/28/2009 13:31,Tienda Principal,220,Alexandria Rogers,0,1,3/8/1973,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.89,0.43
+S1-12-001-1010339,167962,4/27/2009 13:45,Tienda Principal,220,Jamie Li,0,1,9/27/1971,Casado/a,Entre 20 y 40mil,BARRA PAN DE MEDIO,Comestibles,Alimentacion,Unidad,1,1.06,0.95
+S1-12-001-1011621,169819,4/30/2009 10:49,Tienda Principal,220,Ross Ruiz,1,0,4/6/1971,Casado/a,Entre 20 y 40mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.89,0.43
+S1-12-001-1013298,172025,4/27/2009 10:20,Tienda Principal,220,Destiny Coleman,0,1,12/18/1962,Casado/a,Entre 40 y 70mil,EXCELLENCE 70% CACAO 100GRS,Comestibles,Golosinas y Chocolates,Unidad,1,2.7,1.71
+S1-12-001-1013838,172977,4/27/2009 14:28,Tienda Principal,220,Bailey Scott,0,1,6/24/1974,Casado/a,Más de 70mil,ENCENDEDOR CLIPPER MARGARITAS,No comestibles,Papeleria y Libreria,Unidad,1,0.88,0.54
+S1-12-001-1014067,173210,4/28/2009 12:53,Tienda Principal,220,Wyatt Powell,1,0,8/12/1954,Casado/a,Entre 40 y 70mil,DONUTS GLACE 2 BLANCO 96GR,Comestibles,Golosinas y Chocolates,Unidad,1,1.5,1.05
+S1-12-001-1014067,173211,4/28/2009 13:43,Tienda Principal,220,Wyatt Powell,1,0,8/12/1954,Casado/a,Entre 40 y 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.89,0.43
+S1-12-001-1017723,178502,4/23/2009 9:47,Tienda Principal,220,Kaitlyn Patterson,0,1,7/27/1970,Soltero/a,Más de 70mil,COCA COLA LATA 33CL,Comestibles,Refrescos y Bebidas,Unidad,1,0.93,0.48
+S1-12-001-1017753,178797,,Tienda Principal,220,Clifford Garcia,1,0,5/10/1968,Soltero/a,Más de 70mil,KIT KAT NEGRO 45GRS 24UND.,Comestibles,Golosinas y Chocolates,Unidad,1,1.05,0.66
+S1-12-001-1018198,179334,4/7/2009 14:41,Tienda Principal,220,Sebastian Stewart,1,0,9/21/1972,Soltero/a,Más de 70mil,COCA-COLA LIGHT PET 500ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.16,0.64
+S1-12-001-1018506,179851,4/27/2009 15:43,Tienda Principal,220,Alan He,1,0,9/25/1988,Casado/a,Hasta 20mil,DIARIO AS,No comestibles,Prensa y Revistas,Unidad,1,0.82,0.98
+S1-12-001-1018521,179850,4/23/2009 12:09,Tienda Principal,220,Charles Phillips,1,0,5/7/1971,Casado/a,Más de 70mil,CHICLE SMINT FRESA/MANZ/FRAMB,Comestibles,Golosinas y Chocolates,Unidad,1,1.43,0.9
+S1-12-001-1018802,180371,4/28/2009 16:48,Tienda Principal,220,Robert Robinson,1,0,4/2/1954,Casado/a,Entre 40 y 70mil,BARRA PAN DE MEDIO,Comestibles,Alimentacion,Unidad,2,2.13,1.91
+S1-12-001-1018802,180372,5/5/2009 9:37,Tienda Principal,220,Robert Robinson,1,0,4/2/1954,Casado/a,Entre 40 y 70mil,BARRA PAN DE KILO,Comestibles,Alimentacion,Unidad,1,1.56,1.5
+S1-12-001-1019254,181129,5/6/2009 20:37,Tienda Principal,220,Bonnie Raji,0,1,1/12/1944,Casado/a,Entre 40 y 70mil,CRESPILLOS PAN LORCA,Comestibles,Alimentacion,Unidad,1,1.35,1.04
+S1-12-001-1019952,182187,5/13/2009 13:30,Tienda Principal,220,Shawn Luo,1,0,10/12/1989,Casado/a,Hasta 20mil,DONUTS GLACE 2 BLANCO 96GR,Comestibles,Golosinas y Chocolates,Unidad,1,1.5,1.05
+S1-12-001-1021936,185018,4/29/2009 9:49,Tienda Principal,220,Alan He,1,0,9/25/1988,Casado/a,Hasta 20mil,REVISTA HOLA,No comestibles,Prensa y Revistas,Unidad,1,1.63,2.06
+S1-12-001-1022653,186088,5/20/2009 20:42,Tienda Principal,220,Bonnie Raji,0,1,1/12/1944,Casado/a,Entre 40 y 70mil,GRAGEA FRESA TRIDENT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,0.82,0.46
+S1-12-001-1023390,186932,5/29/2009 11:44,Tienda Principal,220,Jamie Li,0,1,9/27/1971,Casado/a,Entre 20 y 40mil,RISI PATATAS ONDULADAS 100GRS,Comestibles,Snacks y Aperitivos,Unidad,1,1.28,0.74
+S1-12-001-1024113,188001,5/19/2009 17:04,Tienda Principal,220,Sara Reed,0,1,1/7/1971,Casado/a,Más de 70mil,DONUTS BOMBON 2 94GR,Comestibles,Golosinas y Chocolates,Unidad,1,1.74,1.13
+S1-12-001-1024113,188003,5/6/2009 12:06,Tienda Principal,220,Sara Reed,0,1,1/7/1971,Casado/a,Más de 70mil,COCA COLA ZERO LATA 33CL,Comestibles,Refrescos y Bebidas,Unidad,1,0.93,0.56
+S1-12-001-1025589,190078,4/22/2009 12:06,Tienda Principal,220,Wyatt Powell,1,0,8/12/1954,Casado/a,Entre 40 y 70mil,CASTROL 2T 125ML,No comestibles,Productos Varios,Unidad,1,1.48,0.94
+S1-12-001-1027516,192948,5/19/2009 12:24,Tienda Principal,220,Bonnie Raji,0,1,1/12/1944,Casado/a,Entre 40 y 70mil,DIARIO EL PAIS,No comestibles,Prensa y Revistas,Unidad,1,1.22,1.32
+S1-12-001-1027973,193396,6/4/2009 19:47,Tienda Principal,220,Erin Torres,0,1,12/7/1970,Casado/a,Entre 40 y 70mil,CASTROL 2T 125ML,No comestibles,Productos Varios,Unidad,1,1.47,0.94
+S1-12-001-1027973,193397,5/13/2009 13:43,Tienda Principal,220,Erin Torres,0,1,12/7/1970,Casado/a,Entre 40 y 70mil,AGUA MINERAL NEVADA 8L PET,Comestibles,Refrescos y Bebidas,Unidad,1,2.28,0.9
+S1-12-001-1027973,193398,5/13/2009 19:28,Tienda Principal,220,Erin Torres,0,1,12/7/1970,Casado/a,Entre 40 y 70mil,BARRA PAN DE MEDIO,Comestibles,Alimentacion,Unidad,2,2.13,1.91
+S1-12-001-1030420,196849,6/10/2009 12:45,Tienda Principal,220,Alan He,1,0,9/25/1988,Casado/a,Hasta 20mil,KIT KAT CHOCOLATINA 45GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.81,0.4
+S1-12-001-1030420,196850,4/27/2009 18:40,Tienda Principal,220,Alan He,1,0,9/25/1988,Casado/a,Hasta 20mil,KOJAK CEREZA CHUPA C/CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,0.27,0.13
+S1-12-001-1030420,196851,4/28/2009 12:29,Tienda Principal,220,Alan He,1,0,9/25/1988,Casado/a,Hasta 20mil,CEBOLLA 165GR PRINGLES,Comestibles,Snacks y Aperitivos,Unidad,1,2.7,1.73
+S1-12-001-1030420,196852,6/17/2009 12:22,Tienda Principal,220,Alan He,1,0,9/25/1988,Casado/a,Hasta 20mil,REVISTA HOLA,No comestibles,Prensa y Revistas,Unidad,1,1.63,2.01
+S1-12-001-1031663,198800,6/22/2009 16:35,Tienda Principal,220,Tiffany Lin,0,1,3/17/1969,Casado/a,Más de 70mil,PIPACHIC EJECUT.CHURRUCA 170GR,Comestibles,Snacks y Aperitivos,Unidad,1,1.35,0.85
+S1-12-001-1031663,198801,6/30/2009 9:37,Tienda Principal,220,Tiffany Lin,0,1,3/17/1969,Casado/a,Más de 70mil,FRESCOCO CUETARA 150GR,Comestibles,Golosinas y Chocolates,Unidad,1,1.43,0.9
+S1-12-001-1032607,199976,5/13/2009 20:09,Tienda Principal,220,Adam Hernandez,1,0,1/15/1963,Casado/a,Entre 40 y 70mil,JUGUETES SURTIDOS,No comestibles,Juegos y Complementos,Unidad,2,4.92,2.5
+S1-12-001-1033832,201766,5/13/2009 20:07,Tienda Principal,220,Jamie Li,0,1,9/27/1971,Casado/a,Entre 20 y 40mil,BOLSA DE HIELO,Comestibles,Helados,Unidad,1,1.12,0.45
+S1-12-001-1033832,201767,5/13/2009 20:05,Tienda Principal,220,Jamie Li,0,1,9/27/1971,Casado/a,Entre 20 y 40mil,NORDIC MIST TONICA LATA 25CL,Comestibles,Refrescos y Bebidas,Unidad,2,1.55,0.99
+S1-12-001-1034543,202717,6/19/2009 17:32,Tienda Principal,220,Kaitlyn Patterson,0,1,7/27/1970,Soltero/a,Más de 70mil,COCA COLA LATA 33CL,Comestibles,Refrescos y Bebidas,Unidad,1,0.93,0.48
+S1-12-001-1035530,204024,6/10/2009 16:34,Tienda Principal,220,Alan He,1,0,9/25/1988,Casado/a,Hasta 20mil,STICK MENTA TRIDENT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,0.77,0.46
+S1-12-001-1038008,207673,5/14/2009 10:39,Tienda Principal,220,Bonnie Raji,0,1,1/12/1944,Casado/a,Entre 40 y 70mil,LA VOZ DE ALMERIA,No comestibles,Prensa y Revistas,Unidad,1,0.9,1.06
+S1-12-001-1038697,208574,6/10/2009 12:35,Tienda Principal,220,Aaron Bryant,1,0,11/14/1954,Soltero/a,Entre 40 y 70mil,KOJAK CEREZA CHUPA C/CHICLE,Comestibles,Golosinas y Chocolates,Unidad,2,0.54,0.25
+S1-12-001-1041335,212398,6/5/2009 19:41,Tienda Principal,220,Blake Turner,1,0,11/8/1942,Casado/a,Entre 20 y 40mil,BARRA PAN DE KILO,Comestibles,Alimentacion,Unidad,1,1.56,1.5
+S1-12-001-1043054,214683,6/30/2009 12:20,Tienda Principal,220,Aaron Bryant,1,0,11/14/1954,Soltero/a,Entre 40 y 70mil,KOJAK CEREZA CHUPA C/CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,0.27,0.13
+S1-12-001-1043577,215471,5/12/2009 17:42,Tienda Principal,220,Bonnie Raji,0,1,1/12/1944,Casado/a,Entre 40 y 70mil,LA VOZ DE ALMERIA,No comestibles,Prensa y Revistas,Unidad,1,0.9,1.09
+S1-12-001-1044799,217174,6/30/2009 17:39,Tienda Principal,220,Aaron Bryant,1,0,11/14/1954,Soltero/a,Entre 40 y 70mil,KOJAK CEREZA CHUPA C/CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,0.27,0.13
+S1-12-001-901756,7487,7/4/2009 10:45,Tienda Principal,220,Alan He,1,0,9/25/1988,Casado/a,Hasta 20mil,BARAJAS INFANTILES SURTIDAS,No comestibles,Juegos y Complementos,Unidad,1,2.81,1.31
+S1-12-001-901756,7488,7/20/2009 10:08,Tienda Principal,220,Alan He,1,0,9/25/1988,Casado/a,Hasta 20mil,REVISTA HOLA,No comestibles,Prensa y Revistas,Unidad,1,1.63,2.21
+S1-12-001-902015,9577,7/18/2009 11:17,Tienda Principal,220,Sean Cook,1,0,7/14/1957,Soltero/a,Entre 40 y 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.45
+S1-12-001-902015,9578,7/4/2009 10:24,Tienda Principal,220,Sean Cook,1,0,7/14/1957,Soltero/a,Entre 40 y 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.45
+S1-12-001-913785,25425,5/14/2009 14:08,Tienda Principal,220,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,CERVEZA HEINEKEN LATA 33CL,Comestibles,Refrescos y Bebidas,Unidad,-1,-1.08,-0.7
+S1-12-001-918151,31962,7/10/2009 10:59,Tienda Principal,220,Melissa Washington,0,1,4/10/1964,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-001-922848,38321,7/9/2009 11:25,Tienda Principal,220,Charles Phillips,1,0,5/7/1971,Casado/a,Más de 70mil,REVISTA MIA,No comestibles,Prensa y Revistas,Unidad,1,0.98,1.25
+S1-12-001-922848,38322,5/14/2009 9:59,Tienda Principal,220,Charles Phillips,1,0,5/7/1971,Casado/a,Más de 70mil,PROMOCIONES PRENSA 21% IVA,No comestibles,Prensa y Revistas,Unidad,1,0.37,0.45
+S1-12-001-924146,40219,7/8/2009 11:05,Tienda Principal,220,Sierra Parker,0,1,4/12/1949,Casado/a,Más de 70mil,CASTROL 2T 1L,No comestibles,Productos Varios,Unidad,1,8.71,5.73
+S1-12-001-925240,43636,6/24/2009 12:13,Tienda Principal,220,Kaitlyn Patterson,0,1,7/27/1970,Soltero/a,Más de 70mil,PALOMITAS RISI 90GR,Comestibles,Snacks y Aperitivos,Unidad,1,1.02,0.68
+S1-12-001-925240,43637,7/27/2009 8:58,Tienda Principal,220,Kaitlyn Patterson,0,1,7/27/1970,Soltero/a,Más de 70mil,FINI FRESAS SALVAJES 100GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.91,0.48
+S1-12-001-925240,43638,5/13/2009 13:46,Tienda Principal,220,Kaitlyn Patterson,0,1,7/27/1970,Soltero/a,Más de 70mil,FINI LADRILLOS FRESA PICA 100G,Comestibles,Golosinas y Chocolates,Unidad,1,0.91,0.53
+S1-12-001-925240,43639,7/28/2009 16:45,Tienda Principal,220,Kaitlyn Patterson,0,1,7/27/1970,Soltero/a,Más de 70mil,FINI BESOS FRESA 100GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.9,0.54
+S1-12-001-925240,43640,7/28/2009 13:29,Tienda Principal,220,Kaitlyn Patterson,0,1,7/27/1970,Soltero/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-001-926150,42682,7/10/2009 18:18,Tienda Principal,220,Jacqueline Gonzales,0,1,8/4/1960,Casado/a,Entre 40 y 70mil,JUGUETES SURTIDOS,No comestibles,Juegos y Complementos,Unidad,1,2.52,1.24
+S1-12-001-926469,43251,7/27/2009 16:59,Tienda Principal,220,Charles Richardson,1,0,11/7/1961,Casado/a,Entre 40 y 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-001-929784,49490,6/12/2009 20:06,Tienda Principal,220,Justin Gonzales,1,0,12/17/1970,Soltero/a,Más de 70mil,BARRA PAN DE MEDIO,Comestibles,Alimentacion,Unidad,1,1.06,0.95
+S1-12-001-929784,49491,6/10/2009 9:52,Tienda Principal,220,Justin Gonzales,1,0,12/17/1970,Soltero/a,Más de 70mil,PIM'S FRAMBUESA GALLETA 150GR,Comestibles,Golosinas y Chocolates,Unidad,1,2.75,1.82
+S1-12-001-929784,49492,6/22/2009 11:48,Tienda Principal,220,Justin Gonzales,1,0,12/17/1970,Soltero/a,Más de 70mil,EL PIPONAZO 100GRS GREFUSA,Comestibles,Snacks y Aperitivos,Unidad,1,1.54,1
+S1-12-001-929784,49493,8/5/2009 11:24,Tienda Principal,220,Justin Gonzales,1,0,12/17/1970,Soltero/a,Más de 70mil,RED BULL S/AZUCAR 25CL,Comestibles,Refrescos y Bebidas,Unidad,1,1.81,1.18
+S1-12-001-931156,50348,8/7/2009 19:03,Tienda Principal,220,Sierra Parker,0,1,4/12/1949,Casado/a,Más de 70mil,CASTROL 2T 1L,No comestibles,Productos Varios,Unidad,1,8.71,5.73
+S1-12-001-931663,51045,3/11/2009 0:00,Tienda Principal,220,Alan He,1,0,9/25/1988,Casado/a,Hasta 20mil,REVISTA HOLA,No comestibles,Prensa y Revistas,Unidad,1,1.63,1.97
+S1-12-001-932634,52478,7/29/2009 17:56,Tienda Principal,220,Isaiah Perez,1,0,12/8/1970,Casado/a,Más de 70mil,MERENGUITOS FIESTA 200GRS,Comestibles,Golosinas y Chocolates,Unidad,1,1.54,1
+S1-12-001-932634,52479,8/10/2009 19:47,Tienda Principal,220,Isaiah Perez,1,0,12/8/1970,Casado/a,Más de 70mil,FINI BESOS FRESA 100GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.9,0.49
+S1-12-001-934279,54855,5/8/2009 17:55,Tienda Principal,220,Wyatt Powell,1,0,8/12/1954,Casado/a,Entre 40 y 70mil,ANTICONGELANTE 30% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,8.21,5.77
+S1-12-001-935926,57206,9/4/2009 9:26,Tienda Principal,220,Sebastian Stewart,1,0,9/21/1972,Soltero/a,Más de 70mil,BOLSA NARANJAS ALMANZORA 5KG,Comestibles,Alimentacion,Unidad,1,3.15,2.3
+S1-12-001-939548,62828,6/3/2009 17:47,Tienda Principal,220,Morgan Foster,0,1,3/20/1960,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-001-939940,63364,8/11/2009 17:30,Tienda Principal,220,Erin Morris,0,1,11/24/1963,Soltero/a,Entre 40 y 70mil,REVISTA PRONTO,No comestibles,Prensa y Revistas,Unidad,1,0.82,1
+S1-12-001-940012,64259,8/20/2009 13:43,Tienda Principal,220,Mitchell Xu,1,0,11/26/1971,Casado/a,Hasta 20mil,DONETTES SABOR ESPECIAL 7U,Comestibles,Golosinas y Chocolates,Unidad,1,2.05,1.35
+S1-12-001-940012,64260,9/11/2009 16:00,Tienda Principal,220,Mitchell Xu,1,0,11/26/1971,Casado/a,Hasta 20mil,PIPAS G C/SAL 200GR GREFUSA,Comestibles,Snacks y Aperitivos,Unidad,1,1.5,1.01
+S1-12-001-940012,64261,6/9/2009 20:07,Tienda Principal,220,Mitchell Xu,1,0,11/26/1971,Casado/a,Hasta 20mil,EL PIPONAZO 100GRS GREFUSA,Comestibles,Snacks y Aperitivos,Unidad,1,1.53,1
+S1-12-001-940517,64806,7/27/2009 18:21,Tienda Principal,220,Alan He,1,0,9/25/1988,Casado/a,Hasta 20mil,REVISTA DIEZ MINUTOS,No comestibles,Prensa y Revistas,Unidad,1,1.6,2.14
+S1-12-001-941043,65051,9/15/2009 13:12,Tienda Principal,220,Garrett Kelly,1,0,11/1/1954,Casado/a,Entre 40 y 70mil,DIARIO EL MUNDO,No comestibles,Prensa y Revistas,Unidad,1,1.06,1.3
+S1-12-001-941138,65308,5/29/2009 18:01,Tienda Principal,220,Bonnie Raji,0,1,1/12/1944,Casado/a,Entre 40 y 70mil,HARMONY LIMON HALLS,Comestibles,Golosinas y Chocolates,Unidad,1,1.11,0.68
+S1-12-001-944115,69700,9/10/2009 16:54,Tienda Principal,220,Mitchell Xu,1,0,11/26/1971,Casado/a,Hasta 20mil,CANUTO CHOCOLATE,Comestibles,Golosinas y Chocolates,Unidad,1,1.34,0.81
+S1-12-001-944115,69701,9/23/2009 15:18,Tienda Principal,220,Mitchell Xu,1,0,11/26/1971,Casado/a,Hasta 20mil,GOFRE PANRICO,Comestibles,Golosinas y Chocolates,Unidad,1,1.33,0.82
+S1-12-001-944115,69702,9/3/2009 12:52,Tienda Principal,220,Mitchell Xu,1,0,11/26/1971,Casado/a,Hasta 20mil,COCA COLA LATA 33CL,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.55
+S1-12-001-944115,69703,9/9/2009 10:35,Tienda Principal,220,Mitchell Xu,1,0,11/26/1971,Casado/a,Hasta 20mil,LAIKER LATA 33CL,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.56
+S1-12-001-944115,69704,6/5/2009 17:41,Tienda Principal,220,Mitchell Xu,1,0,11/26/1971,Casado/a,Hasta 20mil,PIPA G TIJUANA 200GR GREFUSA,Comestibles,Snacks y Aperitivos,Unidad,1,1.5,1.01
+S1-12-001-944929,70894,8/7/2009 17:28,Tienda Principal,220,Garrett Kelly,1,0,11/1/1954,Casado/a,Entre 40 y 70mil,DIARIO EL MUNDO,No comestibles,Prensa y Revistas,Unidad,1,1.06,1.27
+S1-12-001-944929,70895,8/19/2009 0:00,Tienda Principal,220,Garrett Kelly,1,0,11/1/1954,Casado/a,Entre 40 y 70mil,PROMOCIONES PRENSA 21% IVA,No comestibles,Prensa y Revistas,Unidad,1,0.14,0.51
+S1-12-001-945720,71878,6/17/2009 18:33,Tienda Principal,220,Destiny Foster,0,1,7/17/1963,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-001-945856,72147,9/17/2009 14:18,Tienda Principal,220,Alan He,1,0,9/25/1988,Casado/a,Hasta 20mil,GRAGEA MENTA TRIDENT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.44
+S1-12-001-945991,72820,7/22/2009 10:28,Tienda Principal,220,Kaitlyn Lee,0,1,9/20/1975,Soltero/a,Más de 70mil,HARMONY FRESA HALLS,Comestibles,Golosinas y Chocolates,Unidad,1,1.11,0.68
+S1-12-001-946070,72823,9/11/2009 12:49,Tienda Principal,220,Luke Mitchell,1,0,12/20/1973,Soltero/a,Más de 70mil,CARAMELOS SUGUS STICK MULTISAB,Comestibles,Golosinas y Chocolates,Unidad,1,0.79,0.48
+S1-12-001-947059,73918,6/9/2009 19:10,Tienda Principal,220,Ruth Madan,0,1,5/11/1951,Casado/a,Más de 70mil,LLAVEROS SURTIDOS VICTORIANO,No comestibles,Juegos y Complementos,Unidad,1,1.3,0.61
+S1-12-001-947681,74895,6/4/2009 12:06,Tienda Principal,220,Cameron Yang,1,0,8/3/1961,Casado/a,Entre 40 y 70mil,BARRA PAN DE KILO,Comestibles,Alimentacion,Unidad,1,1.56,1.5
+S1-12-001-948169,75449,9/30/2009 11:58,Tienda Principal,220,Destiny Foster,0,1,7/17/1963,Soltero/a,Entre 40 y 70mil,DONUTS BOMBON 2 94GR,Comestibles,Golosinas y Chocolates,Unidad,1,1.73,1.13
+S1-12-001-950808,79252,9/23/2009 9:39,Tienda Principal,220,Bonnie Raji,0,1,1/12/1944,Casado/a,Entre 40 y 70mil,ANTICONGELANTE 10% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,5.34,3.62
+S1-12-001-951607,81508,7/8/2009 12:35,Tienda Principal,220,Virginia Sara,0,1,1/16/1971,Casado/a,Hasta 20mil,PIPAS G C/SAL 200GR GREFUSA,Comestibles,Snacks y Aperitivos,Unidad,1,1.5,1.02
+S1-12-001-951607,81509,6/17/2009 13:21,Tienda Principal,220,Virginia Sara,0,1,1/16/1971,Casado/a,Hasta 20mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-001-951610,81505,8/13/2009 10:52,Tienda Principal,220,Mitchell Xu,1,0,11/26/1971,Casado/a,Hasta 20mil,WYNNS TAPAFUGAS RADIADOR 325ML,No comestibles,Productos Varios,Unidad,1,7.49,4.89
+S1-12-001-951610,81506,9/28/2009 17:48,Tienda Principal,220,Mitchell Xu,1,0,11/26/1971,Casado/a,Hasta 20mil,ANTICONGELANTE 10% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,5.33,3.62
+S1-12-001-953194,82759,9/29/2009 19:28,Tienda Principal,220,Robert Robinson,1,0,4/2/1954,Casado/a,Entre 40 y 70mil,COCA-COLA PET 500ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.11,0.68
+S1-12-001-953194,82760,11/4/2009 20:11,Tienda Principal,220,Robert Robinson,1,0,4/2/1954,Casado/a,Entre 40 y 70mil,ROSQUILLETAS VELARTE 60 GRS,Comestibles,Snacks y Aperitivos,Unidad,1,0.86,0.54
+S1-12-001-954471,83393,11/10/2009 13:40,Tienda Principal,220,Robert Robinson,1,0,4/2/1954,Casado/a,Entre 40 y 70mil,COCA-COLA PET 500ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.11,0.68
+S1-12-001-954611,85321,10/31/2009 10:55,Tienda Principal,220,Steven Kelly,1,0,5/12/1974,Casado/a,Más de 70mil,AGUA LANJARON (HERCULES) 750CL,Comestibles,Refrescos y Bebidas,Unidad,1,0.78,0.54
+S1-12-001-954885,85233,11/13/2009 20:09,Tienda Principal,220,Shawn Luo,1,0,10/12/1989,Casado/a,Hasta 20mil,COCA COLA LATA 33CL,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.55
+S1-12-001-956194,87278,10/15/2009 19:19,Tienda Principal,220,Wyatt Powell,1,0,8/12/1954,Casado/a,Entre 40 y 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-001-956270,87281,11/16/2009 11:30,Tienda Principal,220,Nathaniel Cooper,1,0,10/13/1955,Casado/a,Entre 40 y 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-001-957367,89317,11/2/2009 15:06,Tienda Principal,220,Steven Kelly,1,0,5/12/1974,Casado/a,Más de 70mil,AGUA LANJARON (HERCULES) 750CL,Comestibles,Refrescos y Bebidas,Unidad,1,0.79,0.54
+S1-12-001-962213,96050,6/26/2009 16:33,Tienda Principal,220,Bonnie Raji,0,1,1/12/1944,Casado/a,Entre 40 y 70mil,AQUARIUS LIMON PET 500ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.26,0.83
+S1-12-001-964099,98998,10/15/2009 9:14,Tienda Principal,220,Kaitlyn Patterson,0,1,7/27/1970,Soltero/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-001-965408,100673,7/9/2009 16:08,Tienda Principal,220,Arianna Henderson,0,1,6/9/1960,Casado/a,Entre 40 y 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-001-965485,101072,9/3/2009 13:56,Tienda Principal,220,Wyatt Powell,1,0,8/12/1954,Casado/a,Entre 40 y 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-001-965624,101076,11/12/2009 21:56,Tienda Principal,220,Sierra Parker,0,1,4/12/1949,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-001-966108,101874,11/23/2009 12:22,Tienda Principal,220,Brandy Raman,0,1,10/18/1989,Soltero/a,Más de 70mil,REFRESCOS RED BULL 250ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.65,1.06
+S1-12-001-968389,105228,11/25/2009 15:52,Tienda Principal,220,Gilbert Liang,1,0,2/4/1989,Soltero/a,Hasta 20mil,COCA COLA LATA 33CL,Comestibles,Refrescos y Bebidas,Unidad,1,0.9,0.48
+S1-12-001-969019,106336,11/11/2009 12:09,Tienda Principal,220,Wyatt Powell,1,0,8/12/1954,Casado/a,Entre 40 y 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-001-969172,106578,6/8/2009 16:21,Tienda Principal,220,Arianna Henderson,0,1,6/9/1960,Casado/a,Entre 40 y 70mil,PAJITAS KETCHUP 100GR RISI,Comestibles,Snacks y Aperitivos,Unidad,1,1.02,0.75
+S1-12-001-969415,106977,10/21/2009 11:53,Tienda Principal,220,Amanda Gray,0,1,2/22/1961,Soltero/a,Entre 40 y 70mil,CASTROL 2T 125ML,No comestibles,Productos Varios,Unidad,1,1.62,0.94
+S1-12-001-970020,107881,12/4/2009 17:08,Tienda Principal,220,Wyatt Powell,1,0,8/12/1954,Casado/a,Entre 40 y 70mil,NESTLE GOLD VAINILLA MACADAMIA,Comestibles,Helados,Unidad,1,2.28,1.54
+S1-12-001-970096,107883,11/25/2009 15:45,Tienda Principal,220,Kaitlyn Patterson,0,1,7/27/1970,Soltero/a,Más de 70mil,CERVEZA ESTRELLA LEVANTE LATA,Comestibles,Refrescos y Bebidas,Unidad,1,0.86,0.46
+S1-12-001-970096,107884,11/23/2009 16:31,Tienda Principal,220,Kaitlyn Patterson,0,1,7/27/1970,Soltero/a,Más de 70mil,AQUARIUS NARANJA PET 500ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.3,0.83
+S1-12-001-971195,109452,11/30/2009 17:14,Tienda Principal,220,Jamie Li,0,1,9/27/1971,Casado/a,Entre 20 y 40mil,BARRA PAN DE MEDIO,Comestibles,Alimentacion,Unidad,1,1.06,0.95
+S1-12-001-971219,109447,11/20/2009 16:49,Tienda Principal,220,Charles Phillips,1,0,5/7/1971,Casado/a,Más de 70mil,REVISTA COSMOPOLITAN,No comestibles,Prensa y Revistas,Unidad,1,2.45,2.98
+S1-12-001-971219,109448,12/22/2009 12:03,Tienda Principal,220,Charles Phillips,1,0,5/7/1971,Casado/a,Más de 70mil,PROMOCIONES PRENSA 21% IVA,No comestibles,Prensa y Revistas,Unidad,1,0.69,0.83
+S1-12-001-972420,111316,12/23/2009 10:19,Tienda Principal,220,Nathaniel Cooper,1,0,10/13/1955,Casado/a,Entre 40 y 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-001-972420,111318,11/17/2009 13:04,Tienda Principal,220,Nathaniel Cooper,1,0,10/13/1955,Casado/a,Entre 40 y 70mil,STICK MENTA TRIDENT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.44
+S1-12-001-973429,112924,12/23/2009 9:37,Tienda Principal,220,Amanda Gray,0,1,2/22/1961,Soltero/a,Entre 40 y 70mil,CASTROL 2T 125ML,No comestibles,Productos Varios,Unidad,1,1.62,0.94
+S1-12-001-973804,113243,11/5/2009 10:31,Tienda Principal,220,Bianca Guo,0,1,2/3/1960,Casado/a,Entre 40 y 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,2,1.42,0.85
+S1-12-001-977322,118527,12/21/2009 13:03,Tienda Principal,220,Sebastian Stewart,1,0,9/21/1972,Soltero/a,Más de 70mil,RED BULL S/AZUCAR 25CL,Comestibles,Refrescos y Bebidas,Unidad,2,3.62,2.39
+S1-12-001-977322,118528,12/29/2009 19:11,Tienda Principal,220,Sebastian Stewart,1,0,9/21/1972,Soltero/a,Más de 70mil,COCA COLA ZERO LATA 33CL,Comestibles,Refrescos y Bebidas,Unidad,1,0.9,0.56
+S1-12-001-977545,118873,11/12/2009 17:27,Tienda Principal,220,Alexandria Rogers,0,1,3/8/1973,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-001-977967,119596,7/31/2009 18:47,Tienda Principal,220,Alexandria Rogers,0,1,3/8/1973,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-001-978255,119988,1/11/2010 12:43,Tienda Principal,220,Amanda Gray,0,1,2/22/1961,Soltero/a,Entre 40 y 70mil,CASTROL 2T 125ML,No comestibles,Productos Varios,Unidad,1,1.62,0.94
+S1-12-001-979699,122409,12/26/2009 19:42,Tienda Principal,220,Alexandria Rogers,0,1,3/8/1973,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-001-981121,124238,12/21/2009 17:31,Tienda Principal,220,Wyatt Powell,1,0,8/12/1954,Casado/a,Entre 40 y 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-001-982540,126333,1/13/2010 12:50,Tienda Principal,220,Nathaniel Cooper,1,0,10/13/1955,Casado/a,Entre 40 y 70mil,STICK CLOROFILA TRIDENT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.44
+S1-12-001-982964,127017,11/10/2009 20:12,Tienda Principal,220,Bonnie Raji,0,1,1/12/1944,Casado/a,Entre 40 y 70mil,GRAGEA MENTA TRIDENT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,0.79,0.46
+S1-12-001-984650,129415,12/4/2009 16:32,Tienda Principal,220,Charles Richardson,1,0,11/7/1961,Casado/a,Entre 40 y 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-001-984650,129416,8/28/2009 11:27,Tienda Principal,220,Charles Richardson,1,0,11/7/1961,Casado/a,Entre 40 y 70mil,ANTICONGELANTE 10% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,5.33,3.62
+S1-12-001-992960,142056,1/14/2010 18:10,Tienda Principal,220,Isaiah Perez,1,0,12/8/1970,Casado/a,Más de 70mil,CHOCO EXTRAFINO LECHE 150GR,Comestibles,Golosinas y Chocolates,Unidad,1,1.18,0.86
+S1-12-001-995707,145988,7/9/2009 18:02,Tienda Principal,220,Sebastian Stewart,1,0,9/21/1972,Soltero/a,Más de 70mil,BARRA PAN DE KILO,Comestibles,Alimentacion,Unidad,1,1.56,1.5
+S1-12-001-996095,146528,10/20/2009 17:33,Tienda Principal,220,Melissa Washington,0,1,4/10/1964,Casado/a,Entre 40 y 70mil,DONUTS BOMBON 2 94GR,Comestibles,Golosinas y Chocolates,Unidad,1,1.73,1.13
+S1-12-001-997125,148350,2/5/2010 18:57,Tienda Principal,220,Aaron Wang,1,0,9/5/1973,Soltero/a,Más de 70mil,NESTLE SNACK MILKIBAR 33GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.39,0.24
+S1-12-001-997350,148695,9/18/2009 9:35,Tienda Principal,220,Isaiah Perez,1,0,12/8/1970,Casado/a,Más de 70mil,SANDWICH MIXTO 120GR,Comestibles,Alimentacion,Unidad,1,1.77,1.21
+S1-12-001-997350,148696,8/27/2009 19:07,Tienda Principal,220,Isaiah Perez,1,0,12/8/1970,Casado/a,Más de 70mil,FANTA LIMON LATA 33CL,Comestibles,Refrescos y Bebidas,Unidad,1,0.91,0.51
+S1-12-001-997798,149055,12/16/2009 16:56,Tienda Principal,220,Jamie Li,0,1,9/27/1971,Casado/a,Entre 20 y 40mil,AGUA LANJARON (HERCULES) 750CL,Comestibles,Refrescos y Bebidas,Unidad,2,1.57,1.07
+S1-12-001-997798,149056,1/11/2010 17:56,Tienda Principal,220,Jamie Li,0,1,9/27/1971,Casado/a,Entre 20 y 40mil,FIVE PULSE CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,1.5,0.93
+S1-12-001-997798,149057,,Tienda Principal,220,Jamie Li,0,1,9/27/1971,Casado/a,Entre 20 y 40mil,FIVE TURBULENCE CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,1.5,0.94
+S1-12-003-1000759,174990,12/22/2009 13:32,Tienda Murcia 01,135,Kaitlyn Scott,0,1,11/14/1973,Casado/a,Más de 70mil,TRATAM.INVIERNO DIESEL 1LT 3CV,No comestibles,Productos Varios,Unidad,1,12.89,11.65
+S1-12-003-1030719,356163,9/11/2009 12:59,Tienda Murcia 01,135,Caleb Flores,1,0,6/12/1972,Casado/a,Más de 70mil,AGUA DESTILADA 1L QUICESA,No comestibles,Productos Varios,Unidad,4,3.17,1.85
+S1-12-003-1033969,370919,9/11/2009 13:00,Tienda Murcia 01,135,Cody James,1,0,11/16/1965,Soltero/a,Entre 40 y 70mil,ANTICONGELANTE ORGANICO 50% 5L,No comestibles,Productos Varios,Unidad,1,14.04,8.97
+S1-12-003-1033969,370920,10/27/2009 13:37,Tienda Murcia 01,135,Cody James,1,0,11/16/1965,Soltero/a,Entre 40 y 70mil,LAVAPARABRISAS 7% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,4.97,2.81
+S1-12-003-1045724,430912,1/22/2010 16:26,Tienda Murcia 01,135,Jack Green,1,0,11/4/1942,Casado/a,Más de 70mil,"AGUA AQUAFINA PET 1,5L",Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.37
+S1-12-003-1074975,590325,12/4/2009 13:59,Tienda Murcia 01,135,Luke Powell,1,0,9/13/1965,Soltero/a,Entre 40 y 70mil,GUANTE SERRAJE/CUPRON GRS/BLNC,No comestibles,Vestido,Unidad,1,2.09,1.3
+S1-12-003-1113132,845149,2/8/2010 9:47,Tienda Murcia 01,135,Adriana Madan,0,1,6/11/1980,Soltero/a,Más de 70mil,VANELLUS MAX DRAIN 10W40 5L,No comestibles,Productos Varios,Unidad,1,31.58,22.06
+S1-12-003-1118038,866894,10/26/2009 17:30,Tienda Murcia 01,135,Wesley Zheng,1,0,2/12/1966,Casado/a,Hasta 20mil,LAVAPARABRISAS 7% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,4.71,2.89
+S1-12-003-1139767,958214,2/25/2010 17:09,Tienda Murcia 01,135,Adriana Madan,0,1,6/11/1980,Soltero/a,Más de 70mil,GUANTE PIEL FLOR GRIS,No comestibles,Vestido,Unidad,2,6.11,4.53
+S1-12-003-1145052,979612,3/4/2010 19:51,Tienda Murcia 01,135,Wesley Zheng,1,0,2/12/1966,Casado/a,Hasta 20mil,GUANTE PIEL FLOR GRIS,No comestibles,Vestido,Unidad,1,3.06,2.27
+S1-12-005-2266776,4571,10/20/2009 19:52,Tienda Alicante 01,200,Ruben Subram,1,0,7/22/1970,Casado/a,Más de 70mil,COCA COLA LATA 33CL,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.47
+S1-12-005-2268587,8959,3/16/2010 12:34,Tienda Alicante 01,200,Jenny Xu,0,1,3/20/1971,Casado/a,Más de 70mil,PALMERA BLACK 110GR,Comestibles,Golosinas y Chocolates,Unidad,1,1.33,0.93
+S1-12-005-2269550,17784,2/19/2010 12:18,Tienda Alicante 01,200,Abigail Foster,0,1,5/16/1959,Soltero/a,Entre 40 y 70mil,REVISTA AUTO BILD,No comestibles,Prensa y Revistas,Unidad,1,1.06,0.89
+S1-12-005-2269873,20115,3/1/2010 9:34,Tienda Alicante 01,200,Oscar Russell,1,0,3/11/1975,Soltero/a,Más de 70mil,ORBIT MENTA CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.41
+S1-12-005-2274296,49939,12/14/2009 10:11,Tienda Alicante 01,200,Jenny Xu,0,1,3/20/1971,Casado/a,Más de 70mil,DONETTES CLASICOS 7+2,Comestibles,Golosinas y Chocolates,Unidad,1,2.05,1.35
+S1-12-005-2278574,74960,2/19/2010 11:58,Tienda Alicante 01,200,Alejandro Lal,1,0,2/2/1973,Casado/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2278599,74955,12/3/2009 10:06,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2278625,74957,11/27/2009 0:00,Tienda Alicante 01,200,Jon Sun,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2278808,76834,3/26/2010 11:49,Tienda Alicante 01,200,Brandi Gill,0,1,2/8/1967,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2280693,88422,2/18/2010 18:46,Tienda Alicante 01,200,Kyle Phillips,1,0,4/24/1973,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2280782,88415,11/30/2009 0:00,Tienda Alicante 01,200,Lauren Thompson,0,1,7/22/1957,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2280814,88425,11/30/2009 0:00,Tienda Alicante 01,200,Ruben Subram,1,0,7/22/1970,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2280828,88417,3/5/2010 18:38,Tienda Alicante 01,200,Eddie Munoz,1,0,11/12/1958,Casado/a,Entre 20 y 40mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2280941,88419,3/8/2010 17:36,Tienda Alicante 01,200,Logan Turner,1,0,11/13/1975,Casado/a,Más de 70mil,REVISTA AUTO BILD,No comestibles,Prensa y Revistas,Unidad,1,1.06,1.2
+S1-12-005-2280941,88420,3/8/2010 17:38,Tienda Alicante 01,200,Logan Turner,1,0,11/13/1975,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2281127,89064,3/17/2010 19:14,Tienda Alicante 01,200,Kaitlyn Perez,0,1,6/5/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2281195,90404,3/17/2010 19:20,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2281391,90408,3/17/2010 19:25,Tienda Alicante 01,200,Emily Robinson,0,1,10/26/1970,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2281397,90406,3/20/2010 11:33,Tienda Alicante 01,200,Brandi Gill,0,1,2/8/1967,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2281432,91887,3/20/2010 11:37,Tienda Alicante 01,200,Alejandro Lal,1,0,2/2/1973,Casado/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2281977,94859,3/20/2010 11:38,Tienda Alicante 01,200,Abigail Foster,0,1,5/16/1959,Soltero/a,Entre 40 y 70mil,CHUNKY KIT-KAT 48GR,Comestibles,Golosinas y Chocolates,Unidad,1,1.02,0.69
+S1-12-005-2281977,94861,3/17/2010 19:09,Tienda Alicante 01,200,Abigail Foster,0,1,5/16/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2282065,94864,1/29/2010 19:47,Tienda Alicante 01,200,Gabriella Lopez,0,1,10/15/1966,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2282294,95284,2/10/2010 13:58,Tienda Alicante 01,200,Levi Chandra,1,0,11/8/1958,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2282429,95537,3/26/2010 20:02,Tienda Alicante 01,200,Jenny Xu,0,1,3/20/1971,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2282522,95535,11/23/2009 17:35,Tienda Alicante 01,200,Shawna Xie,0,1,5/19/1979,Casado/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2282603,97582,1/15/2010 18:17,Tienda Alicante 01,200,Alejandro Lal,1,0,2/2/1973,Casado/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2282617,97584,3/24/2010 18:51,Tienda Alicante 01,200,Alejandro Lal,1,0,2/2/1973,Casado/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2282635,97579,4/20/2010 10:09,Tienda Alicante 01,200,Abigail Foster,0,1,5/16/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2282715,97586,3/29/2010 12:04,Tienda Alicante 01,200,Felicia Vazquez,0,1,2/19/1971,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2283020,98505,2/18/2010 19:43,Tienda Alicante 01,200,Logan Patterson,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2283290,99226,3/16/2010 13:47,Tienda Alicante 01,200,Alejandro Lal,1,0,2/2/1973,Casado/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2283323,99947,1/21/2010 17:23,Tienda Alicante 01,200,Chloe White,0,1,10/12/1959,Casado/a,Entre 40 y 70mil,BANDEJA DE PERRUNAS,Comestibles,Golosinas y Chocolates,Unidad,1,3.77,2.55
+S1-12-005-2283323,99949,12/29/2009 17:08,Tienda Alicante 01,200,Chloe White,0,1,10/12/1959,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2283487,100826,12/17/2009 9:52,Tienda Alicante 01,200,Chloe White,0,1,10/12/1959,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2283597,101472,3/29/2010 18:28,Tienda Alicante 01,200,Eddie Munoz,1,0,11/12/1958,Casado/a,Entre 20 y 40mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-005-2283787,102881,11/24/2009 13:54,Tienda Alicante 01,200,Ruben Subram,1,0,7/22/1970,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2284056,104788,11/27/2009 13:20,Tienda Alicante 01,200,Alejandro Lal,1,0,2/2/1973,Casado/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2284226,106149,12/16/2009 13:23,Tienda Alicante 01,200,Jaclyn Zhang,0,1,11/24/1973,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2284464,106154,3/27/2010 13:22,Tienda Alicante 01,200,Victor Romero,1,0,2/27/1984,Casado/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2284896,109640,4/27/2010 16:12,Tienda Alicante 01,200,Alejandro Lal,1,0,2/2/1973,Casado/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2285032,109636,12/2/2009 0:00,Tienda Alicante 01,200,Levi Chandra,1,0,11/8/1958,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2285385,111288,2/2/2010 18:49,Tienda Alicante 01,200,Chloe White,0,1,10/12/1959,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2285593,112767,4/29/2010 13:45,Tienda Alicante 01,200,Alejandro Lal,1,0,2/2/1973,Casado/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2285661,112766,5/7/2010 12:06,Tienda Alicante 01,200,Jon Sun,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2285988,115098,1/18/2010 18:27,Tienda Alicante 01,200,Alejandro Lal,1,0,2/2/1973,Casado/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2286634,120276,3/18/2010 18:42,Tienda Alicante 01,200,Alejandro Lal,1,0,2/2/1973,Casado/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2286836,128147,11/25/2009 14:26,Tienda Alicante 01,200,Gabriella Lopez,0,1,10/15/1966,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2287006,125121,3/27/2010 13:14,Tienda Alicante 01,200,Kyle Phillips,1,0,4/24/1973,Casado/a,Más de 70mil,AQUARIUS LATA 33CL,Comestibles,Refrescos y Bebidas,Unidad,1,1.02,0.6
+S1-12-005-2287262,120748,5/18/2010 18:50,Tienda Alicante 01,200,Savannah Carter,0,1,7/5/1958,Casado/a,Entre 20 y 40mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2287298,120752,4/13/2010 11:16,Tienda Alicante 01,200,Ashley Thomas,0,1,5/23/1970,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2287298,120753,3/10/2010 17:49,Tienda Alicante 01,200,Ashley Thomas,0,1,5/23/1970,Soltero/a,Más de 70mil,SMINT MENTA 8GR,Comestibles,Golosinas y Chocolates,Unidad,1,1.8,1.15
+S1-12-005-2287431,120750,4/21/2010 13:38,Tienda Alicante 01,200,Levi Chandra,1,0,11/8/1958,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2288002,121695,3/6/2010 11:21,Tienda Alicante 01,200,Victor Romero,1,0,2/27/1984,Casado/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2288103,126308,3/10/2010 13:48,Tienda Alicante 01,200,Sydney Hall,0,1,11/18/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2288103,126309,4/9/2010 16:51,Tienda Alicante 01,200,Sydney Hall,0,1,11/18/1959,Soltero/a,Entre 40 y 70mil,BARRA RUSTICA,Comestibles,Alimentacion,Unidad,10,7.35,4.42
+S1-12-005-2288145,126311,3/16/2010 16:21,Tienda Alicante 01,200,Fernando Taylor,1,0,4/11/1967,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2288242,126314,3/9/2010 20:05,Tienda Alicante 01,200,Emily Robinson,0,1,10/26/1970,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2288363,127420,3/9/2010 10:52,Tienda Alicante 01,200,Abigail Foster,0,1,5/16/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2288411,127418,5/28/2010 17:34,Tienda Alicante 01,200,Jon Sun,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2288672,128001,5/28/2010 17:28,Tienda Alicante 01,200,Kevin Campbell,1,0,3/27/1965,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2289344,131413,2/17/2010 10:02,Tienda Alicante 01,200,Dalton Edwards,1,0,9/12/1971,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2289993,134953,2/19/2010 18:34,Tienda Alicante 01,200,Kevin Campbell,1,0,3/27/1965,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2290017,138755,2/23/2010 13:10,Tienda Alicante 01,200,Dalton Edwards,1,0,9/12/1971,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2290122,138745,3/5/2010 9:15,Tienda Alicante 01,200,Brandi Gill,0,1,2/8/1967,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2290135,138753,5/15/2010 17:38,Tienda Alicante 01,200,Noah Butler,1,0,4/13/1973,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2290158,138747,3/10/2010 10:53,Tienda Alicante 01,200,Kelly Jenkins,0,1,11/10/1975,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2290171,138748,4/23/2010 18:26,Tienda Alicante 01,200,Kelly Jenkins,0,1,11/10/1975,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2290251,138751,5/3/2010 19:57,Tienda Alicante 01,200,Jaclyn Zhang,0,1,11/24/1973,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2290414,140037,4/14/2010 15:39,Tienda Alicante 01,200,Jon Sun,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2290711,142350,6/14/2010 11:05,Tienda Alicante 01,200,Dalton Edwards,1,0,9/12/1971,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2290786,142352,4/13/2010 10:17,Tienda Alicante 01,200,Ashley Thomas,0,1,5/23/1970,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2290882,142348,5/27/2010 13:11,Tienda Alicante 01,200,Austin Griffin,1,0,2/25/1958,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2290963,143612,6/21/2010 17:31,Tienda Alicante 01,200,Austin White,1,0,2/9/1958,Casado/a,Entre 20 y 40mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.48
+S1-12-005-2291123,143615,6/21/2010 12:01,Tienda Alicante 01,200,Jon Sun,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2291991,148381,6/14/2010 9:50,Tienda Alicante 01,200,Ruben Subram,1,0,7/22/1970,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2292546,151479,6/22/2010 18:37,Tienda Alicante 01,200,Chloe White,0,1,10/12/1959,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2292599,151482,6/2/2010 10:04,Tienda Alicante 01,200,Kyle Phillips,1,0,4/24/1973,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2292991,153248,6/10/2010 12:57,Tienda Alicante 01,200,Abigail Foster,0,1,5/16/1959,Soltero/a,Entre 40 y 70mil,PAÑUELOS COLHOGAR 6X10,No comestibles,Drogueria y Perfumeria,Unidad,1,0.94,0.43
+S1-12-005-2293014,153246,5/14/2010 15:25,Tienda Alicante 01,200,Sydney Hall,0,1,11/18/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2293025,153250,6/28/2010 0:00,Tienda Alicante 01,200,Fernando Taylor,1,0,4/11/1967,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2293470,154652,6/25/2010 17:32,Tienda Alicante 01,200,Sean Allen,1,0,11/13/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2293693,156913,6/18/2010 11:21,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2293694,156918,6/21/2010 12:32,Tienda Alicante 01,200,Nathan Gonzales,1,0,8/15/1960,Casado/a,Entre 20 y 40mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2293695,156915,6/14/2010 12:03,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2294016,157846,6/30/2010 18:26,Tienda Alicante 01,200,Levi Chandra,1,0,11/8/1958,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2294405,159832,3/22/2010 19:10,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2294418,159834,5/25/2010 11:49,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2294677,160921,5/25/2010 16:55,Tienda Alicante 01,200,Oscar Russell,1,0,3/11/1975,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2294699,160919,6/12/2010 13:28,Tienda Alicante 01,200,Brandi Gill,0,1,2/8/1967,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2294805,160917,5/11/2010 17:44,Tienda Alicante 01,200,Logan Patterson,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2295582,164455,5/11/2010 13:56,Tienda Alicante 01,200,Chloe White,0,1,10/12/1959,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2296466,168687,6/12/2010 13:53,Tienda Alicante 01,200,Isaiah Baker,1,0,6/8/1960,Casado/a,Entre 20 y 40mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2296907,171776,4/17/2010 11:30,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2297764,175489,7/5/2010 17:34,Tienda Alicante 01,200,Chloe White,0,1,10/12/1959,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2298108,177714,6/21/2010 16:05,Tienda Alicante 01,200,Logan Patterson,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2298455,179292,6/30/2010 17:51,Tienda Alicante 01,200,Jon Sun,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2298675,180037,7/20/2010 9:34,Tienda Alicante 01,200,Gabrielle Morris,0,1,12/6/1974,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2298821,181812,3/22/2010 12:37,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2298877,181817,4/19/2010 16:52,Tienda Alicante 01,200,Mayra Martinez,0,1,8/26/1967,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2299000,181814,7/19/2010 17:59,Tienda Alicante 01,200,Kyle Phillips,1,0,4/24/1973,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2299132,195233,4/19/2010 9:02,Tienda Alicante 01,200,Mindy Yuan,0,1,8/6/1948,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2299584,184908,4/30/2010 12:23,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2299587,184910,7/10/2010 13:36,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2299611,184914,7/26/2010 12:31,Tienda Alicante 01,200,Sydney Hall,0,1,11/18/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2299688,184912,7/1/2010 10:21,Tienda Alicante 01,200,Tyler Rodriguez,1,0,12/25/1957,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2299885,186141,7/14/2010 19:06,Tienda Alicante 01,200,Felicia Vazquez,0,1,2/19/1971,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2300626,190052,6/25/2010 18:50,Tienda Alicante 01,200,Ashley Thomas,0,1,5/23/1970,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2301144,192463,7/8/2010 12:09,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2301156,192465,7/23/2010 20:22,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2301186,192467,7/23/2010 17:19,Tienda Alicante 01,200,Logan Patterson,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2301520,194438,4/20/2010 13:15,Tienda Alicante 01,200,Jon Sun,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2301553,194440,8/23/2010 18:46,Tienda Alicante 01,200,Chloe White,0,1,10/12/1959,Casado/a,Entre 40 y 70mil,PANES 1/2KG,Comestibles,Alimentacion,Unidad,1,1.31,0.89
+S1-12-005-2301553,194441,8/4/2010 18:10,Tienda Alicante 01,200,Chloe White,0,1,10/12/1959,Casado/a,Entre 40 y 70mil,PET 3LT LINAROLIVA,Comestibles,Alimentacion,Unidad,1,10.63,9.14
+S1-12-005-2301563,194436,8/6/2010 13:57,Tienda Alicante 01,200,Sean Allen,1,0,11/13/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2301684,195046,8/31/2010 14:59,Tienda Alicante 01,200,Kendra Gill,0,1,6/6/1951,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2301832,196077,6/25/2010 13:10,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2301858,196083,9/8/2010 19:25,Tienda Alicante 01,200,Hailey Adams,0,1,7/24/1966,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2301929,196081,5/22/2010 17:41,Tienda Alicante 01,200,Chloe White,0,1,10/12/1959,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2301938,196079,9/6/2010 18:21,Tienda Alicante 01,200,Caitlin Brooks,0,1,2/27/1958,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2302348,198437,11/25/2009 13:26,Tienda Alicante 01,200,Kendra Gill,0,1,6/6/1951,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2302466,199863,6/29/2010 17:34,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2302929,201544,6/28/2010 13:04,Tienda Alicante 01,200,Kyle Phillips,1,0,4/24/1973,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2303072,201991,10/6/2010 14:49,Tienda Alicante 01,200,Dominique Sanchez,0,1,2/19/1950,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2304631,208333,8/26/2010 17:46,Tienda Alicante 01,200,Wesley Liang,1,0,6/14/1968,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2305486,213035,6/24/2010 13:45,Tienda Alicante 01,200,Kevin Campbell,1,0,3/27/1965,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2305489,213036,4/12/2010 19:03,Tienda Alicante 01,200,Victor Romero,1,0,2/27/1984,Casado/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2306080,217335,9/2/2010 10:24,Tienda Alicante 01,200,Kendra Gill,0,1,6/6/1951,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2306155,217333,10/13/2010 11:28,Tienda Alicante 01,200,Kevin Campbell,1,0,3/27/1965,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2307318,224643,7/29/2010 13:27,Tienda Alicante 01,200,Taylor Patterson,0,1,12/28/1974,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2307385,224641,7/5/2010 17:40,Tienda Alicante 01,200,Kaitlyn Perez,0,1,6/5/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2307482,226025,10/15/2010 16:58,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2307486,226032,10/20/2010 13:38,Tienda Alicante 01,200,Abigail Foster,0,1,5/16/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2307489,226027,7/27/2010 18:54,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2307551,226030,10/13/2010 13:01,Tienda Alicante 01,200,Logan Patterson,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2308174,228522,7/8/2010 19:21,Tienda Alicante 01,200,Gabrielle Morris,0,1,12/6/1974,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2308288,229820,10/18/2010 12:30,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2308312,229825,4/30/2010 18:14,Tienda Alicante 01,200,Mayra Martinez,0,1,8/26/1967,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2308578,231246,,Tienda Alicante 01,200,Brandi Gill,0,1,2/8/1967,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,125486512,0.92
+S1-12-005-2308753,231248,10/27/2010 11:34,Tienda Alicante 01,200,Gabrielle Morris,0,1,12/6/1974,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2309637,235416,7/22/2010 11:30,Tienda Alicante 01,200,Lauren Thompson,0,1,7/22/1957,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2309639,235420,9/21/2010 10:23,Tienda Alicante 01,200,Katelyn Sanders,0,1,8/21/1946,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2309695,235418,11/18/2010 13:27,Tienda Alicante 01,200,Abigail Howard,0,1,11/16/1971,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2310292,239291,11/24/2010 18:41,Tienda Alicante 01,200,Caleb Simmons,1,0,2/4/1964,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2311650,244419,11/24/2010 19:06,Tienda Alicante 01,200,Fernando Taylor,1,0,4/11/1967,Casado/a,Más de 70mil,MENTOS COLA 40GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.79,0.45
+S1-12-005-2311650,244420,11/8/2010 19:45,Tienda Alicante 01,200,Fernando Taylor,1,0,4/11/1967,Casado/a,Más de 70mil,TAB MENTA ORBIT WHITE CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,1.26,0.77
+S1-12-005-2312629,260762,11/19/2010 17:06,Tienda Alicante 01,200,Jon Sun,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2312830,249133,11/16/2010 9:51,Tienda Alicante 01,200,Kendra Gill,0,1,6/6/1951,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2315012,260159,10/6/2010 14:52,Tienda Alicante 01,200,Ashley Thomas,0,1,5/23/1970,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2315025,260149,9/28/2010 13:20,Tienda Alicante 01,200,Levi Chandra,1,0,11/8/1958,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2315072,260152,11/25/2010 11:16,Tienda Alicante 01,200,Logan Patterson,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2315641,263428,11/11/2010 17:11,Tienda Alicante 01,200,Kevin Campbell,1,0,3/27/1965,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2315741,268970,11/12/2010 17:23,Tienda Alicante 01,200,Aidan Perry,1,0,8/7/1957,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2316170,265462,11/20/2010 15:52,Tienda Alicante 01,200,Abigail Foster,0,1,5/16/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2316208,265457,10/20/2010 12:55,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2316209,265459,6/30/2010 18:33,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2317509,271806,12/9/2010 12:45,Tienda Alicante 01,200,Levi Chandra,1,0,11/8/1958,Casado/a,Entre 40 y 70mil,NESTEA LIMON LATA 33 CL.,Comestibles,Refrescos y Bebidas,Unidad,1,0.99,0.6
+S1-12-005-2320843,288313,11/23/2010 17:34,Tienda Alicante 01,200,Sean Allen,1,0,11/13/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2324143,300422,11/23/2010 15:32,Tienda Alicante 01,200,Kevin Campbell,1,0,3/27/1965,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2325134,304254,11/30/2010 14:06,Tienda Alicante 01,200,Chloe White,0,1,10/12/1959,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2327018,312954,12/7/2010 20:17,Tienda Alicante 01,200,Sydney Hall,0,1,11/18/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2327018,312955,10/14/2010 12:13,Tienda Alicante 01,200,Sydney Hall,0,1,11/18/1959,Soltero/a,Entre 40 y 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2327245,325538,12/22/2010 15:49,Tienda Alicante 01,200,Clarence Zeng,1,0,2/25/1964,Casado/a,Hasta 20mil,ORBIT MENTA CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-005-2331306,335211,11/24/2010 11:16,Tienda Alicante 01,200,Ruben Subram,1,0,7/22/1970,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2333896,348852,10/4/2010 10:20,Tienda Alicante 01,200,Caleb Simmons,1,0,2/4/1964,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2334448,356699,12/28/2010 14:55,Tienda Alicante 01,200,Keith Raje,1,0,6/1/1961,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2335102,354131,11/11/2010 10:17,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2335103,354133,1/19/2011 9:43,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,-1,-0.79,-0.92
+S1-12-005-2335104,354135,1/5/2011 18:07,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2335548,355175,10/27/2010 19:37,Tienda Alicante 01,200,Levi Chandra,1,0,11/8/1958,Casado/a,Entre 40 y 70mil,SENSES RAINFOREST MINT TRIDENT,Comestibles,Golosinas y Chocolates,Unidad,1,1.5,0.9
+S1-12-005-2335548,355176,1/11/2011 17:02,Tienda Alicante 01,200,Levi Chandra,1,0,11/8/1958,Casado/a,Entre 40 y 70mil,HALLS S/A EUCALIPTO MENTOLADO,Comestibles,Golosinas y Chocolates,Unidad,1,1.18,0.71
+S1-12-005-2337247,362668,1/24/2011 17:44,Tienda Alicante 01,200,Lauren Sanchez,0,1,10/12/1956,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2338085,366892,12/30/2010 13:40,Tienda Alicante 01,200,Kevin Campbell,1,0,3/27/1965,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2338206,366894,12/4/2010 17:17,Tienda Alicante 01,200,Ruben Subram,1,0,7/22/1970,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2338748,370132,1/28/2011 12:38,Tienda Alicante 01,200,Jon Sun,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2340371,376623,1/20/2011 18:32,Tienda Alicante 01,200,Alejandro Lal,1,0,2/2/1973,Casado/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2343778,391618,10/26/2010 18:38,Tienda Alicante 01,200,Caleb Simmons,1,0,2/4/1964,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2344125,392179,10/27/2010 21:40,Tienda Alicante 01,200,Savannah Carter,0,1,7/5/1958,Casado/a,Entre 20 y 40mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2344603,394639,11/24/2010 18:36,Tienda Alicante 01,200,Kyle Phillips,1,0,4/24/1973,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2344603,394641,11/24/2010 18:34,Tienda Alicante 01,200,Kyle Phillips,1,0,4/24/1973,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2344970,396927,12/7/2010 17:24,Tienda Alicante 01,200,Chloe White,0,1,10/12/1959,Casado/a,Entre 40 y 70mil,QUE SE LE PUEDE PEDIR A LA VID,No comestibles,Papeleria y Libreria,Unidad,1,8.95,6.19
+S1-12-005-2345603,398676,2/1/2011 18:22,Tienda Alicante 01,200,Savannah Carter,0,1,7/5/1958,Casado/a,Entre 20 y 40mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2345773,400510,1/14/2011 12:09,Tienda Alicante 01,200,Caitlin Brooks,0,1,2/27/1958,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2345981,401787,2/18/2011 14:43,Tienda Alicante 01,200,Donna Rai,0,1,5/26/1948,Casado/a,Entre 20 y 40mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2346398,404296,1/10/2011 19:30,Tienda Alicante 01,200,Nathaniel Richardson,1,0,10/24/1957,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2346419,404299,11/23/2010 17:21,Tienda Alicante 01,200,Jaclyn Zhang,0,1,11/24/1973,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2346420,404292,2/26/2011 14:41,Tienda Alicante 01,200,Grace Sanchez,0,1,6/9/1956,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2347253,406975,2/28/2011 12:15,Tienda Alicante 01,200,Bailey Bailey,0,1,9/19/1958,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2348328,412392,2/28/2011 12:21,Tienda Alicante 01,200,Chloe White,0,1,10/12/1959,Casado/a,Entre 40 y 70mil,PANTALON CHANDAL ALGODON 100%,No comestibles,Vestido,Unidad,1,8.61,6.21
+S1-12-005-2349047,415224,2/15/2011 12:21,Tienda Alicante 01,200,Clarence Zeng,1,0,2/25/1964,Casado/a,Hasta 20mil,ORBIT MENTA CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.41
+S1-12-005-2349300,415226,2/15/2011 16:05,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.01
+S1-12-005-2349300,415227,2/9/2011 18:32,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,BURN LATA 250ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.54,1.06
+S1-12-005-2349542,416765,11/23/2010 15:06,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-005-2349985,418214,1/11/2011 19:08,Tienda Alicante 01,200,Tyler Rodriguez,1,0,12/25/1957,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2351281,425915,11/24/2010 10:45,Tienda Alicante 01,200,Clarence Zeng,1,0,2/25/1964,Casado/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2352869,440236,11/24/2010 20:18,Tienda Alicante 01,200,Mindy Yuan,0,1,8/6/1948,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2353500,434866,1/18/2011 19:16,Tienda Alicante 01,200,Madison Long,0,1,10/2/1948,Soltero/a,Más de 70mil,MIX 5 120GR GREFUSA,Comestibles,Snacks y Aperitivos,Unidad,1,1.3,0.85
+S1-12-005-2353500,434867,3/2/2011 12:54,Tienda Alicante 01,200,Madison Long,0,1,10/2/1948,Soltero/a,Más de 70mil,BOCABITS 84GR MATUTANO,Comestibles,Snacks y Aperitivos,Unidad,1,1.73,1.18
+S1-12-005-2354066,437838,2/28/2011 14:18,Tienda Alicante 01,200,Clarence Zeng,1,0,2/25/1964,Casado/a,Hasta 20mil,ORBIT MENTA CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.41
+S1-12-005-2354665,443041,2/16/2011 16:30,Tienda Alicante 01,200,Alejandro Lal,1,0,2/2/1973,Casado/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-005-2355972,446230,11/24/2010 19:21,Tienda Alicante 01,200,Savannah Carter,0,1,7/5/1958,Casado/a,Entre 20 y 40mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2357868,453717,11/23/2010 14:45,Tienda Alicante 01,200,Clarence Zeng,1,0,2/25/1964,Casado/a,Hasta 20mil,ORBIT MENTA CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.41
+S1-12-005-2358631,456184,11/24/2010 18:52,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.95,0.01
+S1-12-005-2358631,456185,3/4/2011 18:57,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,SANDWICH CHORIZO 120GR,Comestibles,Alimentacion,Unidad,1,1.77,1.21
+S1-12-005-2359741,461532,12/29/2010 19:25,Tienda Alicante 01,200,Savannah Carter,0,1,7/5/1958,Casado/a,Entre 20 y 40mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2360423,466040,11/23/2010 17:35,Tienda Alicante 01,200,Savannah Carter,0,1,7/5/1958,Casado/a,Entre 20 y 40mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2360504,466044,3/8/2011 14:25,Tienda Alicante 01,200,Alejandro Lal,1,0,2/2/1973,Casado/a,Hasta 20mil,DONUTS GLACE 2 BLANCO 96GR,Comestibles,Golosinas y Chocolates,Unidad,1,1.54,1.05
+S1-12-005-2361132,468780,11/24/2010 19:35,Tienda Alicante 01,200,Alejandro Lal,1,0,2/2/1973,Casado/a,Hasta 20mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2362909,477800,1/5/2011 13:50,Tienda Alicante 01,200,Clarence Zeng,1,0,2/25/1964,Casado/a,Hasta 20mil,ORBIT MENTA CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.41
+S1-12-005-2363831,481157,3/11/2011 19:49,Tienda Alicante 01,200,Levi Chandra,1,0,11/8/1958,Casado/a,Entre 40 y 70mil,GRAGEA MENTA TRIDENT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,0.79,0.44
+S1-12-005-2365528,488911,11/23/2010 14:10,Tienda Alicante 01,200,Fernando Taylor,1,0,4/11/1967,Casado/a,Más de 70mil,MENTOS COLA 40GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.78,0.45
+S1-12-005-2365528,488912,2/8/2011 12:07,Tienda Alicante 01,200,Fernando Taylor,1,0,4/11/1967,Casado/a,Más de 70mil,MENTOS FRUTA 38GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.79,0.45
+S1-12-005-2367473,498959,3/17/2011 19:37,Tienda Alicante 01,200,Clarence Zeng,1,0,2/25/1964,Casado/a,Hasta 20mil,ORBIT MENTA CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.41
+S1-12-005-2368061,500575,3/2/2011 19:12,Tienda Alicante 01,200,Savannah Carter,0,1,7/5/1958,Casado/a,Entre 20 y 40mil,FIVE COBALT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,1.41,0.93
+S1-12-005-2368351,503092,4/29/2011 18:02,Tienda Alicante 01,200,Logan Turner,1,0,11/13/1975,Casado/a,Más de 70mil,COCA-COLA ZERO PET 50CL,Comestibles,Refrescos y Bebidas,Unidad,1,1.14,0.68
+S1-12-005-2371570,519639,4/28/2011 18:20,Tienda Alicante 01,200,Chloe White,0,1,10/12/1959,Casado/a,Entre 40 y 70mil,HOJALDRES BERMUDEZ,Comestibles,Golosinas y Chocolates,Unidad,3,20.31,15.53
+S1-12-005-2374430,532924,4/29/2011 17:29,Tienda Alicante 01,200,Clarence Zeng,1,0,2/25/1964,Casado/a,Hasta 20mil,ORBIT MENTA CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.41
+S1-12-005-2375106,534690,4/29/2011 17:39,Tienda Alicante 01,200,Savannah Carter,0,1,7/5/1958,Casado/a,Entre 20 y 40mil,FIVE ELECTRO CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,1.42,0.94
+S1-12-005-2375559,537204,5/11/2011 18:36,Tienda Alicante 01,200,Jaclyn Zhang,0,1,11/24/1973,Soltero/a,Más de 70mil,BAGUETTE,Comestibles,Alimentacion,Unidad,1,0.82,0.44
+S1-12-005-2375670,537593,11/24/2010 19:24,Tienda Alicante 01,200,Shawna Xie,0,1,5/19/1979,Casado/a,Hasta 20mil,BAGUETTE,Comestibles,Alimentacion,Unidad,2,1.63,0.89
+S1-12-005-2375670,537594,4/2/2011 20:27,Tienda Alicante 01,200,Shawna Xie,0,1,5/19/1979,Casado/a,Hasta 20mil,SALCHICHON L/85GR REVILLA,Comestibles,Alimentacion,Unidad,3,2.36,2.43
+S1-12-005-2375670,537596,4/29/2011 17:33,Tienda Alicante 01,200,Shawna Xie,0,1,5/19/1979,Casado/a,Hasta 20mil,FANTA NARANJA LATA 33CL,Comestibles,Refrescos y Bebidas,Unidad,2,1.81,1.02
+S1-12-005-2375715,537591,3/19/2011 19:10,Tienda Alicante 01,200,Logan Turner,1,0,11/13/1975,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2375844,538651,5/30/2011 16:36,Tienda Alicante 01,200,Logan Patterson,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2376396,541657,4/29/2011 17:47,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,ROCKSTAR ENERGY DRINK 250ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.42,0.78
+S1-12-005-2376396,541658,3/29/2011 15:09,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2376896,543323,5/13/2011 19:56,Tienda Alicante 01,200,Wendy Ramos,0,1,10/23/1971,Casado/a,Más de 70mil,FIVE COBALT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,2,2.83,1.87
+S1-12-005-2377020,544865,4/29/2011 17:20,Tienda Alicante 01,200,Clarence Zeng,1,0,2/25/1964,Casado/a,Hasta 20mil,ORBIT MENTA CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.41
+S1-12-005-2378775,552299,5/7/2011 14:31,Tienda Alicante 01,200,Donna Rai,0,1,5/26/1948,Casado/a,Entre 20 y 40mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2379203,553239,4/29/2011 17:24,Tienda Alicante 01,200,Emily Clark,0,1,8/13/1957,Soltero/a,Entre 40 y 70mil,VISCO 3000 10W40 1 LITRO,No comestibles,Productos Varios,Unidad,1,7.49,4.65
+S1-12-005-2379407,553649,12/20/2010 11:36,Tienda Alicante 01,200,Savannah Carter,0,1,7/5/1958,Casado/a,Entre 20 y 40mil,AQUARIUS NARANJA PET 500ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.3,0.83
+S1-12-005-2379407,553650,11/24/2010 20:08,Tienda Alicante 01,200,Savannah Carter,0,1,7/5/1958,Casado/a,Entre 20 y 40mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2380084,557946,5/26/2011 13:01,Tienda Alicante 01,200,Clarence Zeng,1,0,2/25/1964,Casado/a,Hasta 20mil,ORBIT MENTA CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.41
+S1-12-005-2380276,557948,4/29/2011 17:13,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,FANTA NARANJA PET 500ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.06,0.62
+S1-12-005-2381384,562577,11/24/2010 18:48,Tienda Alicante 01,200,Savannah Carter,0,1,7/5/1958,Casado/a,Entre 20 y 40mil,FIVE ELECTRO CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,1.41,0.94
+S1-12-005-2381409,563781,5/13/2011 20:24,Tienda Alicante 01,200,Wendy Ramos,0,1,10/23/1971,Casado/a,Más de 70mil,FIVE COBALT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,2,2.83,1.87
+S1-12-005-2381703,565027,5/31/2011 10:50,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,"HORCHATA ""CHUFI"" 1LT",Comestibles,Refrescos y Bebidas,Unidad,1,2.05,1.28
+S1-12-005-2381703,565028,4/28/2011 12:57,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,ORBIT MENTA CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.41
+S1-12-005-2381703,565029,6/7/2011 20:18,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2382457,568148,4/5/2011 18:42,Tienda Alicante 01,200,Ruben Subram,1,0,7/22/1970,Casado/a,Más de 70mil,PIPACHIC EJECUT.CHURRUCA 170GR,Comestibles,Snacks y Aperitivos,Unidad,1,1.26,0.86
+S1-12-005-2382457,568150,2/4/2011 13:59,Tienda Alicante 01,200,Ruben Subram,1,0,7/22/1970,Casado/a,Más de 70mil,MAPA EUROPA MICHELIN 2013,No comestibles,Papeleria y Libreria,Unidad,1,8.09,6
+S1-12-005-2382762,569200,4/29/2011 17:08,Tienda Alicante 01,200,Alejandro Lal,1,0,2/2/1973,Casado/a,Hasta 20mil,COCA COLA LATA 33CL,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.48
+S1-12-005-2382762,569201,6/2/2011 16:33,Tienda Alicante 01,200,Alejandro Lal,1,0,2/2/1973,Casado/a,Hasta 20mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2383101,569563,3/5/2011 11:08,Tienda Alicante 01,200,Oscar Russell,1,0,3/11/1975,Soltero/a,Más de 70mil,FIVE ELECTRO CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,1.41,0.94
+S1-12-005-2383101,569564,11/23/2010 17:36,Tienda Alicante 01,200,Oscar Russell,1,0,3/11/1975,Soltero/a,Más de 70mil,FIVE COBALT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,1.42,0.93
+S1-12-005-2383817,572332,2/22/2011 0:00,Tienda Alicante 01,200,Savannah Carter,0,1,7/5/1958,Casado/a,Entre 20 y 40mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2383817,572333,6/16/2011 16:40,Tienda Alicante 01,200,Savannah Carter,0,1,7/5/1958,Casado/a,Entre 20 y 40mil,FIVE ELECTRO CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,1.42,0.94
+S1-12-005-2383838,573955,2/9/2011 11:18,Tienda Alicante 01,200,Kevin Campbell,1,0,3/27/1965,Soltero/a,Entre 40 y 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2385120,581369,4/29/2011 12:02,Tienda Alicante 01,200,Clarence Zeng,1,0,2/25/1964,Casado/a,Hasta 20mil,ORBIT MENTA CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.41
+S1-12-005-2385943,584213,3/23/2011 15:43,Tienda Alicante 01,200,Fernando Taylor,1,0,4/11/1967,Casado/a,Más de 70mil,MENTOS FRUTA 38GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.79,0.45
+S1-12-005-2385943,584214,11/24/2010 10:53,Tienda Alicante 01,200,Fernando Taylor,1,0,4/11/1967,Casado/a,Más de 70mil,MENTOS COLA 40GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.78,0.45
+S1-12-005-2385943,584215,4/28/2011 17:19,Tienda Alicante 01,200,Fernando Taylor,1,0,4/11/1967,Casado/a,Más de 70mil,MENTOS FRESA 38GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.79,0.45
+S1-12-005-2387752,589603,11/23/2010 13:54,Tienda Alicante 01,200,Kevin Campbell,1,0,3/27/1965,Soltero/a,Entre 40 y 70mil,GUANTE PIEL FLOR GRIS,No comestibles,Vestido,Unidad,1,3.03,2.27
+S1-12-005-2389171,598212,5/27/2011 18:29,Tienda Alicante 01,200,Logan Patterson,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.41
+S1-12-005-2389587,599408,11/23/2010 13:40,Tienda Alicante 01,200,Kyle Phillips,1,0,4/24/1973,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2389587,599409,3/30/2011 11:49,Tienda Alicante 01,200,Kyle Phillips,1,0,4/24/1973,Casado/a,Más de 70mil,GRAGEA MENTA TRIDENT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,0.79,0.46
+S1-12-005-2389836,601086,5/14/2011 17:49,Tienda Alicante 01,200,Clarence Zeng,1,0,2/25/1964,Casado/a,Hasta 20mil,ORBIT MENTA CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.41
+S1-12-005-2390828,604073,4/12/2011 15:51,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,BATIDO CHOLECK CACAO 1L,Comestibles,Refrescos y Bebidas,Unidad,1,1.5,1.16
+S1-12-005-2390828,604074,11/23/2010 17:37,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,PRINCIPE DOUBLE CHOC 195GR,Comestibles,Golosinas y Chocolates,Unidad,1,1.42,1.07
+S1-12-005-2390828,604075,6/24/2011 19:35,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2392879,612157,5/5/2011 14:52,Tienda Alicante 01,200,Kristine Sandberg,0,1,11/6/1989,Soltero/a,Hasta 20mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2393812,615322,5/17/2011 10:23,Tienda Alicante 01,200,Jenny Xu,0,1,3/20/1971,Casado/a,Más de 70mil,CD DIENC NOVEDAD OFERTA 14.95,No comestibles,Juegos y Complementos,Unidad,1,10.77,10.35
+S1-12-005-2393947,616736,3/24/2011 18:36,Tienda Alicante 01,200,Clarence Zeng,1,0,2/25/1964,Casado/a,Hasta 20mil,ORBIT MENTA CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.41
+S1-12-005-2395170,620992,4/5/2011 0:00,Tienda Alicante 01,200,Kristine Sandberg,0,1,11/6/1989,Soltero/a,Hasta 20mil,COCA-COLA PET 500ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.14,0.68
+S1-12-005-2395363,621419,11/24/2010 18:46,Tienda Alicante 01,200,Wendy Ramos,0,1,10/23/1971,Casado/a,Más de 70mil,FIVE COBALT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,2,2.84,1.87
+S1-12-005-2395363,621420,11/24/2010 12:27,Tienda Alicante 01,200,Wendy Ramos,0,1,10/23/1971,Casado/a,Más de 70mil,HALLS S/A EUCALIPTO MENTOLADO,Comestibles,Golosinas y Chocolates,Unidad,1,1.18,0.75
+S1-12-005-2397653,630116,2/14/2011 10:39,Tienda Alicante 01,200,Wendy Ramos,0,1,10/23/1971,Casado/a,Más de 70mil,FIVE COBALT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,2,2.83,1.87
+S1-12-005-2397863,630961,6/11/2011 13:44,Tienda Alicante 01,200,Jon Sun,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,ANTICONGELANTE 30% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,8.21,5.6
+S1-12-005-2399283,637248,6/6/2011 13:02,Tienda Alicante 01,200,Clarence Zeng,1,0,2/25/1964,Casado/a,Hasta 20mil,ORBIT MENTA CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.41
+S1-12-005-2400690,642688,6/1/2011 10:57,Tienda Alicante 01,200,Levi Chandra,1,0,11/8/1958,Casado/a,Entre 40 y 70mil,HOJALDRES BERMUDEZ,Comestibles,Golosinas y Chocolates,Unidad,1,6.77,5.18
+S1-12-005-2401845,646595,6/11/2011 15:15,Tienda Alicante 01,200,Xavier Thomas,1,0,7/14/1975,Soltero/a,Más de 70mil,ANTICONGELANTE LEBO 20% 5L,No comestibles,Productos Varios,Unidad,1,6.41,4.46
+S1-12-005-2401845,646596,7/4/2011 18:30,Tienda Alicante 01,200,Xavier Thomas,1,0,7/14/1975,Soltero/a,Más de 70mil,VISCO 3000 10W40 5 LITROS,No comestibles,Productos Varios,Unidad,1,22.98,17
+S1-12-005-2401845,646597,7/21/2011 13:14,Tienda Alicante 01,200,Xavier Thomas,1,0,7/14/1975,Soltero/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2404008,654788,11/24/2010 13:27,Tienda Alicante 01,200,Monica Raman,0,1,7/28/1951,Casado/a,Entre 20 y 40mil,VANELLUS MAX DRAIN 10W40 5L,No comestibles,Productos Varios,Unidad,1,30.91,22.1
+S1-12-005-2404109,654982,7/7/2011 16:54,Tienda Alicante 01,200,Monica Raman,0,1,7/28/1951,Casado/a,Entre 20 y 40mil,ACEITE REPSOL SHPD 15W40 5L,No comestibles,Productos Varios,Unidad,1,21.54,15.12
+S1-12-005-2404779,658283,6/27/2011 12:00,Tienda Alicante 01,200,Wendy Ramos,0,1,10/23/1971,Casado/a,Más de 70mil,HALLS S/A EUCALIPTO MENTOLADO,Comestibles,Golosinas y Chocolates,Unidad,1,1.18,0.75
+S1-12-005-2404779,658284,7/8/2011 13:26,Tienda Alicante 01,200,Wendy Ramos,0,1,10/23/1971,Casado/a,Más de 70mil,FIVE COBALT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,1.5,0.94
+S1-12-005-2406746,663636,7/26/2011 11:02,Tienda Alicante 01,200,Ethan Shan,1,0,5/11/1964,Casado/a,Más de 70mil,BOMBON CHOCOCLACK 24UNID,Comestibles,Helados,Unidad,1,1.18,0.81
+S1-12-005-2406746,663637,6/15/2011 14:58,Tienda Alicante 01,200,Ethan Shan,1,0,5/11/1964,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2406746,663638,6/7/2011 9:45,Tienda Alicante 01,200,Ethan Shan,1,0,5/11/1964,Casado/a,Más de 70mil,COCA COLA LIGHT LATA 33CL,Comestibles,Refrescos y Bebidas,Unidad,1,1.02,0.56
+S1-12-005-2406746,663639,7/16/2011 20:06,Tienda Alicante 01,200,Ethan Shan,1,0,5/11/1964,Casado/a,Más de 70mil,BOMBON CHOCOCLACK 24UNID,Comestibles,Helados,Unidad,2,2.36,1.6
+S1-12-005-2406746,663640,4/29/2011 18:06,Tienda Alicante 01,200,Ethan Shan,1,0,5/11/1964,Casado/a,Más de 70mil,PIRULO COOL LIMA LIMON 24UND,Comestibles,Helados,Unidad,1,1.26,0.85
+S1-12-005-2406993,663634,7/18/2011 13:53,Tienda Alicante 01,200,Logan Turner,1,0,11/13/1975,Casado/a,Más de 70mil,COCA COLA ZERO LATA 33CL,Comestibles,Refrescos y Bebidas,Unidad,1,1.02,0.56
+S1-12-005-2407132,667532,6/30/2011 12:05,Tienda Alicante 01,200,Clarence Zeng,1,0,2/25/1964,Casado/a,Hasta 20mil,ORBIT MENTA CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.41
+S1-12-005-2407924,669323,4/29/2011 17:58,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2407924,669324,6/3/2011 21:22,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,ROCKSTAR ENERGY DRINK 250ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.42,0.79
+S1-12-005-2409942,675829,4/28/2011 12:38,Tienda Alicante 01,200,Wendy Ramos,0,1,10/23/1971,Casado/a,Más de 70mil,FIVE COBALT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,2,2.99,1.87
+S1-12-005-2409942,675830,8/31/2011 18:50,Tienda Alicante 01,200,Wendy Ramos,0,1,10/23/1971,Casado/a,Más de 70mil,HALLS S/A EUCALIPTO MENTOLADO,Comestibles,Golosinas y Chocolates,Unidad,2,2.35,1.51
+S1-12-005-2412169,683169,8/31/2011 18:52,Tienda Alicante 01,200,Levi Chandra,1,0,11/8/1958,Casado/a,Entre 40 y 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.49
+S1-12-005-2421590,714642,8/31/2011 18:58,Tienda Alicante 01,200,Wendy Ramos,0,1,10/23/1971,Casado/a,Más de 70mil,HALLS EUCALIPTO MENTOLADO,Comestibles,Golosinas y Chocolates,Unidad,3,3.54,2.23
+S1-12-005-2425665,725325,8/9/2011 17:12,Tienda Alicante 01,200,Caitlin Brooks,0,1,2/27/1958,Casado/a,Entre 40 y 70mil,HOJALDRES BERMUDEZ,Comestibles,Golosinas y Chocolates,Unidad,1,6.8,5.18
+S1-12-005-2430243,745012,8/31/2011 19:02,Tienda Alicante 01,200,Alejandro Lal,1,0,2/2/1973,Casado/a,Hasta 20mil,PANDORINO CHOCO 3UD,Comestibles,Golosinas y Chocolates,Unidad,1,1.12,0.72
+S1-12-005-2430793,744240,8/31/2011 19:00,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.97,0.49
+S1-12-005-2431885,752747,4/28/2011 20:26,Tienda Alicante 01,200,Logan Turner,1,0,11/13/1975,Casado/a,Más de 70mil,COCA COLA ZERO LATA 33CL,Comestibles,Refrescos y Bebidas,Unidad,1,1.05,0.56
+S1-12-005-2435312,765785,7/16/2011 20:13,Tienda Alicante 01,200,Logan Turner,1,0,11/13/1975,Casado/a,Más de 70mil,GOFRE PANRICO,Comestibles,Golosinas y Chocolates,Unidad,1,1.35,0.82
+S1-12-005-2435312,765786,4/12/2011 18:40,Tienda Alicante 01,200,Logan Turner,1,0,11/13/1975,Casado/a,Más de 70mil,COCA-COLA ZERO PET 50CL,Comestibles,Refrescos y Bebidas,Unidad,1,1.16,0.68
+S1-12-005-2435394,765787,7/6/2011 12:03,Tienda Alicante 01,200,Kyle Phillips,1,0,4/24/1973,Casado/a,Más de 70mil,AGUA LANJARON (HERCULES) 750CL,Comestibles,Refrescos y Bebidas,Unidad,1,0.89,0.49
+S1-12-005-2436105,769403,8/25/2011 13:51,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.96,0.49
+S1-12-005-2436105,769404,5/31/2011 10:31,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,CAFFE LATTE CAPUCCINO,Comestibles,Refrescos y Bebidas,Unidad,1,1.97,1.25
+S1-12-005-2438361,777243,8/3/2011 19:08,Tienda Alicante 01,200,Kyle Phillips,1,0,4/24/1973,Casado/a,Más de 70mil,SMINT MENTA 8GR,Comestibles,Golosinas y Chocolates,Unidad,1,1.81,1.15
+S1-12-005-2438361,777244,6/2/2011 13:22,Tienda Alicante 01,200,Kyle Phillips,1,0,4/24/1973,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.97,0.01
+S1-12-005-2438524,778470,11/24/2010 20:07,Tienda Alicante 01,200,Levi Chandra,1,0,11/8/1958,Casado/a,Entre 40 y 70mil,HALLS S/A EUCALIPTO MENTOLADO,Comestibles,Golosinas y Chocolates,Unidad,1,1.2,0.75
+S1-12-005-2439304,782706,3/9/2011 14:59,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,STICK CLOROFILA TRIDENT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,0.77,0.46
+S1-12-005-2441406,790545,8/31/2011 18:55,Tienda Alicante 01,200,Chloe White,0,1,10/12/1959,Casado/a,Entre 40 y 70mil,JARRA ALTA 500ML OLEO CAZORLA,Comestibles,Alimentacion,Unidad,3,23.89,17.24
+S1-12-005-2441406,790546,8/31/2011 18:56,Tienda Alicante 01,200,Chloe White,0,1,10/12/1959,Casado/a,Entre 40 y 70mil,MAGDALENA RELL.CHOCOLATE 6UND,Comestibles,Alimentacion,Unidad,1,1.23,0.79
+S1-12-005-2441942,792762,9/30/2011 10:11,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,REVISTA TRANSPORTE MUNDIAL,No comestibles,Prensa y Revistas,Unidad,1,2.45,2.71
+S1-12-005-2442365,794163,9/28/2011 9:54,Tienda Alicante 01,200,Monica Raman,0,1,7/28/1951,Casado/a,Entre 20 y 40mil,GUANTE SERRAJE/CUPRON GRS/BLNC,No comestibles,Vestido,Unidad,1,2.24,1.44
+S1-12-005-2443573,800247,9/23/2011 12:24,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.97,0.49
+S1-12-005-2445212,807218,9/7/2011 14:22,Tienda Alicante 01,200,Kyle Phillips,1,0,4/24/1973,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.97,0.49
+S1-12-005-2445212,807219,7/7/2011 18:35,Tienda Alicante 01,200,Kyle Phillips,1,0,4/24/1973,Casado/a,Más de 70mil,AQUARIUS LIMON PET 500ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.31,0.83
+S1-12-005-2445212,807220,6/30/2011 15:56,Tienda Alicante 01,200,Kyle Phillips,1,0,4/24/1973,Casado/a,Más de 70mil,VIDAL ACIDOS SURTIDO 200GR,Comestibles,Golosinas y Chocolates,Unidad,1,2.05,1.24
+S1-12-005-2446014,811220,6/30/2011 15:59,Tienda Alicante 01,200,Caitlin Brooks,0,1,2/27/1958,Casado/a,Entre 40 y 70mil,HOJALDRES BERMUDEZ,Comestibles,Golosinas y Chocolates,Unidad,1,6.8,5.18
+S1-12-005-2446014,811221,8/3/2011 0:00,Tienda Alicante 01,200,Caitlin Brooks,0,1,2/27/1958,Casado/a,Entre 40 y 70mil,BOTELLA 750ML LINAROLIVA,Comestibles,Alimentacion,Unidad,1,5.18,3.34
+S1-12-005-2446187,812269,6/20/2011 11:36,Tienda Alicante 01,200,Alan Guo,1,0,7/3/1969,Soltero/a,Hasta 20mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.97,0.49
+S1-12-005-2446187,812270,7/1/2011 12:57,Tienda Alicante 01,200,Alan Guo,1,0,7/3/1969,Soltero/a,Hasta 20mil,COCA-COLA ZERO PET 50CL,Comestibles,Refrescos y Bebidas,Unidad,1,1.16,0.69
+S1-12-005-2446266,812267,3/7/2011 15:13,Tienda Alicante 01,200,Eddie Munoz,1,0,11/12/1958,Casado/a,Entre 20 y 40mil,REVISTA TRANSOCASION,No comestibles,Prensa y Revistas,Unidad,1,2.45,2.7
+S1-12-005-2447775,819169,11/23/2010 15:24,Tienda Alicante 01,200,Chloe White,0,1,10/12/1959,Casado/a,Entre 40 y 70mil,GUANTE PIEL FLOR GRIS,No comestibles,Vestido,Unidad,1,3.06,2.27
+S1-12-005-2449955,829137,11/23/2010 14:32,Tienda Alicante 01,200,Clarence Zeng,1,0,2/25/1964,Casado/a,Hasta 20mil,ORBIT MENTA CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.73,0.41
+S1-12-005-2450844,833017,11/23/2010 14:39,Tienda Alicante 01,200,Wendy Ramos,0,1,10/23/1971,Casado/a,Más de 70mil,HALLS EUCALIPTO MENTOLADO,Comestibles,Golosinas y Chocolates,Unidad,3,3.6,2.23
+S1-12-005-2452796,841648,11/24/2010 19:26,Tienda Alicante 01,200,Savannah Carter,0,1,7/5/1958,Casado/a,Entre 20 y 40mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.97,0.01
+S1-12-005-2453157,844009,4/29/2011 15:40,Tienda Alicante 01,200,Logan Patterson,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,COCA-COLA PET 500ML,Comestibles,Refrescos y Bebidas,Unidad,2,2.32,1.36
+S1-12-005-2453787,846724,9/26/2011 18:16,Tienda Alicante 01,200,Jenny Xu,0,1,3/20/1971,Casado/a,Más de 70mil,KINDER JOY,Comestibles,Golosinas y Chocolates,Unidad,1,1.66,1.08
+S1-12-005-2455582,857205,11/23/2010 15:29,Tienda Alicante 01,200,Kristine Sandberg,0,1,11/6/1989,Soltero/a,Hasta 20mil,GUANTE PIEL FLOR GRIS,No comestibles,Vestido,Unidad,1,3.06,2.27
+S1-12-005-2457482,867204,6/7/2011 10:08,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,SANDWICH ENSALADA POLLO 120GR,Comestibles,Alimentacion,Unidad,1,1.78,1.21
+S1-12-005-2457482,867205,10/7/2011 17:55,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,SANDWICH TORTILLA 120GR,Comestibles,Alimentacion,Unidad,1,1.78,1.21
+S1-12-005-2457588,868018,9/28/2011 10:57,Tienda Alicante 01,200,Chloe White,0,1,10/12/1959,Casado/a,Entre 40 y 70mil,PILA R6 KODAK,No comestibles,Papeleria y Libreria,Unidad,1,1.23,0.76
+S1-12-005-2460473,881082,2/15/2011 15:54,Tienda Alicante 01,200,Chloe White,0,1,10/12/1959,Casado/a,Entre 40 y 70mil,JABON DE AFEITAR LA TOJA,No comestibles,Drogueria y Perfumeria,Unidad,1,2.03,1.44
+S1-12-005-2460473,881083,10/18/2011 11:13,Tienda Alicante 01,200,Chloe White,0,1,10/12/1959,Casado/a,Entre 40 y 70mil,MAQUINA GILLETTE 2 FILOS DESEC,No comestibles,Drogueria y Perfumeria,Unidad,1,3.06,2.17
+S1-12-005-2462724,892443,7/11/2011 18:56,Tienda Alicante 01,200,Kayla Alexander,0,1,2/28/1956,Casado/a,Entre 40 y 70mil,BARRA RUSTICA,Comestibles,Alimentacion,Unidad,1,0.74,0.44
+S1-12-005-2464465,904829,10/5/2011 17:16,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.96,0.49
+S1-12-005-2464465,904830,8/29/2011 17:39,Tienda Alicante 01,200,Kristy Rubio,0,1,5/18/1990,Soltero/a,Hasta 20mil,MINUTE MAID 275ML MEDITERRANEO,Comestibles,Refrescos y Bebidas,Unidad,1,0.97,0.58
+S1-12-005-2465342,908749,10/20/2011 18:48,Tienda Alicante 01,200,Levi Chandra,1,0,11/8/1958,Casado/a,Entre 40 y 70mil,MUÑECA IRIS 36CM SURT.6 MOD.,No comestibles,Juegos y Complementos,Unidad,1,6.54,3.93
+S1-12-005-2467525,922452,2/21/2011 15:11,Tienda Alicante 01,200,Kyle Phillips,1,0,4/24/1973,Casado/a,Más de 70mil,GRAGEA MENTA TRIDENT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,2,1.55,0.92
+S1-12-005-2467561,922454,7/12/2011 11:26,Tienda Alicante 01,200,Bryant Srini,1,0,5/12/1970,Soltero/a,Más de 70mil,COCA-COLA LIGHT PET 500ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.16,0.7
+S1-12-005-2467736,922640,9/26/2011 14:02,Tienda Alicante 01,200,Edwin Shan,1,0,5/2/1968,Casado/a,Entre 20 y 40mil,ROLLITO MILKA TENDER PACK-3,Comestibles,Golosinas y Chocolates,Unidad,1,2.05,1.31
+S1-12-005-2467830,926768,9/5/2011 0:00,Tienda Alicante 01,200,Wendy Ramos,0,1,10/23/1971,Casado/a,Más de 70mil,SENSES RAINFOREST MINT TRIDENT,Comestibles,Golosinas y Chocolates,Unidad,2,3.01,1.85
+S1-12-005-2467830,926769,10/26/2011 10:21,Tienda Alicante 01,200,Wendy Ramos,0,1,10/23/1971,Casado/a,Más de 70mil,HALLS EUCALIPTO MENTOLADO,Comestibles,Golosinas y Chocolates,Unidad,3,3.6,2.23
+S1-12-005-2469146,931585,3/9/2011 16:43,Tienda Alicante 01,200,Bryant Srini,1,0,5/12/1970,Soltero/a,Más de 70mil,COCA-COLA LIGHT PET 500ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.16,0.7
+S1-12-005-2469146,931586,11/4/2011 16:23,Tienda Alicante 01,200,Bryant Srini,1,0,5/12/1970,Soltero/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.97,0.45
+S1-12-005-2469227,932422,3/28/2011 9:44,Tienda Alicante 01,200,Alejandro Lal,1,0,2/2/1973,Casado/a,Hasta 20mil,LACASITO TUBO 20GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.58,0.33
+S1-12-005-2471241,943200,11/19/2011 14:29,Tienda Alicante 01,200,Ruben Subram,1,0,7/22/1970,Casado/a,Más de 70mil,MAPA MICHELIN ESP/PORTUG.2013,No comestibles,Papeleria y Libreria,Unidad,1,8.09,5.34
+S1-12-005-2473431,955999,11/14/2011 14:50,Tienda Alicante 01,200,Fernando Taylor,1,0,4/11/1967,Casado/a,Más de 70mil,TOKKE CADBURY 50GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.89,0.46
+S1-12-005-2481112,1001467,8/29/2011 11:34,Tienda Alicante 01,200,Jenny Xu,0,1,3/20/1971,Casado/a,Más de 70mil,CAÑA CHOCOLATE PANRICO,Comestibles,Golosinas y Chocolates,Unidad,1,1.35,0.82
+S1-12-005-2481214,1002696,9/26/2011 14:04,Tienda Alicante 01,200,Levi Chandra,1,0,11/8/1958,Casado/a,Entre 40 y 70mil,PILA LR03 KODAK ALCALINA,No comestibles,Papeleria y Libreria,Unidad,1,2.07,1.32
+S1-12-005-2481214,1002697,10/22/2011 14:00,Tienda Alicante 01,200,Levi Chandra,1,0,11/8/1958,Casado/a,Entre 40 y 70mil,PILA LR6 ALCALINA KODAK X4,No comestibles,Papeleria y Libreria,Unidad,1,1.96,1.24
+S1-12-005-2483657,1015090,1/31/2012 15:41,Tienda Alicante 01,200,Jerry Yuan,1,0,5/9/1965,Casado/a,Hasta 20mil,GUANTE PIEL FLOR GRIS,No comestibles,Vestido,Unidad,1,3.06,2.27
+S1-12-005-2484311,1017639,12/7/2011 15:51,Tienda Alicante 01,200,Sydney Hall,0,1,11/18/1959,Soltero/a,Entre 40 y 70mil,ANTICONGELANTE 30% 5LT LEBO,No comestibles,Productos Varios,Unidad,2,17,11.07
+S1-12-006-1001798,112088,1/31/2012 15:35,Tienda Alicante 02,95,Melissa Washington,0,1,4/10/1964,Casado/a,Entre 40 y 70mil,ANTICONGELANTE 10% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,5.19,3.73
+S1-12-006-1006348,145835,2/6/2012 9:42,Tienda Alicante 02,95,Luke Mitchell,1,0,12/20/1973,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-006-1007227,150899,11/30/2011 14:22,Tienda Alicante 02,95,Kari Gomez,0,1,11/17/1966,Casado/a,Hasta 20mil,HUESITO CHOCOLATE CRACK 2X20GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.67,0.39
+S1-12-006-1008696,161246,2/9/2012 0:00,Tienda Alicante 02,95,Grace Davis,0,1,12/14/1966,Casado/a,Más de 70mil,SMINT MENTA 8GR,Comestibles,Golosinas y Chocolates,Unidad,1,1.54,1.18
+S1-12-006-1008797,162412,1/31/2012 15:32,Tienda Alicante 02,95,Sean Hernandez,1,0,4/14/1965,Soltero/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-006-1009263,165364,6/29/2009 19:55,Tienda Alicante 02,95,Thomas Rodriguez,1,0,8/23/1954,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-006-1009287,165370,1/20/2010 10:13,Tienda Alicante 02,95,Isabelle Patterson,0,1,3/19/1965,Soltero/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-006-1009560,166496,8/18/2009 19:17,Tienda Alicante 02,95,Chloe Richardson,0,1,2/8/1961,Soltero/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-006-1010720,174832,9/22/2009 0:00,Tienda Alicante 02,95,Isabelle Patterson,0,1,3/19/1965,Soltero/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-006-1010817,174830,2/15/2010 12:10,Tienda Alicante 02,95,Brandi Ruiz,0,1,1/9/1971,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-006-1011152,178663,1/28/2010 22:10,Tienda Alicante 02,95,Miguel Sanchez,0,1,1/27/1961,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-006-1012464,187177,6/26/2009 12:52,Tienda Alicante 02,95,Sebastian Stewart,1,0,9/21/1972,Soltero/a,Más de 70mil,STICK FRESA TRIDENT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.43
+S1-12-006-1012731,188070,4/21/2010 0:00,Tienda Alicante 02,95,Tammy Raman,0,1,11/18/1967,Casado/a,Más de 70mil,MUESLY HERO CHOCOLATE 25GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.63,0.37
+S1-12-006-1013159,190264,3/17/2010 21:12,Tienda Alicante 02,95,Colin Jai,1,0,11/26/1943,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.78,0.92
+S1-12-006-1016602,216040,2/20/2010 12:41,Tienda Alicante 02,95,Megan Jenkins,0,1,10/27/1954,Soltero/a,Entre 40 y 70mil,KIT KAT CHOCOLATINA 45GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.79,0.44
+S1-12-006-1017006,217863,2/20/2010 13:35,Tienda Alicante 02,95,Colin Jai,1,0,11/26/1943,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-006-1017116,217869,2/22/2010 10:57,Tienda Alicante 02,95,Sean Hernandez,1,0,4/14/1965,Soltero/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-006-1017962,225393,5/31/2010 18:20,Tienda Alicante 02,95,Maurice Goel,1,0,8/25/1978,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-006-1018785,230500,8/30/2010 10:55,Tienda Alicante 02,95,Sebastian Stewart,1,0,9/21/1972,Soltero/a,Más de 70mil,CRESPILLOS PAN LORCA,Comestibles,Alimentacion,Unidad,1,1.42,1.27
+S1-12-006-1018785,230501,2/22/2010 10:38,Tienda Alicante 02,95,Sebastian Stewart,1,0,9/21/1972,Soltero/a,Más de 70mil,PALOMITAS RISI 90GR,Comestibles,Snacks y Aperitivos,Unidad,1,1.02,0.68
+S1-12-006-1024862,273653,7/1/2009 13:55,Tienda Alicante 02,95,Kyle Roberts,1,0,7/3/1971,Casado/a,Hasta 20mil,KOJAK CEREZA CHUPA C/CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,0.24,0.12
+S1-12-006-1024862,273654,6/30/2009 13:12,Tienda Alicante 02,95,Kyle Roberts,1,0,7/3/1971,Casado/a,Hasta 20mil,KOJAK CEREZA CHUPA C/CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,0.24,0.12
+S1-12-006-1026615,305233,2/22/2010 10:43,Tienda Alicante 02,95,Bradley Jai,1,0,2/2/1948,Casado/a,Más de 70mil,KINDER BUENO 2X30,Comestibles,Golosinas y Chocolates,Unidad,1,1.02,0.59
+S1-12-006-1027073,290291,9/22/2009 14:29,Tienda Alicante 02,95,Colin Jai,1,0,11/26/1943,Casado/a,Entre 40 y 70mil,KRIT CANAPE 125GR CUETARA,Comestibles,Snacks y Aperitivos,Unidad,1,1.02,0.61
+S1-12-006-1027076,290289,11/26/2010 18:08,Tienda Alicante 02,95,Isaiah Collins,1,0,7/3/1954,Casado/a,Entre 40 y 70mil,CHOLECK CHOCOLATE 175CC,Comestibles,Refrescos y Bebidas,Unidad,1,0.71,0.39
+S1-12-006-1027597,293703,5/20/2010 13:56,Tienda Alicante 02,95,Jose Edwards,1,0,2/18/1955,Casado/a,Entre 40 y 70mil,DIARIO LA VERDAD,No comestibles,Prensa y Revistas,Unidad,1,1.15,1.25
+S1-12-006-1027655,294818,11/26/2010 10:24,Tienda Alicante 02,95,Clayton Sharma,1,0,12/4/1990,Soltero/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-006-1027657,294813,12/2/2010 14:12,Tienda Alicante 02,95,Jose Edwards,1,0,2/18/1955,Casado/a,Entre 40 y 70mil,BURN LATA 250ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.54,0.9
+S1-12-006-1029571,312323,12/13/2010 10:11,Tienda Alicante 02,95,Brandi Ruiz,0,1,1/9/1971,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-006-1030541,319037,12/13/2010 11:44,Tienda Alicante 02,95,Faith Ward,0,1,4/10/1967,Casado/a,Hasta 20mil,TAB FRESA ORBIT WHITE CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,1.1,0.72
+S1-12-006-1032905,337668,12/29/2010 19:43,Tienda Alicante 02,95,Isaiah Collins,1,0,7/3/1954,Casado/a,Entre 40 y 70mil,CHOLECK CHOCOLATE 175CC,Comestibles,Refrescos y Bebidas,Unidad,1,0.71,0.39
+S1-12-006-1033149,339682,2/14/2011 0:00,Tienda Alicante 02,95,Kurt Nara,1,0,4/14/1971,Casado/a,Hasta 20mil,DIARIO EL PAIS,No comestibles,Prensa y Revistas,Unidad,1,1.06,1.28
+S1-12-006-1033313,340757,2/18/2011 19:22,Tienda Alicante 02,95,Faith Ward,0,1,4/10/1967,Casado/a,Hasta 20mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-006-1034874,349956,2/18/2011 20:05,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1036932,363927,3/1/2011 21:27,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,REFRESCOS RED BULL 250ML,Comestibles,Refrescos y Bebidas,Unidad,2,3.31,2.12
+S1-12-006-1037837,370781,1/21/2011 13:23,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-006-1039020,381483,3/2/2011 12:23,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1039510,383288,6/29/2009 19:48,Tienda Alicante 02,95,Faith Ward,0,1,4/10/1967,Casado/a,Hasta 20mil,AMBIENTADOR COCHE PINO,No comestibles,Drogueria y Perfumeria,Unidad,1,0.79,0.53
+S1-12-006-1040735,393010,11/17/2010 18:50,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1042175,403594,11/26/2010 10:25,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,CERVEZA ESTRELLA LEVANTE 1L.,Comestibles,Refrescos y Bebidas,Unidad,1,1.59,1.13
+S1-12-006-1042175,403595,11/15/2010 9:41,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,POWERADE CITRUS PET 500ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.54,0.99
+S1-12-006-1042175,403596,11/15/2010 9:41,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,BARRA PAN DE CUARTO,Comestibles,Alimentacion,Unidad,1,0.74,0.66
+S1-12-006-1042175,403597,12/29/2010 20:52,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,ATUN ACEITE CALVO RO-85GR,Comestibles,Alimentacion,Unidad,1,0.78,0.58
+S1-12-006-1042723,406394,3/16/2011 10:54,Tienda Alicante 02,95,Sebastian Stewart,1,0,9/21/1972,Soltero/a,Más de 70mil,CRESPILLOS PAN LORCA,Comestibles,Alimentacion,Unidad,1,1.42,1.27
+S1-12-006-1043192,409542,1/20/2011 19:08,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,REFRESCOS RED BULL 250ML,Comestibles,Refrescos y Bebidas,Unidad,4,6.61,4.23
+S1-12-006-1043239,410549,2/15/2011 0:00,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,CERVEZA ESTRELLA LEVANTE LATA,Comestibles,Refrescos y Bebidas,Unidad,3,2.38,1.38
+S1-12-006-1043907,415971,3/2/2011 13:08,Tienda Alicante 02,95,Colin Jai,1,0,11/26/1943,Casado/a,Entre 40 y 70mil,DONUTS GLACE 2 BLANCO 96GR,Comestibles,Golosinas y Chocolates,Unidad,1,1.54,1.05
+S1-12-006-1047027,439091,11/26/2010 17:16,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1051265,468950,3/23/2011 15:56,Tienda Alicante 02,95,Adam Hernandez,1,0,1/15/1963,Casado/a,Entre 40 y 70mil,REVISTA AUTO BILD,No comestibles,Prensa y Revistas,Unidad,1,1.06,1.35
+S1-12-006-1051510,470845,3/11/2011 19:31,Tienda Alicante 02,95,Sebastian Stewart,1,0,9/21/1972,Soltero/a,Más de 70mil,COCA-COLA LIGHT PET 500ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.02,0.69
+S1-12-006-1051698,473135,3/26/2011 13:15,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,CROISSANTS BOLSA 160G,Comestibles,Alimentacion,Unidad,1,1.18,0.83
+S1-12-006-1051698,473136,12/10/2010 13:52,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1054621,493477,3/25/2011 19:49,Tienda Alicante 02,95,Melissa Washington,0,1,4/10/1964,Casado/a,Entre 40 y 70mil,AGUA LANJARON (HERCULES) 750CL,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.54
+S1-12-006-1055170,498258,3/2/2011 12:50,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1055618,501225,12/31/2010 12:13,Tienda Alicante 02,95,Kurt Nara,1,0,4/14/1971,Casado/a,Hasta 20mil,DIARIO LA VERDAD,No comestibles,Prensa y Revistas,Unidad,1,0.98,1.1
+S1-12-006-1057326,516112,3/4/2011 20:49,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1058454,525029,4/8/2011 11:27,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1059518,532482,12/20/2010 14:01,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1060236,538243,4/26/2011 14:17,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,CERVEZA ESTRELLA LEVANTE LATA,Comestibles,Refrescos y Bebidas,Unidad,2,1.58,0.92
+S1-12-006-1060766,541993,5/6/2011 19:01,Tienda Alicante 02,95,Nathan Hughes,1,0,8/23/1961,Casado/a,Entre 40 y 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-006-1061123,545117,5/6/2011 19:22,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-006-1062107,551525,5/9/2011 12:05,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1062447,554285,4/1/2011 13:29,Tienda Alicante 02,95,Kurt Nara,1,0,4/14/1971,Casado/a,Hasta 20mil,DIARIO LA VERDAD,No comestibles,Prensa y Revistas,Unidad,1,0.98,1.1
+S1-12-006-1062476,554289,3/16/2011 13:14,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1062915,557295,3/16/2011 13:12,Tienda Alicante 02,95,Brandon Butler,1,0,10/4/1975,Casado/a,Más de 70mil,DIARIO LA VERDAD,No comestibles,Prensa y Revistas,Unidad,1,0.98,1.1
+S1-12-006-1066301,583684,6/30/2011 18:36,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1066529,584415,6/22/2011 19:48,Tienda Alicante 02,95,Tristan Henderson,1,0,9/18/1945,Casado/a,Más de 70mil,AGUA LANJARON (HERCULES) 750CL,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.54
+S1-12-006-1067530,592753,7/4/2011 11:56,Tienda Alicante 02,95,Christina Richardson,0,1,5/8/1962,Soltero/a,Entre 20 y 40mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1069464,607538,6/29/2011 12:01,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-006-1069546,608226,6/30/2011 19:29,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-006-1069769,610245,5/18/2011 12:03,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1070263,614423,6/29/2011 19:32,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,REFRESCOS RED BULL 250ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.65,1.06
+S1-12-006-1070263,614424,7/22/2011 10:06,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-006-1070591,617135,7/29/2011 17:49,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,MENTOS MENTA 38GR,Comestibles,Golosinas y Chocolates,Unidad,2,1.57,0.9
+S1-12-006-1070591,617136,8/16/2011 13:54,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,BRACITO AZUCAR 160GR 5UND,Comestibles,Golosinas y Chocolates,Unidad,1,1.02,0.7
+S1-12-006-1070591,617137,8/12/2011 20:02,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,BRACITO FRESA 160GR 5UND,Comestibles,Golosinas y Chocolates,Unidad,1,1.03,0.7
+S1-12-006-1070591,617138,6/30/2011 16:36,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,RISI PATATAS ONDULADAS 100GRS,Comestibles,Snacks y Aperitivos,Unidad,1,1.1,0.75
+S1-12-006-1070591,617139,10/1/2011 13:34,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,REFRESCOS RED BULL 250ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.66,1.06
+S1-12-006-1070772,621669,10/22/2011 11:30,Tienda Alicante 02,95,Samuel Hill,1,0,6/20/1950,Soltero/a,Más de 70mil,COCA-COLA PET 500ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.06,0.69
+S1-12-006-1071630,624487,11/11/2011 12:59,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1071766,625563,11/30/2011 17:38,Tienda Alicante 02,95,Karla She,0,1,12/14/1972,Casado/a,Más de 70mil,KIT KAT CHOCOLATINA 45GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.79,0.45
+S1-12-006-1071940,626762,12/2/2011 18:02,Tienda Alicante 02,95,Adam Hernandez,1,0,1/15/1963,Casado/a,Entre 40 y 70mil,BOLSA DE HIELO,Comestibles,Helados,Unidad,1,0.87,0.45
+S1-12-006-1072220,629362,12/14/2011 21:05,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1072569,632108,1/12/2012 20:35,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-006-1072569,632109,6/3/2009 11:54,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA LANJARON (HERCULES) 750CL,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.54
+S1-12-006-1072735,633305,6/2/2009 14:52,Tienda Alicante 02,95,Luke Ross,1,0,9/3/1954,Casado/a,Entre 40 y 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-006-1072897,635335,6/15/2009 11:55,Tienda Alicante 02,95,Kurt Nara,1,0,4/14/1971,Casado/a,Hasta 20mil,DIARIO LA VERDAD,No comestibles,Prensa y Revistas,Unidad,1,1.06,1.21
+S1-12-006-1072941,635339,7/15/2009 18:29,Tienda Alicante 02,95,Emmanuel Garcia,1,0,3/15/1970,Soltero/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1072942,635337,8/3/2009 12:49,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1073033,635329,6/8/2009 17:22,Tienda Alicante 02,95,Kristy Munoz,0,1,12/16/1966,Casado/a,Más de 70mil,REVISTA HOLA,No comestibles,Prensa y Revistas,Unidad,1,1.63,2.07
+S1-12-006-1073360,638165,7/8/2009 18:01,Tienda Alicante 02,95,Emmanuel Garcia,1,0,3/15/1970,Soltero/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.86,0.43
+S1-12-006-1073713,640959,7/27/2009 18:02,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1073848,641871,9/21/2009 10:57,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-006-1073848,641872,10/9/2009 13:10,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,COCA-COLA PET 1L,Comestibles,Refrescos y Bebidas,Unidad,1,1.42,0.99
+S1-12-006-1073848,641873,10/21/2009 16:40,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,COCA-COLA PET 500ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.06,0.69
+S1-12-006-1074694,647811,7/8/2009 18:03,Tienda Alicante 02,95,Kaitlin Sanchez,0,1,10/26/1970,Casado/a,Hasta 20mil,CARAMELOS SUGUS STICK MULTISAB,Comestibles,Golosinas y Chocolates,Unidad,1,0.79,0.48
+S1-12-006-1074711,647809,10/22/2009 16:29,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1075042,650269,10/22/2009 19:36,Tienda Alicante 02,95,Emmanuel Garcia,1,0,3/15/1970,Soltero/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1075179,651751,7/21/2009 20:04,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1075179,651752,7/8/2009 17:59,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,REFRESCOS RED BULL 250ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.66,1.06
+S1-12-006-1075380,653176,7/21/2009 20:06,Tienda Alicante 02,95,Emmanuel Garcia,1,0,3/15/1970,Soltero/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1075503,655172,7/27/2009 17:56,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1075598,655169,6/24/2009 13:58,Tienda Alicante 02,95,Gerald Rodriguez,1,0,4/2/1972,Casado/a,Más de 70mil,BOLSA DE HIELO,Comestibles,Helados,Unidad,1,0.87,0.45
+S1-12-006-1075857,657276,11/3/2009 12:27,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1075857,657277,10/31/2009 12:49,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,STICK CLOROFILA TRIDENT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,0.79,0.44
+S1-12-006-1077217,667047,11/11/2009 12:05,Tienda Alicante 02,95,Grace Davis,0,1,12/14/1966,Casado/a,Más de 70mil,EXTREME KIT KAT 24UNID,Comestibles,Helados,Unidad,1,2.13,1.44
+S1-12-006-1077423,668651,11/13/2009 18:27,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1077487,668653,11/10/2009 18:22,Tienda Alicante 02,95,Emmanuel Garcia,1,0,3/15/1970,Soltero/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-006-1077487,668654,11/19/2009 17:19,Tienda Alicante 02,95,Emmanuel Garcia,1,0,3/15/1970,Soltero/a,Más de 70mil,VISCO 2000 15W40 1 LITRO,No comestibles,Productos Varios,Unidad,1,6.41,4.2
+S1-12-006-1077487,668655,11/19/2009 13:59,Tienda Alicante 02,95,Emmanuel Garcia,1,0,3/15/1970,Soltero/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.86,0.43
+S1-12-006-1077488,668647,8/6/2009 11:44,Tienda Alicante 02,95,Kyle Roberts,1,0,7/3/1971,Casado/a,Hasta 20mil,KOJAK CEREZA CHUPA C/CHICLE,Comestibles,Golosinas y Chocolates,Unidad,2,0.48,0.26
+S1-12-006-1077488,668648,11/19/2009 14:02,Tienda Alicante 02,95,Kyle Roberts,1,0,7/3/1971,Casado/a,Hasta 20mil,REVISTA HOLA,No comestibles,Prensa y Revistas,Unidad,1,1.63,2.22
+S1-12-006-1077557,669685,11/11/2009 12:13,Tienda Alicante 02,95,Kristy Munoz,0,1,12/16/1966,Casado/a,Más de 70mil,REVISTA HOLA,No comestibles,Prensa y Revistas,Unidad,1,1.64,2.22
+S1-12-006-1077834,671095,7/8/2009 18:07,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1077854,671090,9/24/2009 13:44,Tienda Alicante 02,95,Adam Hernandez,1,0,1/15/1963,Casado/a,Entre 40 y 70mil,BOLSA DE HIELO,Comestibles,Helados,Unidad,1,0.87,0.45
+S1-12-006-1078170,673524,11/27/2009 10:22,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1078494,676326,12/2/2009 19:36,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1078864,678873,10/9/2009 12:26,Tienda Alicante 02,95,Emmanuel Garcia,1,0,3/15/1970,Soltero/a,Más de 70mil,COCA-COLA PET 1L,Comestibles,Refrescos y Bebidas,Unidad,1,1.42,0.99
+S1-12-006-1078864,678874,10/9/2009 12:25,Tienda Alicante 02,95,Emmanuel Garcia,1,0,3/15/1970,Soltero/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-006-1078879,678871,12/28/2009 11:02,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1079235,682108,9/24/2009 13:23,Tienda Alicante 02,95,Emmanuel Garcia,1,0,3/15/1970,Soltero/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-006-1079477,684097,2/15/2010 12:05,Tienda Alicante 02,95,Emmanuel Garcia,1,0,3/15/1970,Soltero/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1079482,684092,1/12/2010 19:13,Tienda Alicante 02,95,Melissa Washington,0,1,4/10/1964,Casado/a,Entre 40 y 70mil,VISCO 5000 5W40 1 LITRO,No comestibles,Productos Varios,Unidad,1,9.65,5.7
+S1-12-006-1080701,693826,3/23/2010 12:46,Tienda Alicante 02,95,Emmanuel Garcia,1,0,3/15/1970,Soltero/a,Más de 70mil,COCA-COLA PET 1L,Comestibles,Refrescos y Bebidas,Unidad,1,1.42,0.99
+S1-12-006-1081076,696531,3/29/2010 9:32,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1081346,698088,4/13/2010 20:30,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1082327,706183,4/13/2010 20:34,Tienda Alicante 02,95,Kaitlyn Lee,0,1,9/20/1975,Soltero/a,Más de 70mil,DIARIO SPORT,No comestibles,Prensa y Revistas,Unidad,1,0.82,0.93
+S1-12-006-1082496,707181,4/27/2010 19:21,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1082600,707175,3/10/2010 11:23,Tienda Alicante 02,95,Kaitlyn Patterson,0,1,7/27/1970,Soltero/a,Más de 70mil,CHEETOS PANDILLA 75GR MATUTANO,Comestibles,Snacks y Aperitivos,Unidad,1,1.42,0.91
+S1-12-006-1082600,707176,3/16/2010 13:39,Tienda Alicante 02,95,Kaitlyn Patterson,0,1,7/27/1970,Soltero/a,Más de 70mil,PELOTAZOS 130GR CHEETOS,Comestibles,Snacks y Aperitivos,Unidad,1,1.41,0.91
+S1-12-006-1082600,707177,4/29/2010 12:10,Tienda Alicante 02,95,Kaitlyn Patterson,0,1,7/27/1970,Soltero/a,Más de 70mil,COCA-COLA PET 500ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.06,0.69
+S1-12-006-1082755,708971,4/29/2010 12:15,Tienda Alicante 02,95,Kurt Nara,1,0,4/14/1971,Casado/a,Hasta 20mil,DIARIO EL PAIS,No comestibles,Prensa y Revistas,Unidad,1,1.06,1.21
+S1-12-006-1082805,708975,4/29/2010 12:17,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.73,0.85
+S1-12-006-1082805,708976,4/29/2010 12:12,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,CARAMELOS SUGUS STICK MULTISAB,Comestibles,Golosinas y Chocolates,Unidad,1,0.78,0.48
+S1-12-006-1083594,715326,4/29/2010 12:31,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,COCA-COLA PET 1L,Comestibles,Refrescos y Bebidas,Unidad,1,1.42,0.99
+S1-12-006-1083594,715327,5/3/2010 17:50,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.43
+S1-12-006-1085590,731034,3/26/2010 11:17,Tienda Alicante 02,95,Luke Mitchell,1,0,12/20/1973,Soltero/a,Más de 70mil,TAB MENTA ORBIT WHITE CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,1.12,0.72
+S1-12-006-1085590,731036,5/5/2010 13:34,Tienda Alicante 02,95,Luke Mitchell,1,0,12/20/1973,Soltero/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.88,0.43
+S1-12-006-1085701,731042,5/27/2010 11:53,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,COCA-COLA PET 1L,Comestibles,Refrescos y Bebidas,Unidad,2,2.86,1.99
+S1-12-006-1086413,736663,5/27/2010 11:49,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.78,0.85
+S1-12-006-1086498,737412,4/28/2010 20:18,Tienda Alicante 02,95,Samuel Hill,1,0,6/20/1950,Soltero/a,Más de 70mil,COCA COLA LATA 33CL,Comestibles,Refrescos y Bebidas,Unidad,1,0.93,0.51
+S1-12-006-1086498,737413,5/27/2010 11:46,Tienda Alicante 02,95,Samuel Hill,1,0,6/20/1950,Soltero/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.89,0.43
+S1-12-006-1087058,740795,5/27/2010 11:50,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.79,0.85
+S1-12-006-1087428,743036,6/30/2010 13:59,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.88,0.43
+S1-12-006-1087428,743037,5/27/2010 11:55,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,POWERADE ICE STORM 500ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.62,0.99
+S1-12-006-1087764,745557,5/24/2010 12:11,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,BATIDO CHOLECK CACAO 1L,Comestibles,Refrescos y Bebidas,Unidad,1,1.82,1.16
+S1-12-006-1087764,745559,6/1/2010 11:21,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.88,0.43
+S1-12-006-1088051,750844,5/3/2010 17:49,Tienda Alicante 02,95,Hunter Jackson,1,0,2/9/1971,Casado/a,Más de 70mil,STICK CLOROFILA TRIDENT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,0.77,0.44
+S1-12-006-1088483,753271,8/11/2010 13:04,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,BATIDO CHOLECK CACAO 1L,Comestibles,Refrescos y Bebidas,Unidad,1,1.82,1.15
+S1-12-006-1088483,753272,8/20/2010 12:25,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.88,0.43
+S1-12-006-1088988,756150,8/31/2010 11:53,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,NESTEA LIMON LATA 33 CL.,Comestibles,Refrescos y Bebidas,Unidad,1,0.97,0.59
+S1-12-006-1090955,768932,9/3/2010 17:58,Tienda Alicante 02,95,Kyle Roberts,1,0,7/3/1971,Casado/a,Hasta 20mil,KOJAK CEREZA CHUPA C/CHICLE,Comestibles,Golosinas y Chocolates,Unidad,2,0.54,0.26
+S1-12-006-1091630,773273,7/5/2010 11:10,Tienda Alicante 02,95,Randall Dominguez,1,0,10/17/1965,Casado/a,Más de 70mil,FANTA NARANJA LATA 33CL,Comestibles,Refrescos y Bebidas,Unidad,2,1.7,0.86
+S1-12-006-1091630,773274,10/5/2010 11:47,Tienda Alicante 02,95,Randall Dominguez,1,0,10/17/1965,Casado/a,Más de 70mil,CERVEZA ESTRELLA LEVANTE 1L.,Comestibles,Refrescos y Bebidas,Unidad,1,1.58,1.13
+S1-12-006-1092430,777673,6/30/2010 19:06,Tienda Alicante 02,95,Grace Davis,0,1,12/14/1966,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.89,0.43
+S1-12-006-1093660,789058,10/29/2010 12:13,Tienda Alicante 02,95,Kelsey Raje,0,1,8/11/1967,Casado/a,Hasta 20mil,MULTICEREALES VELARTE 70GRS,Comestibles,Snacks y Aperitivos,Unidad,1,0.81,0.52
+S1-12-006-1094168,789064,12/30/2010 15:49,Tienda Alicante 02,95,Melinda Romero,0,1,5/5/1971,Casado/a,Entre 20 y 40mil,3CV LIMPIA INYECTOR GASOLINA,No comestibles,Productos Varios,Unidad,1,7.58,5
+S1-12-006-1098543,815001,1/25/2011 10:04,Tienda Alicante 02,95,Jocelyn Hayes,0,1,11/26/1964,Soltero/a,Entre 40 y 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.89,0.43
+S1-12-006-1098593,815007,1/27/2011 19:52,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.78,0.85
+S1-12-006-1098593,815008,1/27/2011 19:55,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,CERVEZA ESTRELLA LEVANTE LATA,Comestibles,Refrescos y Bebidas,Unidad,1,0.81,0.46
+S1-12-006-1099821,822759,1/27/2011 19:57,Tienda Alicante 02,95,Kurt Nara,1,0,4/14/1971,Casado/a,Hasta 20mil,DIARIO LA VERDAD,No comestibles,Prensa y Revistas,Unidad,1,1.06,1.9
+S1-12-006-1101004,831350,2/7/2011 12:32,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,1,0.89,0.43
+S1-12-006-1102113,838285,2/7/2011 12:45,Tienda Alicante 02,95,Kurt Nara,1,0,4/14/1971,Casado/a,Hasta 20mil,DIARIO LA VERDAD,No comestibles,Prensa y Revistas,Unidad,1,1.8,1.92
+S1-12-006-1102318,838470,11/25/2010 13:32,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,NESTEA LIMON LATA 33 CL.,Comestibles,Refrescos y Bebidas,Unidad,1,0.96,0.59
+S1-12-006-1102318,838471,2/17/2011 10:15,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,CERVEZA ESTRELLA LEVANTE LATA,Comestibles,Refrescos y Bebidas,Unidad,2,1.62,0.92
+S1-12-006-1103382,846001,2/17/2011 11:33,Tienda Alicante 02,95,Meredith Johnsen,0,1,1/6/1979,Soltero/a,Hasta 20mil,AGUA 1.5LT LANJARON,Comestibles,Refrescos y Bebidas,Unidad,2,1.78,0.85
+S1-12-006-1104436,851025,2/15/2011 17:31,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,REFRESCOS RED BULL 250ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.67,1.06
+S1-12-006-1105247,856693,3/8/2011 17:27,Tienda Alicante 02,95,Kurt Nara,1,0,4/14/1971,Casado/a,Hasta 20mil,DIARIO LA VERDAD,No comestibles,Prensa y Revistas,Unidad,1,1.06,1.21
+S1-12-006-1108754,878418,3/8/2011 17:29,Tienda Alicante 02,95,Amy Huang,0,1,11/22/1990,Casado/a,Más de 70mil,REFRESCOS RED BULL 250ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.66,1.06
+S1-12-006-1115350,928591,2/23/2011 11:36,Tienda Alicante 02,95,Kurt Nara,1,0,4/14/1971,Casado/a,Hasta 20mil,DIARIO LA VERDAD,No comestibles,Prensa y Revistas,Unidad,1,1.15,1.27
+S1-12-006-1118159,945889,3/14/2011 13:36,Tienda Alicante 02,95,Jocelyn Hayes,0,1,11/26/1964,Soltero/a,Entre 40 y 70mil,REVISTA MOTOCICLISMO,No comestibles,Prensa y Revistas,Unidad,1,2.29,2.89
+S1-12-006-1126849,1008768,3/14/2011 13:31,Tienda Alicante 02,95,Kurt Nara,1,0,4/14/1971,Casado/a,Hasta 20mil,DIARIO LA VERDAD,No comestibles,Prensa y Revistas,Unidad,1,1.06,1.21
+S1-12-006-1127144,1010051,3/9/2011 18:09,Tienda Alicante 02,95,Melinda Romero,0,1,5/5/1971,Casado/a,Entre 20 y 40mil,CASTROL 2T 125ML,No comestibles,Productos Varios,Unidad,1,1.48,0.94
+S1-12-006-1128188,1016931,3/14/2011 14:27,Tienda Alicante 02,95,Justin Alexander,1,0,12/10/1969,Casado/a,Entre 20 y 40mil,DIARIO LA VERDAD,No comestibles,Prensa y Revistas,Unidad,1,1.06,1.21
+S1-12-006-987139,12994,3/9/2011 18:11,Tienda Alicante 02,95,Adam Hernandez,1,0,1/15/1963,Casado/a,Entre 40 y 70mil,FERRERO ROCHER T-16,Comestibles,Golosinas y Chocolates,Unidad,1,6.93,4.81
+S1-12-006-991581,36002,3/18/2011 13:03,Tienda Alicante 02,95,Sophia Wright,0,1,2/19/1970,Casado/a,Más de 70mil,KINDER SORPRESA HUEVO,Comestibles,Golosinas y Chocolates,Unidad,1,1.26,0.99
+S1-12-006-992754,46813,3/17/2011 18:29,Tienda Alicante 02,95,Kurt Nara,1,0,4/14/1971,Casado/a,Hasta 20mil,DIARIO LA VERDAD,No comestibles,Prensa y Revistas,Unidad,1,0.98,1.08
+S1-12-006-993940,56049,2/25/2011 20:50,Tienda Alicante 02,95,Taylor Patterson,0,1,12/28/1974,Casado/a,Más de 70mil,LAVAPARABRISAS 7% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,4.25,2.81
+S1-12-006-996635,73273,3/24/2011 18:46,Tienda Alicante 02,95,Samuel Hill,1,0,6/20/1950,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-006-997720,78998,3/25/2011 11:55,Tienda Alicante 02,95,Sebastian Stewart,1,0,9/21/1972,Soltero/a,Más de 70mil,CRESPILLOS PAN LORCA,Comestibles,Alimentacion,Unidad,1,1.42,1.27
+S1-12-006-998064,85042,3/25/2011 18:41,Tienda Alicante 02,95,Kaitlyn Henderson,0,1,11/19/1965,Casado/a,Más de 70mil,CERVEZA ESTRELLA LEVANTE LATA,Comestibles,Refrescos y Bebidas,Unidad,1,0.79,0.46
+S1-12-006-998064,85043,3/25/2011 10:20,Tienda Alicante 02,95,Kaitlyn Henderson,0,1,11/19/1965,Casado/a,Más de 70mil,BRACITO FRESA 160GR 5UND,Comestibles,Golosinas y Chocolates,Unidad,1,1.02,0.64
+S1-12-006-998371,87308,3/23/2011 18:50,Tienda Alicante 02,95,Megan Jenkins,0,1,10/27/1954,Soltero/a,Entre 40 y 70mil,NESTLE SNACK MILKIBAR 33GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.39,0.24
+S1-12-006-998463,87311,3/22/2011 20:44,Tienda Alicante 02,95,Grace Davis,0,1,12/14/1966,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-006-998514,87314,3/30/2011 17:06,Tienda Alicante 02,95,Hunter Jackson,1,0,2/9/1971,Casado/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-006-998588,87316,3/22/2011 11:22,Tienda Alicante 02,95,Noah Scott,1,0,2/14/1963,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-006-998793,90121,4/6/2011 10:39,Tienda Alicante 02,95,Jose Edwards,1,0,2/18/1955,Casado/a,Entre 40 y 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-006-999327,95754,2/9/2011 17:10,Tienda Alicante 02,95,Samuel Hill,1,0,6/20/1950,Soltero/a,Más de 70mil,REGALO PROMOCION 001,Comestibles,Alimentacion,Unidad,1,0.79,0.92
+S1-12-009-102151,213652,4/15/2011 13:57,Tienda La Coruña,120,Alvin Zeng,1,0,7/3/1967,Soltero/a,Más de 70mil,ANTICONGELANTE 10% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,5.33,3.73
+S1-12-009-102162,213653,3/28/2011 11:25,Tienda La Coruña,120,Alvin Zeng,1,0,7/3/1967,Soltero/a,Más de 70mil,ANTICONGELANTE 10% 5LT LEBO,No comestibles,Productos Varios,Unidad,-1,-5.33,-3.73
+S1-12-009-110145,280238,3/14/2011 13:24,Tienda La Coruña,120,Russell Shen,1,0,3/15/1951,Soltero/a,Entre 20 y 40mil,LAVAPARABRISAS 7% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,4.68,2.81
+S1-12-009-110153,280239,4/29/2011 10:47,Tienda La Coruña,120,Russell Shen,1,0,3/15/1951,Soltero/a,Entre 20 y 40mil,LAVAPARABRISAS 7% 5LT LEBO,No comestibles,Productos Varios,Unidad,-1,-4.68,-2.9
+S1-12-009-124342,400688,4/29/2011 0:00,Tienda La Coruña,120,Alberto Ramos,1,0,6/1/1952,Casado/a,Entre 20 y 40mil,PEPSI PET 50CL,Comestibles,Refrescos y Bebidas,Unidad,1,1.11,0.6
+S1-12-009-133498,475817,4/13/2011 13:09,Tienda La Coruña,120,Troy Suri,1,0,4/9/1987,Casado/a,Más de 70mil,ACEITE 2T 3CV SINTETICO 125CC,No comestibles,Productos Varios,Unidad,2,2.3,1.5
+S1-12-009-133738,476970,3/31/2011 12:24,Tienda La Coruña,120,Alexis Jones,0,1,10/10/1945,Soltero/a,Entre 40 y 70mil,BARRA DE PAN ENVASADA,Comestibles,Alimentacion,Unidad,1,0.98,0.75
+S1-12-009-152022,635665,3/14/2011 13:21,Tienda La Coruña,120,Alberto Ramos,1,0,6/1/1952,Casado/a,Entre 20 y 40mil,FIVE PULSE CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,1.42,0.91
+S1-12-009-152022,635666,3/14/2011 14:30,Tienda La Coruña,120,Alberto Ramos,1,0,6/1/1952,Casado/a,Entre 20 y 40mil,MENTOS MENTA 38GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.78,0.46
+S1-12-009-152022,635667,3/14/2011 14:16,Tienda La Coruña,120,Alberto Ramos,1,0,6/1/1952,Casado/a,Entre 20 y 40mil,MENTOS FRUTA 38GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.79,0.46
+S1-12-009-152022,635668,2/7/2011 12:28,Tienda La Coruña,120,Alberto Ramos,1,0,6/1/1952,Casado/a,Entre 20 y 40mil,MENTOS MENTA 38GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.79,0.46
+S1-12-009-152022,635669,3/31/2011 0:00,Tienda La Coruña,120,Alberto Ramos,1,0,6/1/1952,Casado/a,Entre 20 y 40mil,PEPSI LIGHT PET 50CL,Comestibles,Refrescos y Bebidas,Unidad,1,1.14,0.6
+S1-12-009-156579,679839,4/29/2011 17:30,Tienda La Coruña,120,Alberto Ramos,1,0,6/1/1952,Casado/a,Entre 20 y 40mil,SAN MIGUEL LATA 33 CL,Comestibles,Refrescos y Bebidas,Unidad,1,0.94,0.39
+S1-12-009-166701,785439,5/12/2011 17:36,Tienda La Coruña,120,Alberto Ramos,1,0,6/1/1952,Casado/a,Entre 20 y 40mil,PILA LR6 ALCALINA KODAK X4,No comestibles,Papeleria y Libreria,Unidad,5,9.83,6.28
+S1-12-009-172928,839421,5/17/2011 11:42,Tienda La Coruña,120,Omar Liu,1,0,10/1/1987,Casado/a,Más de 70mil,GUANTE PIEL FLOR AMARILLO,No comestibles,Vestido,Unidad,1,3.41,2.68
+S1-12-009-183199,916644,5/20/2011 16:43,Tienda La Coruña,120,Beth Ortega,0,1,4/22/1979,Soltero/a,Hasta 20mil,VIDAL ACIDOS SURTIDO 200GR,Comestibles,Golosinas y Chocolates,Unidad,1,2.05,1.31
+S1-12-009-187444,944484,5/4/2011 12:26,Tienda La Coruña,120,Omar Liu,1,0,10/1/1987,Casado/a,Más de 70mil,GUANTE PIEL FLOR GRIS,No comestibles,Vestido,Unidad,2,6.11,4.53
+S1-12-011-1105545,4470,5/18/2011 10:30,Tienda Castelldefels,190,Logan Patterson,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,ORBIT FRESA CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1105545,4471,4/29/2011 17:55,Tienda Castelldefels,190,Logan Patterson,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,ORBIT MENTA CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.41
+S1-12-011-1105545,4472,2/25/2011 20:51,Tienda Castelldefels,190,Logan Patterson,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1107735,8034,5/9/2011 19:29,Tienda Castelldefels,190,Hector Alonso,1,0,9/23/1965,Casado/a,Más de 70mil,GUSANITOS RISI 85GR,Comestibles,Snacks y Aperitivos,Unidad,1,1.02,0.7
+S1-12-011-1109472,15627,5/9/2011 19:06,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,PAN CASERO PEQUEÑO LARGO,Comestibles,Alimentacion,Unidad,1,1.51,1.24
+S1-12-011-1109472,15628,5/23/2011 18:22,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,VANELLUS MULTI.FLEET 15W40 5LT,No comestibles,Productos Varios,Unidad,1,23.26,16.03
+S1-12-011-1110387,15701,6/1/2011 13:56,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE 10% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,5.34,3.74
+S1-12-011-1110387,15702,6/1/2011 19:40,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE 10% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,5.33,3.74
+S1-12-011-1110387,15703,6/1/2011 13:12,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE 10% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,5.33,3.74
+S1-12-011-1110387,15704,6/14/2011 17:23,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE 10% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,5.33,3.74
+S1-12-011-1111471,16981,6/17/2011 19:55,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE SERRAJE/CUPRON GRS/BLNC,No comestibles,Vestido,Unidad,1,2.13,1.37
+S1-12-011-1111544,16983,6/15/2011 17:25,Tienda Castelldefels,190,Victor Jimenez,1,0,3/25/1982,Soltero/a,Más de 70mil,TOALLA SABANA EUROPA R.USA,No comestibles,Vestido,Unidad,1,10.45,6.91
+S1-12-011-1111544,16984,6/16/2011 17:37,Tienda Castelldefels,190,Victor Jimenez,1,0,3/25/1982,Soltero/a,Más de 70mil,ALMOHADA ALAIZ 80,No comestibles,Vestido,Unidad,1,7.13,4.6
+S1-12-011-1111617,16987,6/29/2011 17:43,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LIMPIA CRISTALES KRAFF 500ML,No comestibles,Productos Varios,Unidad,1,4.97,3.28
+S1-12-011-1111623,16991,6/30/2011 17:34,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,RISKETOS RISI 120GR,Comestibles,Snacks y Aperitivos,Unidad,1,1.02,0.68
+S1-12-011-1111623,16992,6/28/2011 11:55,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,TRISKYS RISI 110GR,Comestibles,Snacks y Aperitivos,Unidad,1,1.03,0.7
+S1-12-011-1111623,16993,5/18/2011 20:04,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1111623,16994,7/6/2011 17:23,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1111623,16995,6/20/2011 17:56,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1111626,16996,7/12/2011 12:31,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LECHE LA LECHERA TUBO 170GRS.,Comestibles,Alimentacion,Unidad,1,1.33,1.16
+S1-12-011-1111626,16997,7/14/2011 19:35,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,CAFE MARCILLA 250GR,Comestibles,Alimentacion,Unidad,1,1.97,1.96
+S1-12-011-1111632,17001,7/15/2011 19:02,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,TOALLITA DODOT DERMOACT. 24UD,No comestibles,Drogueria y Perfumeria,Unidad,1,2.38,1.52
+S1-12-011-1111632,17002,6/2/2011 12:46,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,PAÑUELOS FACIALES COALIMENT,No comestibles,Drogueria y Perfumeria,Unidad,1,0.94,0.79
+S1-12-011-1111632,17003,5/4/2011 11:52,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,PAN DE MOLDE PANRICO 500GR,Comestibles,Alimentacion,Unidad,1,1.89,1.67
+S1-12-011-1112108,21197,5/31/2011 12:13,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,VISCO 3000 10W40 5 LITROS,No comestibles,Productos Varios,Unidad,1,22.98,16.95
+S1-12-011-1112108,21198,6/17/2011 10:42,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,PILA R6 KODAK,No comestibles,Papeleria y Libreria,Unidad,1,1.22,0.71
+S1-12-011-1112797,21221,3/31/2011 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,"TERMO 0,35L ACERO INOX 3885000",No comestibles,Juegos y Complementos,Unidad,1,5.7,4.09
+S1-12-011-1112797,21222,8/31/2011 17:28,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,SAN MIGUEL LATA 33 CL,Comestibles,Refrescos y Bebidas,Unidad,1,0.86,0.37
+S1-12-011-1112797,21223,7/27/2011 13:25,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,VISCO 2000 15W40 1 LITRO,No comestibles,Productos Varios,Unidad,1,6.42,4.19
+S1-12-011-1112797,21224,5/9/2011 17:25,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,SEVEN UP PET 50CL,Comestibles,Refrescos y Bebidas,Unidad,1,1.02,0.59
+S1-12-011-1112797,21225,8/16/2011 12:31,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,BANDOLERA BENZI NGRO 17X22X10,No comestibles,Vestido,Unidad,1,9.29,5.41
+S1-12-011-1112969,21347,8/31/2011 18:10,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,PILA LR6 ALCALINA KODAK X4,No comestibles,Papeleria y Libreria,Unidad,1,2.09,1.17
+S1-12-011-1113289,21351,10/11/2011 17:49,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,AUTOBRILL 400ML FRESH C/BAYETA,No comestibles,Drogueria y Perfumeria,Unidad,1,6.05,4.14
+S1-12-011-1113554,22578,10/28/2011 17:28,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LAVAPARABRISAS 7% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,4.97,2.9
+S1-12-011-1113554,22579,10/31/2011 13:38,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE PIEL FLOR AMARILLO,No comestibles,Vestido,Unidad,1,3.38,2.68
+S1-12-011-1113580,22581,6/21/2011 18:37,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE SERRAJE/CUPRON GRS/BLNC,No comestibles,Vestido,Unidad,1,2.13,1.37
+S1-12-011-1113609,22582,10/31/2011 14:50,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,REC.EXPLORE AMBIPUR CAR,No comestibles,Drogueria y Perfumeria,Unidad,1,4.83,3.35
+S1-12-011-1113609,22583,10/24/2011 12:13,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,REC.EXPLORE AMBIPUR CAR,No comestibles,Drogueria y Perfumeria,Unidad,1,4.83,3.35
+S1-12-011-1114155,19791,10/31/2011 16:15,Tienda Castelldefels,190,Alexis Miller,0,1,9/7/1963,Soltero/a,Entre 40 y 70mil,DIARIO MARCA,No comestibles,Prensa y Revistas,Unidad,1,0.82,0.9
+S1-12-011-1114364,20152,10/31/2011 16:22,Tienda Castelldefels,190,Hector Alonso,1,0,9/23/1965,Casado/a,Más de 70mil,COCA COLA LATA 33CL,Comestibles,Refrescos y Bebidas,Unidad,1,4.69,3.69
+S1-12-011-1114364,20153,10/25/2011 20:06,Tienda Castelldefels,190,Hector Alonso,1,0,9/23/1965,Casado/a,Más de 70mil,DORITOS TEX MEX 150GR,Comestibles,Snacks y Aperitivos,Unidad,1,1.89,1.25
+S1-12-011-1114514,20676,10/31/2011 17:13,Tienda Castelldefels,190,Alyssa Cooper,0,1,2/3/1971,Soltero/a,Más de 70mil,MINIBOLLYCAO PANRICO,Comestibles,Golosinas y Chocolates,Unidad,1,1.5,0.99
+S1-12-011-1114514,20677,10/24/2011 12:09,Tienda Castelldefels,190,Alyssa Cooper,0,1,2/3/1971,Soltero/a,Más de 70mil,DONUTS GLACE 4,Comestibles,Golosinas y Chocolates,Unidad,1,3.11,2.12
+S1-12-011-1115769,24687,10/25/2011 20:13,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE 10% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,5.33,3.74
+S1-12-011-1115772,24688,11/9/2011 19:39,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,MAPA MICHELIN ESP/PORTUG.2013,No comestibles,Papeleria y Libreria,Unidad,1,7.28,5.06
+S1-12-011-1116002,24694,11/4/2011 14:35,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE PIEL FLOR GRIS,No comestibles,Vestido,Unidad,1,3.02,2.27
+S1-12-011-1116101,28867,11/10/2011 13:14,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,BARRA COCIDA DE PAN,Comestibles,Alimentacion,Unidad,1,1.27,1.02
+S1-12-011-1116101,28868,11/10/2011 12:41,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,AGUA 1.5 L FONT VELLA,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.47
+S1-12-011-1116101,28869,11/10/2011 12:40,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,SIDRA GURUTZETA 75CL,Comestibles,Refrescos y Bebidas,Unidad,1,2.02,1.29
+S1-12-011-1116101,28870,11/9/2011 22:48,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,RUFFLES ONDULADAS JAMON 170GR,Comestibles,Snacks y Aperitivos,Unidad,1,2.28,1.53
+S1-12-011-1116101,28871,11/15/2011 14:03,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,PANRICO INTEGRAL 520GR,Comestibles,Alimentacion,Unidad,1,2.29,2.06
+S1-12-011-1116101,28872,11/15/2011 15:14,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,PANRICO INTEGRAL 520GR,Comestibles,Alimentacion,Unidad,1,2.28,2.06
+S1-12-011-1116151,28881,11/10/2011 19:44,Tienda Castelldefels,190,Victor Jimenez,1,0,3/25/1982,Soltero/a,Más de 70mil,PAN CASERO PEQUEÑO LARGO,Comestibles,Alimentacion,Unidad,1,1.51,1.24
+S1-12-011-1116530,28894,11/12/2011 13:56,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,VANELLUS MULTI.FLEET 15W40 5LT,No comestibles,Productos Varios,Unidad,1,23.26,16.03
+S1-12-011-1116672,28906,11/21/2011 14:56,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE LEBO 20% 5L,No comestibles,Productos Varios,Unidad,1,6.42,4.6
+S1-12-011-1116701,28907,11/23/2011 13:03,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE PIEL FLOR GRIS,No comestibles,Vestido,Unidad,1,3.02,2.27
+S1-12-011-1117374,28941,11/15/2011 15:16,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE SERRAJE/CUPRON GRS/BLNC,No comestibles,Vestido,Unidad,1,2.13,1.37
+S1-12-011-1117412,28942,11/28/2011 17:29,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LIMPIA-PARABRISAS CONCENTR.250,No comestibles,Productos Varios,Unidad,1,2.13,1.38
+S1-12-011-1117488,28943,11/9/2011 19:55,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE PIEL FLOR AMARILLO,No comestibles,Vestido,Unidad,1,3.38,2.68
+S1-12-011-1118580,29368,11/9/2011 19:58,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,REC.CONFORT AMBIPUR CAR,No comestibles,Drogueria y Perfumeria,Unidad,1,4.83,3.35
+S1-12-011-1118580,29369,11/28/2011 17:42,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,REC.PURESSE AIR AMBIPUR CAR,No comestibles,Drogueria y Perfumeria,Unidad,1,4.82,3.35
+S1-12-011-1119136,31058,11/30/2011 11:19,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LAVAPARABRISAS 7% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,4.97,2.9
+S1-12-011-1120016,35684,11/21/2011 15:03,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,AGUA 1.5 L FONT VELLA,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.47
+S1-12-011-1120295,35689,11/30/2011 17:34,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LAVAPARABRISAS 7% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,4.97,2.81
+S1-12-011-1120389,35697,11/30/2011 17:38,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE PIEL FLOR GRIS,No comestibles,Vestido,Unidad,1,3.02,2.27
+S1-12-011-1120389,35698,11/30/2011 20:13,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE PIEL FLOR GRIS,No comestibles,Vestido,Unidad,1,3.03,2.27
+S1-12-011-1120509,31596,11/30/2011 18:51,Tienda Castelldefels,190,Eduardo Alexander,1,0,3/5/1971,Soltero/a,Más de 70mil,CALCETIN TERMAL CBRO.PACK-3,No comestibles,Vestido,Unidad,1,4.11,3.05
+S1-12-011-1120654,36273,12/15/2011 18:39,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GORRO THINSULATE MOD.525,No comestibles,Vestido,Unidad,1,2.59,1.32
+S1-12-011-1120654,36274,12/30/2011 16:49,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE PIEL FLOR AMARILLO,No comestibles,Vestido,Unidad,1,3.39,2.68
+S1-12-011-1120876,36305,12/30/2011 16:49,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,REC.EXPLORE AMBIPUR CAR,No comestibles,Drogueria y Perfumeria,Unidad,1,4.83,3.35
+S1-12-011-1121372,36320,1/31/2012 13:54,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,TRATAM.INVIERNO DIESEL 1LT 3CV,No comestibles,Productos Varios,Unidad,1,18.66,12.65
+S1-12-011-1121736,36330,1/31/2012 13:55,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,TRATAM.INVIERNO DIESEL 1LT 3CV,No comestibles,Productos Varios,Unidad,1,18.66,12.65
+S1-12-011-1121982,36415,11/13/2009 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE 30% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,8.21,5.59
+S1-12-011-1121982,36416,11/8/2010 16:17,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LIMPIAPARABRISAS 1L,No comestibles,Productos Varios,Unidad,1,1.87,1.17
+S1-12-011-1121982,36417,11/12/2010 17:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LIMPIAPARABRISAS 1L,No comestibles,Productos Varios,Unidad,1,1.88,1.17
+S1-12-011-1121982,36418,11/12/2010 17:06,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LIMPIAPARABRISAS 1L,No comestibles,Productos Varios,Unidad,1,1.87,1.17
+S1-12-011-1121982,36419,12/30/2010 17:12,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LIMPIAPARABRISAS 1L,No comestibles,Productos Varios,Unidad,1,1.87,1.17
+S1-12-011-1122867,35668,1/21/2011 10:31,Tienda Castelldefels,190,Mariah Ross,0,1,1/11/1959,Casado/a,Entre 40 y 70mil,HALLS S/A FRESA MENTOLADA,Comestibles,Golosinas y Chocolates,Unidad,1,1.18,0.75
+S1-12-011-1122908,38782,11/8/2010 16:05,Tienda Castelldefels,190,Victor Jimenez,1,0,3/25/1982,Soltero/a,Más de 70mil,ANTICONGELANTE 30% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,8.21,5.76
+S1-12-011-1122912,38578,1/21/2011 11:14,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,TRATAM.INVIERNO DIESEL 1LT 3CV,No comestibles,Productos Varios,Unidad,1,18.66,12.65
+S1-12-011-1122912,38579,2/7/2011 12:17,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,TRATAM.INVIERNO DIESEL 1LT 3CV,No comestibles,Productos Varios,Unidad,1,18.66,12.65
+S1-12-011-1122965,38580,2/7/2011 12:13,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE LEBO 20% 5L,No comestibles,Productos Varios,Unidad,1,6.41,4.46
+S1-12-011-1123143,36265,3/25/2011 13:01,Tienda Castelldefels,190,Alexis Miller,0,1,9/7/1963,Soltero/a,Entre 40 y 70mil,MENTOS FRUTA 38GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.78,0.46
+S1-12-011-1123143,36266,5/19/2011 13:53,Tienda Castelldefels,190,Alexis Miller,0,1,9/7/1963,Soltero/a,Entre 40 y 70mil,MENTOS COLA 40GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.79,0.45
+S1-12-011-1123240,44257,5/18/2011 11:05,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LAVAPARABRISAS 7% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,4.96,2.81
+S1-12-011-1123240,44258,5/11/2011 16:15,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LAVAPARABRISAS 7% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,4.97,2.81
+S1-12-011-1123242,44259,6/24/2011 7:52,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LAVAPARABRISAS 7% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,4.97,2.81
+S1-12-011-1123346,44263,4/26/2011 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LAVAPARABRISAS 7% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,4.97,2.81
+S1-12-011-1123346,44264,8/11/2011 17:31,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LAVAPARABRISAS 7% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,4.97,2.81
+S1-12-011-1123486,44265,8/22/2011 19:36,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LAVAPARABRISAS 7% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,4.96,2.81
+S1-12-011-1123530,44266,8/24/2011 17:54,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LAVAPARABRISAS 7% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,4.97,2.81
+S1-12-011-1123530,44267,3/31/2011 19:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LAVAPARABRISAS 7% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,4.97,2.81
+S1-12-011-1123607,44268,9/30/2011 10:57,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GOFRE PANRICO,Comestibles,Golosinas y Chocolates,Unidad,1,1.33,0.82
+S1-12-011-1124069,44274,12/9/2011 19:25,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE DIESEL ICE PROO,No comestibles,Productos Varios,Unidad,1,21.54,14.5
+S1-12-011-1124069,44275,2/27/2010 17:22,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE SERRAJE/CUPRON GRS/BLNC,No comestibles,Vestido,Unidad,1,2.13,1.37
+S1-12-011-1124069,44276,2/27/2010 18:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE PIEL FLOR AMARILLO,No comestibles,Vestido,Unidad,1,3.38,2.68
+S1-12-011-1124424,44278,2/27/2010 17:08,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,TOALLITA DODOT DERMOACT. 24UD,No comestibles,Drogueria y Perfumeria,Unidad,1,2.38,1.52
+S1-12-011-1124424,44279,2/27/2010 17:12,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,PAÑUELOS FACIALES COALIMENT,No comestibles,Drogueria y Perfumeria,Unidad,1,0.94,0.79
+S1-12-011-1124535,44280,2/27/2010 17:29,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE 30% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,8.21,5.6
+S1-12-011-1124536,44281,2/27/2010 18:07,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LAVAPARABRISAS 7% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,4.97,2.81
+S1-12-011-1124593,44282,2/27/2010 17:40,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE DIESEL ICE PROO,No comestibles,Productos Varios,Unidad,1,21.54,14.5
+S1-12-011-1124593,44283,2/27/2010 17:54,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE DIESEL ICE PROO,No comestibles,Productos Varios,Unidad,1,21.53,14.5
+S1-12-011-1124596,44285,2/27/2010 18:12,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE PIEL FLOR GRIS,No comestibles,Vestido,Unidad,1,3.03,2.27
+S1-12-011-1124963,44289,2/27/2010 17:25,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE DIESEL ICE PROO,No comestibles,Productos Varios,Unidad,1,21.54,14.5
+S1-12-011-1125910,44817,2/27/2010 17:43,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,VISCO 3000 10W40 5 LITROS,No comestibles,Productos Varios,Unidad,1,22.98,16.95
+S1-12-011-1125910,44818,2/27/2010 17:38,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,VISCO 3000 10W40 5 LITROS,No comestibles,Productos Varios,Unidad,1,22.98,16.95
+S1-12-011-1126086,44821,2/27/2010 17:31,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE SERRAJE/CUPRON GRS/BLNC,No comestibles,Vestido,Unidad,1,2.13,1.37
+S1-12-011-1126177,44824,2/27/2010 17:15,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE PIEL FLOR AMARILLO,No comestibles,Vestido,Unidad,1,3.38,2.68
+S1-12-011-1126361,44827,2/27/2010 18:03,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,BOTA MONZA NÚ44 S1P PUNT.ACERO,No comestibles,Vestido,Unidad,1,20.82,19.46
+S1-12-011-1126361,44828,2/27/2010 17:35,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,MAPA MICHELIN ESP/PORTUG.2013,No comestibles,Papeleria y Libreria,Unidad,1,7.28,4.9
+S1-12-011-1126825,44826,2/27/2010 17:03,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE DIESEL ICE PROO,No comestibles,Productos Varios,Unidad,1,21.54,14.5
+S1-12-011-1127091,45384,2/27/2010 18:10,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE PIEL FLOR GRIS,No comestibles,Vestido,Unidad,1,3.03,2.27
+S1-12-011-1127265,45386,2/27/2010 18:15,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,AGUA DE 1.5 L. PACK-6,Comestibles,Refrescos y Bebidas,Unidad,1,2.33,1.24
+S1-12-011-1127265,45387,3/1/2010 10:47,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LECHE ENTERA RIO 1L,Comestibles,Alimentacion,Unidad,1,0.89,0.74
+S1-12-011-1127306,45388,3/1/2010 12:03,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE SERRAJE/CUPRON GRS/BLNC,No comestibles,Vestido,Unidad,1,2.13,1.37
+S1-12-011-1127391,45390,3/1/2010 10:41,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE 30% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,8.21,5.6
+S1-12-011-1127391,45391,3/3/2010 9:40,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE 30% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,8.22,5.6
+S1-12-011-1127578,47915,3/30/2010 19:43,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE 30% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,8.21,5.6
+S1-12-011-1127733,47921,3/27/2010 17:30,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ACEITE REPSOL SHPD 15W40 5L,No comestibles,Productos Varios,Unidad,1,21.54,15.05
+S1-12-011-1127733,47922,3/23/2010 11:21,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ACEITE REPSOL SHPD 15W40 5L,No comestibles,Productos Varios,Unidad,1,21.54,15.05
+S1-12-011-1127763,47923,3/24/2010 12:57,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,DIF+REC DISCOVERY AMBIPUR CAR,No comestibles,Drogueria y Perfumeria,Unidad,1,6.12,4.07
+S1-12-011-1128017,49508,3/16/2010 11:33,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE 10% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,5.33,3.62
+S1-12-011-1128131,49510,3/27/2010 17:40,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,PEGAMENTO SUPER GLU 3GR,No comestibles,Papeleria y Libreria,Unidad,1,3.75,2.51
+S1-12-011-1128230,49523,3/27/2010 17:20,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE SERRAJE/CUPRON GRS/BLNC,No comestibles,Vestido,Unidad,1,2.13,1.37
+S1-12-011-1128230,49524,4/23/2010 17:14,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE SERRAJE/CUPRON GRS/BLNC,No comestibles,Vestido,Unidad,1,2.13,1.37
+S1-12-011-1128235,49526,4/27/2010 13:17,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LAVAPARABRISAS 7% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,4.97,2.81
+S1-12-011-1128236,49527,5/28/2010 12:20,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LAVAPARABRISAS 7% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,4.97,2.81
+S1-12-011-1129407,49555,3/27/2010 12:44,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE LEBO 20% 5L,No comestibles,Productos Varios,Unidad,1,6.42,4.46
+S1-12-011-1129445,49558,5/28/2010 13:02,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE SERRAJE/CUPRON GRS/BLNC,No comestibles,Vestido,Unidad,1,2.13,1.37
+S1-12-011-1129665,49570,5/20/2010 17:14,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,AGUA 1.5 L FONT VELLA,Comestibles,Refrescos y Bebidas,Unidad,1,0.86,0.47
+S1-12-011-1130191,49361,4/30/2010 18:03,Tienda Castelldefels,190,Hector Alonso,1,0,9/23/1965,Casado/a,Más de 70mil,FIVE COBALT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,1.41,0.91
+S1-12-011-1130428,51529,4/29/2010 13:02,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE SERRAJE/CUPRON GRS/BLNC,No comestibles,Vestido,Unidad,1,2.13,1.37
+S1-12-011-1130725,51537,4/23/2010 17:15,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE PIEL FLOR GRIS,No comestibles,Vestido,Unidad,1,3.03,2.27
+S1-12-011-1130859,51538,4/23/2010 17:32,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,BARRA COCIDA DE PAN,Comestibles,Alimentacion,Unidad,1,1.28,1.02
+S1-12-011-1130859,51539,6/9/2010 16:52,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LECHE PASCUAL 1L ENTERA,Comestibles,Alimentacion,Unidad,1,1.22,0.95
+S1-12-011-1132911,57189,6/2/2010 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LIMPIAPARABRISAS 1L,No comestibles,Productos Varios,Unidad,1,1.87,1.17
+S1-12-011-1132992,55984,6/1/2010 12:29,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,BARRA COCIDA DE PAN,Comestibles,Alimentacion,Unidad,1,1.27,1.02
+S1-12-011-1132992,55985,5/28/2010 11:46,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,QUESO LONCH.COALIMENT MEZ.SEMI,Comestibles,Alimentacion,Unidad,1,2.29,1.94
+S1-12-011-1132992,55986,6/11/2010 19:39,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,CHORIZO TRADICION REVILLA 85G,Comestibles,Alimentacion,Unidad,1,0.79,0.81
+S1-12-011-1132992,55987,6/11/2010 19:36,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,AGUA 1.5 L FONT VELLA,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.47
+S1-12-011-1132992,55988,6/30/2010 11:19,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ESTETIC INTEGRAL CHOCO 200GR,Comestibles,Golosinas y Chocolates,Unidad,1,1.53,1.05
+S1-12-011-1132992,55989,7/1/2010 10:40,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1132992,55990,6/30/2010 11:27,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1132992,55991,4/23/2010 17:18,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1133276,56002,6/1/2010 12:33,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE PIEL FLOR GRIS,No comestibles,Vestido,Unidad,1,3.03,2.27
+S1-12-011-1133276,56003,6/1/2010 12:32,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE SERRAJE/CUPRON GRS/BLNC,No comestibles,Vestido,Unidad,1,2.13,1.37
+S1-12-011-1133430,57197,7/1/2010 10:55,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,PILA LR03 KODAK ALCALINA,No comestibles,Papeleria y Libreria,Unidad,1,2.13,1.21
+S1-12-011-1133834,57202,7/1/2010 10:57,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE PIEL FLOR GRIS,No comestibles,Vestido,Unidad,1,3.03,2.27
+S1-12-011-1133989,56509,7/1/2010 10:56,Tienda Castelldefels,190,Hector Alonso,1,0,9/23/1965,Casado/a,Más de 70mil,FIVE COBALT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,1.42,0.91
+S1-12-011-1134296,58175,6/30/2010 11:21,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE 10% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,5.33,3.62
+S1-12-011-1134541,61689,4/23/2010 17:17,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ACEITE REPSOL SHPD 15W40 5L,No comestibles,Productos Varios,Unidad,1,21.54,15.05
+S1-12-011-1134541,61690,7/26/2010 12:09,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ACEITE REPSOL SHPD 15W40 5L,No comestibles,Productos Varios,Unidad,1,21.54,15.04
+S1-12-011-1134662,61699,7/26/2010 12:10,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,REC.EXPLORE AMBIPUR CAR,No comestibles,Drogueria y Perfumeria,Unidad,1,4.83,3.24
+S1-12-011-1134662,61700,10/29/2010 17:40,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,REC.EXPLORE AMBIPUR CAR,No comestibles,Drogueria y Perfumeria,Unidad,1,4.83,3.24
+S1-12-011-1134728,61701,7/26/2010 12:07,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE SERRAJE/CUPRON GRS/BLNC,No comestibles,Vestido,Unidad,1,2.13,1.37
+S1-12-011-1134969,57996,9/30/2010 11:24,Tienda Castelldefels,190,Alexis Miller,0,1,9/7/1963,Soltero/a,Entre 40 y 70mil,DIARIO AS,No comestibles,Prensa y Revistas,Unidad,1,0.82,0.91
+S1-12-011-1135345,58950,12/20/2010 0:00,Tienda Castelldefels,190,Logan Patterson,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,CASTROL 2T 125ML,No comestibles,Productos Varios,Unidad,1,1.62,0.9
+S1-12-011-1135345,58951,1/18/2011 0:00,Tienda Castelldefels,190,Logan Patterson,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,CASTROL 2T 125ML,No comestibles,Productos Varios,Unidad,1,1.62,0.9
+S1-12-011-1135345,58952,4/7/2011 16:57,Tienda Castelldefels,190,Logan Patterson,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,CASTROL 2T 125ML,No comestibles,Productos Varios,Unidad,1,1.62,0.9
+S1-12-011-1135345,58953,11/18/2010 0:00,Tienda Castelldefels,190,Logan Patterson,1,0,4/24/1959,Soltero/a,Entre 40 y 70mil,CASTROL 2T 125ML,No comestibles,Productos Varios,Unidad,1,1.62,0.9
+S1-12-011-1135864,59836,4/29/2011 16:48,Tienda Castelldefels,190,Alexis Miller,0,1,9/7/1963,Soltero/a,Entre 40 y 70mil,DIARIO MARCA,No comestibles,Prensa y Revistas,Unidad,1,0.82,0.9
+S1-12-011-1135987,59830,11/18/2010 0:00,Tienda Castelldefels,190,Hector Alonso,1,0,9/23/1965,Casado/a,Más de 70mil,PAN CASERO PEQUEÑO LARGO,Comestibles,Alimentacion,Unidad,1,1.51,1.28
+S1-12-011-1135987,59832,5/10/2011 11:41,Tienda Castelldefels,190,Hector Alonso,1,0,9/23/1965,Casado/a,Más de 70mil,FIVE COBALT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,1.41,0.91
+S1-12-011-1135987,59833,7/29/2011 12:20,Tienda Castelldefels,190,Hector Alonso,1,0,9/23/1965,Casado/a,Más de 70mil,HALLS S/A EXTRAFUERTE,Comestibles,Golosinas y Chocolates,Unidad,1,1.18,0.75
+S1-12-011-1136107,62810,7/29/2011 12:55,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LIMPIA CRISTALES KRAFF 500ML,No comestibles,Productos Varios,Unidad,1,4.97,3.28
+S1-12-011-1136107,62811,3/12/2011 17:23,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LAVAPARABRISAS 7% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,4.97,2.81
+S1-12-011-1136627,62825,7/29/2011 12:09,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE PIEL FLOR GRIS,No comestibles,Vestido,Unidad,1,3.03,2.27
+S1-12-011-1136786,62834,11/11/2011 12:08,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ACEITE REPSOL SHPD 15W40 5L,No comestibles,Productos Varios,Unidad,1,21.54,15.04
+S1-12-011-1136971,62839,8/31/2011 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE 10% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,5.33,3.62
+S1-12-011-1137132,64912,6/5/2009 20:44,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,BARRA COCIDA DE PAN,Comestibles,Alimentacion,Unidad,1,1.27,1.04
+S1-12-011-1137132,64913,5/29/2009 17:13,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,QUESO 250GR CABRA COALIMENT,Comestibles,Alimentacion,Unidad,1,2.86,2.93
+S1-12-011-1137132,64914,6/10/2009 16:51,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1137132,64915,8/4/2009 9:48,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1137132,64916,11/20/2009 15:57,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1137132,64917,10/23/2009 16:22,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1137132,64918,12/22/2009 18:25,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1137132,64919,1/4/2010 17:04,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1137132,64920,12/23/2009 12:14,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,TWIX SINGLE 50GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.87,0.56
+S1-12-011-1137132,64921,10/5/2009 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,CHORIZO PICANTE VELA UNIDAD,Comestibles,Alimentacion,Unidad,1,3.7,3.31
+S1-12-011-1137342,64939,11/5/2009 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE PIEL FLOR GRIS,No comestibles,Vestido,Unidad,1,3.03,2.27
+S1-12-011-1137499,64942,11/20/2009 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,AGUA 1.5 L FONT VELLA,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.47
+S1-12-011-1137499,64943,11/20/2009 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,CRIANZA PAULUS 75CL,Comestibles,Refrescos y Bebidas,Unidad,1,4.11,3.05
+S1-12-011-1137499,64944,12/23/2009 16:38,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1137499,64945,6/2/2010 11:48,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1137499,64946,6/1/2010 19:50,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1137586,62634,6/26/2010 12:19,Tienda Castelldefels,190,Devin Simmons,1,0,6/4/1959,Casado/a,Entre 40 y 70mil,FIVE COBALT CHICLE,Comestibles,Golosinas y Chocolates,Unidad,1,1.42,0.91
+S1-12-011-1137586,62635,6/11/2010 9:57,Tienda Castelldefels,190,Devin Simmons,1,0,6/4/1959,Casado/a,Entre 40 y 70mil,SENSES WATERMELON TRIDENT,Comestibles,Golosinas y Chocolates,Unidad,1,1.5,0.94
+S1-12-011-1137860,63327,11/23/2010 10:47,Tienda Castelldefels,190,Maria Jenkins,0,1,5/22/1954,Soltero/a,Entre 40 y 70mil,CASTROL 2T 125ML,No comestibles,Productos Varios,Unidad,1,1.62,0.9
+S1-12-011-1137990,64986,2/28/2011 19:40,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE SERRAJE/CUPRON GRS/BLNC,No comestibles,Vestido,Unidad,1,2.13,1.37
+S1-12-011-1137990,64987,11/23/2010 10:29,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE SERRAJE/CUPRON GRS/BLNC,No comestibles,Vestido,Unidad,1,2.13,1.37
+S1-12-011-1138604,67831,2/28/2011 11:27,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE PIEL FLOR GRIS,No comestibles,Vestido,Unidad,1,3.03,2.27
+S1-12-011-1139945,67117,11/23/2010 10:33,Tienda Castelldefels,190,Alexis Miller,0,1,9/7/1963,Soltero/a,Entre 40 y 70mil,DIARIO MARCA,No comestibles,Prensa y Revistas,Unidad,1,0.82,0.9
+S1-12-011-1139945,67118,3/17/2011 20:08,Tienda Castelldefels,190,Alexis Miller,0,1,9/7/1963,Soltero/a,Entre 40 y 70mil,PAN CASERO GRANDE LARGO/REDOND,Comestibles,Alimentacion,Unidad,1,2.04,1.83
+S1-12-011-1140003,70206,11/19/2010 20:29,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,COCA COLA PACK-8,Comestibles,Refrescos y Bebidas,Unidad,1,4.68,3.68
+S1-12-011-1140003,70207,12/3/2010 10:59,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,AZUCAR BOLSA PAPEL 1KG,Comestibles,Alimentacion,Unidad,1,1.1,1.1
+S1-12-011-1140003,70208,3/28/2011 20:14,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,BARRA COCIDA DE PAN,Comestibles,Alimentacion,Unidad,1,1.27,1.04
+S1-12-011-1140003,70209,2/26/2011 13:22,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LECHE LA LECHERA TUBO 170GRS.,Comestibles,Alimentacion,Unidad,1,1.34,1.13
+S1-12-011-1140003,70210,3/17/2011 19:30,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,NESCAFE DESCAFEINADO 100GR,Comestibles,Alimentacion,Unidad,1,3.38,3.32
+S1-12-011-1140928,71201,7/20/2011 18:05,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,KAS NARANJA PET 1L,Comestibles,Refrescos y Bebidas,Unidad,1,1.5,0.92
+S1-12-011-1140928,71202,5/25/2011 11:47,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,TOALLITA DODOT DERMOACT. 24UD,No comestibles,Drogueria y Perfumeria,Unidad,1,2.38,1.52
+S1-12-011-1140928,71203,10/27/2011 18:12,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,PAÑUELOS FACIALES COALIMENT,No comestibles,Drogueria y Perfumeria,Unidad,1,0.94,0.79
+S1-12-011-1140928,71204,1/23/2012 19:10,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,PAN CASERO PEQUEÑO LARGO,Comestibles,Alimentacion,Unidad,1,1.51,1.27
+S1-12-011-1140928,71205,7/29/2009 9:09,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,CHORIZO PAMPLONA 85GR,Comestibles,Alimentacion,Unidad,1,0.78,0.81
+S1-12-011-1140928,71206,6/22/2009 17:56,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,JAMON COCIDO L/100GRS,Comestibles,Alimentacion,Unidad,1,1.34,1.21
+S1-12-011-1140928,71207,9/7/2009 9:33,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,JAMON COCIDO L/100GRS,Comestibles,Alimentacion,Unidad,1,1.33,1.21
+S1-12-011-1141040,71216,11/2/2009 9:57,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,BARRA COCIDA DE PAN,Comestibles,Alimentacion,Unidad,1,1.27,1.04
+S1-12-011-1141040,71217,3/1/2010 19:38,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,FINI AROS FRESA 100GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.91,0.54
+S1-12-011-1141040,71218,4/13/2010 8:45,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,FINI GUSANO PICA 100GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.9,0.51
+S1-12-011-1141040,71219,11/13/2009 11:58,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,FINI LADRILLOS FRESA PICA 100G,Comestibles,Golosinas y Chocolates,Unidad,1,0.91,0.51
+S1-12-011-1141040,71221,1/4/2010 9:44,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ZAPATO AVELINO NÚ43 PUNT.ACERO,No comestibles,Vestido,Unidad,1,19.38,18.18
+S1-12-011-1141843,72528,2/4/2010 9:13,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,VANELLUS MAX DRAIN 10W40 5L,No comestibles,Productos Varios,Unidad,1,30.91,26.34
+S1-12-011-1142626,75411,11/10/2010 19:10,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,AUTOBRILL 400ML NEW CAR C/BAYT,No comestibles,Drogueria y Perfumeria,Unidad,1,6.05,4.14
+S1-12-011-1143866,77111,2/25/2011 19:03,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LECHE SEMIDESNATADA RIO 1L,Comestibles,Alimentacion,Unidad,1,0.89,0.7
+S1-12-011-1143866,77112,12/15/2010 20:28,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LECHE SEMIDESNATADA RIO 1L,Comestibles,Alimentacion,Unidad,1,0.9,0.7
+S1-12-011-1143866,77113,11/9/2010 16:46,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,AZUCAR BOLSA PAPEL 1KG,Comestibles,Alimentacion,Unidad,1,1.1,1.1
+S1-12-011-1143866,77114,4/26/2011 18:41,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,NESCAFE DESCAFEINADO 100GR,Comestibles,Alimentacion,Unidad,1,3.38,3.32
+S1-12-011-1143866,77115,2/17/2011 10:47,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,QUESO GRAN CAPITAN 250GR CURAD,Comestibles,Alimentacion,Unidad,1,3.35,3.13
+S1-12-011-1143866,77116,4/28/2009 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,VINO PAULUS TINTO JOVEN 75CL,Comestibles,Refrescos y Bebidas,Unidad,1,2.52,1.73
+S1-12-011-1143866,77117,7/16/2009 13:09,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ATUN ESCABECHE ISABEL 80GR*3,Comestibles,Alimentacion,Unidad,1,1.81,1.75
+S1-12-011-1143866,77118,6/13/2009 12:42,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ATUN ESCABECHE ISABEL 80GR*3,Comestibles,Alimentacion,Unidad,1,1.81,1.75
+S1-12-011-1143866,77119,7/2/2009 11:22,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,CHORIZO PUEBLO VELA UNIDAD,Comestibles,Alimentacion,Unidad,1,3.78,3.14
+S1-12-011-1143866,77120,6/29/2009 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,CHORIZO PUEBLO VELA UNIDAD,Comestibles,Alimentacion,Unidad,1,3.77,3.31
+S1-12-011-1143866,77121,11/16/2009 11:28,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,PANRICO INTEGRAL 520GR,Comestibles,Alimentacion,Unidad,1,2.29,2.06
+S1-12-011-1143866,77122,10/29/2009 20:11,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,PANRICO INTEGRAL 520GR,Comestibles,Alimentacion,Unidad,1,2.28,2.06
+S1-12-011-1143866,77123,11/16/2009 12:42,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,MAYONESA KRAFT 450ML NORMAL,Comestibles,Alimentacion,Unidad,1,1.5,1.43
+S1-12-011-1143866,77124,7/18/2009 10:52,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LECHE LA LECHERA TUBO 170GRS.,Comestibles,Alimentacion,Unidad,1,1.34,1.13
+S1-12-011-1143866,77125,11/26/2009 17:31,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,BARRA COCIDA DE PAN,Comestibles,Alimentacion,Unidad,1,1.27,1.04
+S1-12-011-1143866,77126,7/18/2009 10:50,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1143866,77127,12/29/2009 18:16,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1143866,77128,7/16/2009 13:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1143866,77129,12/29/2009 18:23,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1143866,77130,2/8/2010 16:54,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1143866,77131,11/26/2009 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1143866,77132,4/6/2010 13:20,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1143866,77133,12/24/2009 12:39,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1143877,77134,4/15/2010 10:05,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,MERMEL. MELOCOT VIEJA FABR 350,Comestibles,Alimentacion,Unidad,1,1.89,1.61
+S1-12-011-1143877,77135,10/22/2009 16:43,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,PISTO HELIOS FRASCO 1 KG.,Comestibles,Alimentacion,Unidad,1,1.73,1.39
+S1-12-011-1143877,77136,2/24/2010 16:50,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,CREMA MEMBRILLO QUIJOTE 400GR.,Comestibles,Alimentacion,Unidad,1,1.54,1.53
+S1-12-011-1144653,77157,3/5/2010 9:21,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE PIEL FLOR AMARILLO,No comestibles,Vestido,Unidad,1,3.38,2.68
+S1-12-011-1145174,78059,2/18/2010 9:34,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE SERRAJE/CUPRON GRS/BLNC,No comestibles,Vestido,Unidad,1,2.13,1.23
+S1-12-011-1145349,77571,5/11/2010 9:59,Tienda Castelldefels,190,Hector Alonso,1,0,9/23/1965,Casado/a,Más de 70mil,HALLS S/A EXTRAFUERTE,Comestibles,Golosinas y Chocolates,Unidad,1,1.18,0.75
+S1-12-011-1145653,80612,6/14/2010 10:39,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ACEITE REPSOL SHPD 15W40 5L,No comestibles,Productos Varios,Unidad,1,21.54,15.04
+S1-12-011-1145880,82419,2/20/2010 13:38,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LAVAVAJILLAS MISTOL 1LT,No comestibles,Drogueria y Perfumeria,Unidad,1,1.4,1.14
+S1-12-011-1145880,82420,12/24/2009 12:19,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE 10% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,5.34,3.62
+S1-12-011-1146424,82455,6/15/2010 9:32,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,TOALLITA DODOT DERMOACT. 24UD,No comestibles,Drogueria y Perfumeria,Unidad,1,2.38,1.52
+S1-12-011-1147438,84063,4/30/2010 20:51,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,TOALLITA DODOT DERMOACT. 24UD,No comestibles,Drogueria y Perfumeria,Unidad,1,2.38,1.52
+S1-12-011-1147438,84064,7/26/2010 13:17,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,BAYET.MICROFIBR.MULTIUSO 38X40,No comestibles,Drogueria y Perfumeria,Unidad,1,2.95,2
+S1-12-011-1147438,84066,5/19/2010 11:22,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,AGUA 1.5 L FONT VELLA,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.47
+S1-12-011-1147440,84068,5/28/2010 20:11,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ANTICONGELANTE 30% 5LT LEBO,No comestibles,Productos Varios,Unidad,1,8.21,5.6
+S1-12-011-1147626,84074,7/9/2010 9:42,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE SERRAJE/CUPRON GRS/BLNC,No comestibles,Vestido,Unidad,1,2.13,1.23
+S1-12-011-1148054,84562,7/17/2010 11:31,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE PIEL FLOR AMARILLO,No comestibles,Vestido,Unidad,1,3.39,2.68
+S1-12-011-1148771,87564,11/18/2010 17:40,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,RADICAL AKTIV LIMON PET 50CL,Comestibles,Refrescos y Bebidas,Unidad,1,1.41,0.87
+S1-12-011-1148771,87565,7/13/2010 17:58,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,AGUA 1.5 L FONT VELLA,Comestibles,Refrescos y Bebidas,Unidad,1,0.87,0.47
+S1-12-011-1148815,87566,11/30/2010 16:43,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,PAN CASERO GRANDE LARGO/REDOND,Comestibles,Alimentacion,Unidad,1,2.05,1.84
+S1-12-011-1148815,87567,11/27/2010 12:36,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ESTETIC INTEGRAL CHOCO 200GR,Comestibles,Golosinas y Chocolates,Unidad,1,1.54,1.01
+S1-12-011-1148815,87568,12/28/2010 10:53,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,QUESO COALIMENT 250GR SEMICURA,Comestibles,Alimentacion,Unidad,1,2.29,2.15
+S1-12-011-1148815,87569,12/16/2010 10:33,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,KNORR CALDO ABUELA POLLO 1L,Comestibles,Alimentacion,Unidad,1,1.26,0.75
+S1-12-011-1148815,87570,11/25/2010 20:20,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,TRISKYS RISI 110GR,Comestibles,Snacks y Aperitivos,Unidad,1,1.02,0.68
+S1-12-011-1148815,87571,3/5/2011 14:57,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LECHE LA LECHERA TUBO 170GRS.,Comestibles,Alimentacion,Unidad,1,1.34,1.13
+S1-12-011-1148815,87572,11/23/2010 19:55,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,CHORIZO TRADICION REVILLA 85G,Comestibles,Alimentacion,Unidad,1,0.78,0.81
+S1-12-011-1148815,87573,3/5/2011 15:08,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,SALCHICHON L/85GR REVILLA,Comestibles,Alimentacion,Unidad,1,0.79,0.81
+S1-12-011-1148815,87574,4/12/2011 17:54,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,CHORIZO PAMPLONA 85GR,Comestibles,Alimentacion,Unidad,1,0.78,0.81
+S1-12-011-1148815,87575,4/29/2011 16:25,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1148815,87576,4/29/2011 13:16,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1148815,87577,8/29/2011 19:32,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1148815,87578,8/29/2011 16:04,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1148815,87579,8/30/2011 18:58,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ORBIT EUCALIPTO CHICLE 14GR,Comestibles,Golosinas y Chocolates,Unidad,1,0.71,0.4
+S1-12-011-1150089,88668,4/6/2011 19:52,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,MAPA 721 FRANCIA 2013,No comestibles,Papeleria y Libreria,Unidad,1,8.09,5.3
+S1-12-011-1150089,88669,11/3/2011 16:44,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,GUANTE PIEL FLOR GRIS,No comestibles,Vestido,Unidad,1,3.03,2.27
+S1-12-011-1150999,90235,4/2/2009 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,AUTOBRILL 400ML NEW CAR C/BAYT,No comestibles,Drogueria y Perfumeria,Unidad,1,6.05,4.01
+S1-12-011-1151220,90239,4/30/2009 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ESTETIC INTEGRAL CHOCO 200GR,Comestibles,Golosinas y Chocolates,Unidad,1,1.54,1.01
+S1-12-011-1151220,90240,4/30/2009 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LECHE LA LECHERA TUBO 170GRS.,Comestibles,Alimentacion,Unidad,1,1.33,1.13
+S1-12-011-1151493,90241,4/30/2009 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,DIF+REC DISCOVERY AMBIPUR CAR,No comestibles,Drogueria y Perfumeria,Unidad,1,6.13,4.07
+S1-12-011-1151558,90244,4/30/2009 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LECHE SEMIDESNATADA RIO 1L,Comestibles,Alimentacion,Unidad,1,0.9,0.7
+S1-12-011-1151558,90245,5/18/2009 13:51,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LECHE SEMIDESNATADA RIO 1L,Comestibles,Alimentacion,Unidad,1,0.9,0.7
+S1-12-011-1151558,90246,5/18/2009 13:52,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,LECHE SEMIDESNATADA RIO 1L,Comestibles,Alimentacion,Unidad,1,0.89,0.7
+S1-12-011-1151558,90247,4/30/2009 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,KRIT SANDWICH QUESO 125GR CUET,Comestibles,Snacks y Aperitivos,Unidad,1,1.54,1.05
+S1-12-011-1151558,90248,4/30/2009 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,DENT.COLGATE FAMILIAR 75ML,No comestibles,Drogueria y Perfumeria,Unidad,1,2.13,1.23
+S1-12-011-1151558,90249,4/30/2009 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ALUBIA ROJA JA`E 390GR,Comestibles,Alimentacion,Unidad,1,0.86,0.68
+S1-12-011-1151558,90250,4/30/2009 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ALUBIA ROJA JA`E 390GR,Comestibles,Alimentacion,Unidad,1,0.87,0.68
+S1-12-011-1151558,90251,4/30/2009 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ALUBIA ROJA JA`E 390GR,Comestibles,Alimentacion,Unidad,1,0.87,0.68
+S1-12-011-1151558,90252,4/30/2009 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ACEITE KOIPESOL GIRASOL 1LT.,Comestibles,Alimentacion,Unidad,1,2.05,1.83
+S1-12-011-1151558,90253,5/22/2009 8:25,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,REFRESCOS RED BULL 250ML,Comestibles,Refrescos y Bebidas,Unidad,1,1.65,1.13
+S1-12-011-1151558,90254,5/12/2009 17:08,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,VINO DON SIMON 1L TINTO,Comestibles,Refrescos y Bebidas,Unidad,1,1.3,0.93
+S1-12-011-1151558,90255,3/18/2009 0:00,Tienda Castelldefels,190,David Rodriguez,1,0,5/15/1978,Soltero/a,Más de 70mil,ESTETIC INTEGRAL CHOCO 200GR,Comestibles,Golosinas y Chocolates,Unidad,1,1.54,1.01
