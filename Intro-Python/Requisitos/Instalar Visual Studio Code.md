@@ -1,9 +1,19 @@
-# Instalación de Visual Studio Code
+# Instalar Visual Studio Code
 
-Visual Studio Code es en editor de código fuente, multiplataforma (puede instalarse en Windows, macOS y Linux) y que además soporte múltiples lenguajes de programción, además de ser gratuito y de código abierto. 
+VS Code es el editor donde crearemos archivos y ejecutaremos programas. Descárgalo desde [Visual Studio Code](https://code.visualstudio.com/Download).
 
-Podéis descargarlo directamente desde este enlace https://code.visualstudio.com/Download y lanzar directamente la instalación ejecutando el archivo descargado. 
+- [Windows: User Installer y comprobación de `code`](Windows.md).
+- [macOS: arquitectura, Aplicaciones y comando `code`](macOS.md).
 
-Y para comenzar un listado de atajos de teclado predeterminados https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf?ocid=AID3019735_TWITTER_oo_spl100001423204315 
+Después instala [la extensión Python](<Instalar el complemento de Python.md>). Editor, extensión e intérprete son componentes distintos.
 
+| Acción | Windows | macOS |
+|---|---|---|
+| Guardar | Ctrl+S | Cmd+S |
+| Paleta de comandos | Ctrl+Shift+P | Cmd+Shift+P |
+| Extensiones | Ctrl+Shift+X | Cmd+Shift+X |
+| Buscar | Ctrl+F | Cmd+F |
 
+Referencias oficiales: [atajos Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) y [atajos macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf).
+
+[Volver a preparación](README.md)

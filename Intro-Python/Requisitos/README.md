@@ -1,24 +1,44 @@
-![Dataging](https://raw.githubusercontent.com/dataging/public-resources/61263724aea5476ba5ebf38478beada519091957/logodataging.png)
+# Preparar el entorno desde cero
 
-# Requisitos para aprovechar el curso
+Si no distingues lenguaje, intérprete y editor, empieza por [00-Fundamentos](../00-Fundamentos/README.md). No necesitas saber Git, SQL o Pandas.
 
-## Requisitos técnicos
-Para poder reproducir las demostraciones e intentar los ejercicios es necesario que tengáis instalado en vuestro equipo:
+## Elige tu sistema operativo
 
-- [Python](https://github.com/antoniosql/Intro-Python/blob/main/Requisitos/Instalar%20Python.md)
-- [Visual Studio Code](https://github.com/antoniosql/Intro-Python/blob/main/Requisitos/Instalar%20Visual%20Studio%20Code.md)
-- [Extensión de Python para Visual Studio Code](https://github.com/antoniosql/Intro-Python/blob/main/Requisitos/Instalar%20el%20complemento%20de%20Python.md)
+| Sistema | Guía completa |
+|---|---|
+| Windows | [Instalar Python y VS Code en Windows](Windows.md) |
+| macOS: Intel o Apple silicon | [Instalar Python y VS Code en macOS](macOS.md) |
 
-En caso de que no queráis instalar nada, podéis utilizar el entorno de Google Colaboratory https://colab.research.google.com/notebooks/welcome.ipynb en el que podréis guardar y ejecutar los notebooks jupyter. 
+Después sigue esta secuencia común:
 
-Si lo prefieres puedes ver este video con el paso a paso!
+1. [Instalar la extensión Python de Microsoft](<Instalar el complemento de Python.md>).
+2. [Descargar el curso y ejecutar el primer programa](../01-Primeros-pasos/01-primer-programa.md).
+3. Completar las lecciones de [primeros pasos](../01-Primeros-pasos/README.md).
+4. [Crear el entorno virtual e instalar paquetes por etapa](Entorno-y-paquetes.md).
+5. [Preparar Jupyter y seleccionar el kernel](Jupyter.md).
+6. Revisar la [lista de comprobación](Comprobacion.md).
 
-[![alt text](https://img.youtube.com/vi/Oa_Zo8jtsTE/0.jpg)](https://www.youtube.com/watch?v=Oa_Zo8jtsTE)
+## Qué necesitas en cada momento
 
-Adicionalmente, para los ejemplos con datos, utilizaremos MySQL como motor de base de datos, y la base de datos de demostración Sakila
+| Etapa | Software y recursos |
+|---|---|
+| Conceptos previos | Navegador |
+| Primeros programas | Python 3, VS Code y extensión Python |
+| Primer notebook | Extensión Jupyter e `ipykernel` en `.venv` |
+| Pandas, limpieza y EDA | Paquetes de `requirements-datos.txt` |
+| Ejemplos Sakila | Acceso a MySQL con Sakila y configuración del docente |
 
-## Conocimientos necesarios
+Comprueba los requisitos de sistema de las descargas y dispone de conexión a Internet durante la instalación. En equipos gestionados por tu organización, utiliza su mecanismo autorizado de instalación.
 
-El curso parte de la base de que se dispone de experiencia trabajando con datos, ya sea utilizando Excel como herramienta de explotación, consultas SQL, o experiencia en desarrollo de aplicaciones backend. 
+MySQL se utiliza en varios notebooks de análisis, no solo en el de bases de datos. Consulta el [mapa de dependencias](../Notebooks/GUIA.md).
 
-Durante el curso se utilizará Python como lenguaje para la ejecución de demostraciones y ejercicios. Aunque lo relevante del curso son los conceptos, y el código generado será muy poco, es de ayuda el tener algo de experiencia con Python, aunque sea básica. Para ayudar con ello, puedes seguir este Tutorial. 
+## Ayuda y materiales anteriores
+
+- [Solución de problemas](Solucion-de-problemas.md).
+- [Qué es pip](<Instalar PIP.md>).
+- [Guías originales conservadas](../docs/historico/INDICE.md).
+- [Vídeo del material original](https://www.youtube.com/watch?v=Oa_Zo8jtsTE): referencia complementaria; sus pantallas pueden diferir de las actuales.
+
+Se conserva la alternativa [Google Colab](https://colab.research.google.com/), para notebooks en el navegador. No sustituye las prácticas locales de terminal, archivos y VS Code. Una conexión MySQL desde Colab requiere que el servidor sea accesible desde ese entorno.
+
+[Volver al curso](../README.md)

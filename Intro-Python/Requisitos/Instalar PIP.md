@@ -1,8 +1,39 @@
-Una vez disponemos de Python en nuestro equipo, nos ayudará mucho disponer de un gestor de paquetes para poder descargar e instalar los paquetes que iremos utilizando durante el curso de un modo más sencillo. Aunque existe varios gestores de paquetes y algunos de ellos como Anaconda, específicos para Machine Learning, vamos a empezar con el básico, pip. pip es una herramienta escrita en Python para facilitar la descarga e instalación de paquetes del lenguaje que se encuentren en el Python Package Index (PyPI).
+# Qué es pip y cómo comprobarlo
 
-Para instalar pip, primero debemos de descargarnos este fichero https://bootstrap.pypa.io/get-pip.py 
-Una vez descargado, debemos de ejecutar desde una consola: python get-pip.py 
+`pip` es el instalador de paquetes de Python. PyPI es un índice de paquetes. Anaconda es una distribución; no es otro nombre para pip. Instalar paquetes y escribir `import` son acciones diferentes.
 
-Puedes comprobar que dispones de la última versión, ejecutando:
+Las instalaciones oficiales utilizadas en estas guías incluyen normalmente pip. Compruébalo antes de instalar nada.
 
-python -m pip install --upgrade pip wheel setuptools
+Windows:
+
+```powershell
+py -3.14 -m pip --version
+```
+
+macOS:
+
+```bash
+python3.14 -m pip --version
+```
+
+Si la instalación oficial informa `No module named pip`, prueba su módulo incorporado `ensurepip`:
+
+Windows:
+
+```powershell
+py -3.14 -m ensurepip --upgrade
+```
+
+macOS:
+
+```bash
+python3.14 -m ensurepip --upgrade
+```
+
+Después repite la comprobación. En `.venv` utiliza el ejecutable del entorno en lugar del intérprete global. La forma `python -m pip` vincula la operación al Python elegido; un comando `pip` aislado puede apuntar a otra instalación.
+
+La descarga de `get-pip.py` se conserva en el [material histórico](../docs/historico/INDICE.md), pero no es el paso inicial de esta guía. Para instalar paquetes del curso sigue [entornos y paquetes](Entorno-y-paquetes.md).
+
+Fuentes: [instalación de pip](https://pip.pypa.io/en/stable/installation/) y [entornos y paquetes de Python](https://docs.python.org/3/tutorial/venv.html).
+
+[Volver a preparación](README.md)

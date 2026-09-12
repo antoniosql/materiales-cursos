@@ -1,0 +1,3 @@
+# Para ejecutar el notebook inicial en VS Code. Los scripts básicos no necesitan paquetes.
+# Dependencias sin fijar: no es un lockfile.
+ipykernel
