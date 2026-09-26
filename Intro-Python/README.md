@@ -26,19 +26,6 @@ También tienes un [glosario](docs/glosario.md) y [anexos](docs/anexos/README.md
 | `mkdocs.yml` | Configuración de la web (MkDocs Material) |
 | `.devcontainer/` | Entorno para GitHub Codespaces, el plan B si falla la instalación local |
 
-## Ver la web en local
-
-```bash
-pip install mkdocs-material
-mkdocs serve
-```
-
-Y abre `http://127.0.0.1:8000`.
-
-## Versiones anteriores
-
-El material del curso 2025-26 (fundamentos genéricos y notebooks sobre Sakila) se conserva en la etiqueta [`intro-python-2025-26`](https://github.com/antoniosql/materiales-cursos/tree/intro-python-2025-26/Intro-Python). Los notebooks de análisis continúan en [Python-Analitica](../Python-Analitica/).
-
 ## Licencia
 
 Materiales bajo licencia [MIT](LICENSE).

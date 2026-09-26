@@ -2,8 +2,6 @@
 
 # Seminario de introducción a Python
 
-**Máster en Big Data & Business Analytics · IFFE Business School · Curso 2026-27**
-
 Bienvenida, bienvenido. Este seminario está pensado para personas que **nunca han programado**. No necesitas saber qué es un lenguaje de programación, ni haber usado una terminal, ni dominar Excel. Solo necesitas un portátil, curiosidad y ganas de equivocarte un poco, porque así es como se aprende a programar.
 
 Si ya programas, también estás en el sitio adecuado: repasarás lo básico, conocerás el caso con el que trabajaremos y ayudarás a tu pareja de trabajo, que es una de las mejores formas de afianzar lo que ya sabes.
@@ -64,10 +62,6 @@ Cada vez que veas un ejemplo, sigue estos cuatro pasos:
 4. **Explica.** Di con tus palabras por qué ha cambiado el resultado.
 
 Si te equivocas en la predicción, perfecto: acabas de aprender algo.
-
-## Trabajo en parejas
-
-En clase trabajaremos en **parejas**, una persona con experiencia técnica y otra sin ella, y cambiaremos a menudo quién escribe en el teclado. Quien escribe, escribe. Quien no escribe, piensa en voz alta, revisa y pregunta.
 
 ## Sobre la inteligencia artificial
 

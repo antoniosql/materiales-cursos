@@ -68,7 +68,7 @@ Un idioma humano tolera errores: si escribes "grasias", te entienden. Un lenguaj
 
 ## Actividad sin ordenador: el ticket con descuento
 
-> **Pruébalo (en parejas, en papel, 8 minutos).**
+> **Pruébalo.**
 >
 > Marta necesita calcular el importe final de este ticket:
 >

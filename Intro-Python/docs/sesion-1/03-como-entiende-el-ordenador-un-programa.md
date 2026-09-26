@@ -90,7 +90,7 @@ Buena pregunta. Porque las herramientas de análisis de datos que se usan desde 
 
 ## Comprueba lo que has entendido
 
-> **Pruébalo (en parejas, 3 minutos).** Responded sin mirar:
+> **Pruébalo.** Responded sin mirar:
 >
 > 1. Acabas de calcular el margen de un producto en Python y cierras el programa. ¿Dónde estaba guardado el resultado? ¿Sigue ahí?
 > 2. ¿Cuántos valores distintos caben en un byte?
