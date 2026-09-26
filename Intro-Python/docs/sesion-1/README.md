@@ -46,7 +46,7 @@ Y todo ello ayudando a Marta, la gerente de FraSoHome Madrid Centro, con sus pri
 
 ## Archivos de ejemplo
 
-Todos los programas de esta sesión están en la carpeta [ejemplos](ejemplos/). Úsalos para **comparar** con lo que tú escribas, no para copiarlos.
+Todos los programas de esta sesión están en la carpeta `ejemplos` de esta sesión. Úsalos para **comparar** con lo que tú escribas, no para copiarlos.
 
 | Archivo | Apartado |
 |---|---|
