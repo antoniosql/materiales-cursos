@@ -1,6 +1,6 @@
 # Dependencias observadas en los notebooks originales; validar versiones antes de la clase.
 # MySQL/Sakila y la conectividad se preparan aparte. No es un lockfile.
--r requirements-inicio.txt
+ipykernel
 numpy
 pandas
 matplotlib
