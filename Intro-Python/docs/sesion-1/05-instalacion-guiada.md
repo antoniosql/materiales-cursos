@@ -184,7 +184,7 @@ Las instalaciones fallan a veces, sobre todo en ordenadores de empresa con restr
 Si a la hora de la comprobación final no lo tienes todo funcionando:
 
 1. Díselo al profesor.
-2. Abre el **enlace al entorno en la nube** que te dará en clase. Es un espacio de **GitHub Codespaces**: un VS Code completo, con Python instalado, que funciona dentro del navegador. Solo necesitas iniciar sesión con tu cuenta de GitHub.
+2. Abre el **[entorno en la nube del seminario](https://codespaces.new/antoniosql/materiales-cursos?devcontainer_path=.devcontainer%2Fintro-python%2Fdevcontainer.json)**. Es un espacio de **GitHub Codespaces**: un VS Code completo, con Python y todos los paquetes del seminario ya instalados, que funciona dentro del navegador. Solo necesitas iniciar sesión con tu cuenta de GitHub y pulsar **Create codespace**. La primera vez tarda unos minutos en prepararse.
 3. Sigue la clase desde ahí. Todo lo que aprendas es exactamente igual.
 4. Durante el descanso o al final de la clase, el profesor te ayudará con la instalación en tu ordenador.
 
