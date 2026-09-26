@@ -47,8 +47,8 @@ Fuentes: [VS Code en macOS](https://code.visualstudio.com/docs/setup/mac) y [CLI
 
 ## 4. Instalar el complemento Python
 
-Continúa con [la extensión Python](<Instalar el complemento de Python.md>) y [tu primer programa](../01-Primeros-pasos/01-primer-programa.md).
+Continúa con [la extensión Python](extension-python.md) y [tu primer programa](../sesion-1/07-tu-primer-programa.md). Git se instala y configura como se explica en la [instalación guiada](../sesion-1/05-instalacion-guiada.md).
 
 **Antes de continuar:** debe funcionar `python3.14 --version` y debes poder abrir VS Code. No se garantiza que instalar la última versión permita ejecutar sin cambios todos los notebooks históricos.
 
-[Volver a preparación](README.md) · [Guía Windows](Windows.md)
+[Volver a los anexos](README.md) · [Guía Windows](instalacion-windows.md)

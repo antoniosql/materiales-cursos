@@ -1,13 +1,11 @@
-entornoiffe
-
-.env
 # Entornos y archivos locales del curso
 .venv/
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 .env
-.env.*
-!.env.example
 .DS_Store
 mis-ejercicios/
+
+# Web generada con MkDocs
+site/

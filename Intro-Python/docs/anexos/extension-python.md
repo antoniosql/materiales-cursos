@@ -1,6 +1,6 @@
 # Instalar la extensión Python de Microsoft en VS Code
 
-Antes deben estar instalados [Python](<Instalar Python.md>) y [VS Code](<Instalar Visual Studio Code.md>). La extensión añade soporte al editor; el intérprete ejecuta el código.
+Antes deben estar instalados Python y VS Code ([Windows](instalacion-windows.md) · [macOS](instalacion-macos.md)). La extensión añade soporte al editor; el intérprete ejecuta el código.
 
 ## 1. Instalar el complemento correcto
 
@@ -12,7 +12,7 @@ Referencia: [Python, Microsoft, ms-python.python](https://marketplace.visualstud
 
 ## 2. Seleccionar el intérprete
 
-Abre una carpeta con **File > Open Folder…**. Para el curso será `Intro-Python`, una vez [descargados los materiales](../01-Primeros-pasos/01-primer-programa.md).
+Abre una carpeta con **File > Open Folder…**. Para el seminario será tu carpeta `curso-python` ([sesión 1, apartado 6](../sesion-1/06-carpetas-y-terminal.md)).
 
 1. Abre la paleta: **Ctrl+Shift+P** en Windows o **Cmd+Shift+P** en macOS.
 2. Ejecuta **Python: Select Interpreter**.
@@ -35,14 +35,14 @@ python3.14 -c "import sys; print(sys.executable)"
 
 ## 3. Probar con un archivo
 
-Sigue [crear y ejecutar `hola.py`](../01-Primeros-pasos/01-primer-programa.md). El comando **Run Python File in Terminal** utiliza el intérprete seleccionado. La salida aparece en Terminal. Guardar y ejecutar son acciones distintas.
+Sigue [tu primer programa](../sesion-1/07-tu-primer-programa.md). El comando **Run Python File in Terminal** utiliza el intérprete seleccionado. La salida aparece en Terminal. Guardar y ejecutar son acciones distintas.
 
-El curso incluye [extensiones recomendadas](../.vscode/extensions.json); puedes instalar Python ahora y Jupyter después. Estas prácticas locales no requieren una suscripción a Copilot.
+Puedes instalar la extensión Python ahora y la de Jupyter cuando llegues a los notebooks. Estas prácticas locales no requieren una suscripción a Copilot.
 
 ## 4. Cuando llegues a notebooks
 
-Sigue [la guía de Jupyter](Jupyter.md): extensión **Jupyter de Microsoft**, `ipykernel` y selección del kernel de `.venv`. Un notebook puede utilizar un entorno distinto del seleccionado para scripts.
+Sigue [el apartado de notebooks](../sesion-2/06-notebooks.md): extensión **Jupyter de Microsoft**, `ipykernel` y selección del kernel de `.venv`. Un notebook puede utilizar un entorno distinto del seleccionado para scripts.
 
 Fuentes: [extensión Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python), [inicio rápido](https://code.visualstudio.com/docs/python/python-quick-start) y [entornos en VS Code](https://code.visualstudio.com/docs/python/environments).
 
-[Volver a preparación](README.md)
+[Volver a los anexos](README.md)

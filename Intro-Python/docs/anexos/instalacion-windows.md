@@ -39,14 +39,14 @@ Fuentes: [Python en Windows](https://docs.python.org/3/using/windows.html) y [de
 code --version
 ```
 
-Verás la versión y otros datos del editor. Si no se reconoce, abre VS Code desde Inicio y consulta [solución de problemas](Solucion-de-problemas.md).
+Verás la versión y otros datos del editor. Si no se reconoce, abre VS Code desde Inicio y consulta [solución de problemas](solucion-de-problemas.md).
 
 Fuentes: [VS Code en Windows](https://code.visualstudio.com/docs/setup/windows) y [CLI de VS Code](https://code.visualstudio.com/docs/configure/command-line).
 
 ## 3. Instalar el complemento Python
 
-Sigue [la guía común de la extensión Python](<Instalar el complemento de Python.md>) y después [crea tu primer programa](../01-Primeros-pasos/01-primer-programa.md).
+Sigue [la guía común de la extensión Python](extension-python.md) y después [crea tu primer programa](../sesion-1/07-tu-primer-programa.md). Git se instala y configura como se explica en la [instalación guiada](../sesion-1/05-instalacion-guiada.md).
 
 **Antes de continuar:** debe funcionar `py -3.14 --version` y debes poder abrir VS Code.
 
-[Volver a preparación](README.md) · [Guía macOS](macOS.md)
+[Volver a los anexos](README.md) · [Guía macOS](instalacion-macos.md)
