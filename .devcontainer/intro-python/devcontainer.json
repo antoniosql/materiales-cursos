@@ -1,0 +1,17 @@
+{
+  "name": "Seminario de introducción a Python",
+  "image": "mcr.microsoft.com/devcontainers/python:3.14",
+  "workspaceFolder": "/workspaces/materiales-cursos/Intro-Python",
+  "postCreateCommand": "python -m venv .venv && .venv/bin/pip install -r docs/sesion-2/requirements.txt",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+      ],
+      "settings": {
+        "python.defaultInterpreterPath": "/workspaces/materiales-cursos/Intro-Python/.venv/bin/python"
+      }
+    }
+  }
+}

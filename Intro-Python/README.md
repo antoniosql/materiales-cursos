@@ -1,81 +1,43 @@
-<img src="https://raw.githubusercontent.com/dataging/public-resources/61263724aea5476ba5ebf38478beada519091957/logodataging.png" alt="Dataging" width="200"/>
+<img src="docs/assets/logo-dataging.png" alt="Dataging" width="220"/>
 
-# Introducción a Python: desde cero hasta el análisis de datos
+# Seminario de introducción a Python
 
-Materiales para aprender Python empezando por qué es un programa, cómo se ejecuta y qué herramientas necesitas. El recorrido continúa hasta Pandas, limpieza, visualización, análisis exploratorio y preparación de variables.
+Seminario de **dos sesiones de 3 horas** para personas que **nunca han programado**: parte de qué es un programa y termina analizando datos reales con pandas y leyéndolos de una base de datos. Todo el recorrido sigue el caso **FraSoHome**, una cadena de tiendas de muebles y decoración con sus datos (y sus errores) reales.
 
-**No necesitas experiencia previa en programación, Excel o SQL para empezar.** Los bloques de análisis incorporan conceptos adicionales; los ejemplos de Sakila requieren preparación de bases de datos con el docente.
+**[Empieza aquí: portada del seminario →](docs/README.md)**
 
-## Empieza por tu punto de partida
+## Las dos sesiones
 
-- **Nunca he programado:** comienza por [00-Fundamentos](00-Fundamentos/README.md), prepara el equipo y completa [01-Primeros-pasos](01-Primeros-pasos/README.md).
-- **Ya programo, pero no en Python:** revisa [instalación](Requisitos/README.md) y [comprobación del entorno](Requisitos/Comprobacion.md); después entra en los notebooks del lenguaje.
-- **Ya manejo Python y quiero analizar datos:** prepara [los paquetes del bloque de datos](Requisitos/Entorno-y-paquetes.md) y consulta el [mapa de notebooks y dependencias](Notebooks/GUIA.md).
-
-## Itinerario completo
-
-| Etapa | Material | Qué aprenderás |
-|---|---|---|
-| 0. Conceptos desde cero | [00-Fundamentos](00-Fundamentos/README.md) | Programa, algoritmo, lenguaje, intérprete, editor, IDE, terminal, shell, CLI, archivos y rutas |
-| Preparación | [Windows](Requisitos/Windows.md) / [macOS](Requisitos/macOS.md) y [extensión Python](<Requisitos/Instalar el complemento de Python.md>) | Descargar, instalar y comprobar las herramientas |
-| 1. Primeros programas | [01-Primeros-pasos](01-Primeros-pasos/README.md) | Scripts, REPL, valores, variables, entrada, decisiones, bucles, funciones, errores y depuración |
-| Práctica inicial | [Ejercicios y miniproyecto](01-Primeros-pasos/05-ejercicios.md) | Resolver problemas pequeños y comprobar sus resultados |
-| Puente a notebooks | [Entorno virtual](Requisitos/Entorno-y-paquetes.md), [Jupyter](Requisitos/Jupyter.md) y [primer notebook](Notebooks/00_0_Primer_notebook.ipynb) | Instalar paquetes cuando hagan falta, elegir kernel y ejecutar en orden |
-| 2. Lenguaje y documentación | Los cuatro notebooks `01_*` de la tabla inferior | Profundizar en Python, Markdown y organización del código |
-| 3. Trabajo con datos | Los notebooks `02_*` | Series, DataFrames, transformaciones y bases de datos |
-| 4. Limpieza y visualización | Los notebooks `03_*` | Nulos, duplicados y gráficos |
-| 5. Análisis exploratorio | Los notebooks `04_*` | EDA, codificación y escalado |
-| Laboratorio | [Laboratorio.ipynb](Notebooks/Laboratorio.ipynb) | Aplicar el recorrido a Sakila |
-
-La numeración de los notebooks originales se mantiene para conservar sus enlaces. El orden de aprendizaje completo lo marca esta tabla, incluyendo los nuevos bloques previos.
-
-## Notebooks del curso original
-
-Los **12 notebooks originales se conservan íntegros y en sus rutas**. Lee primero [sus condiciones de ejecución y notas docentes](Notebooks/GUIA.md): algunos contienen demostraciones de Colab, instalaciones de paquetes, interacción por teclado o acceso a MySQL.
-
-| Notebook | Contenido |
+| Sesión | Contenido |
 |---|---|
-| [01_1_Markdown](Notebooks/01_1_Markdown.ipynb) | Documentación con Markdown |
-| [01_2_Notebook](Notebooks/01_2_Notebook.ipynb) | Celdas, kernel, ejecución y magias |
-| [01_3_Elementos del Lenguaje](<Notebooks/01_3_Elementos del Lenguaje.ipynb>) | Tipos, variables, control de flujo, funciones y colecciones |
-| [01_4_Modulos_Paquetes](Notebooks/01_4_Modulos_Paquetes.ipynb) | Importaciones, módulos propios y paquetes |
-| [02_01_Repaso Basico Pandas](<Notebooks/02_01_Repaso Basico Pandas.ipynb>) | Series, DataFrames, selección y transformaciones |
-| [02_02_Pandas y Bases de Datos](<Notebooks/02_02_Pandas y Bases de Datos.ipynb>) | Conexión MySQL y combinación de datos |
-| [03_01_Nulos y repetidos](<Notebooks/03_01_Nulos y repetidos.ipynb>) | Nulos, imputación y duplicados |
-| [03_02 Visualizacion](<Notebooks/03_02 Visualizacion.ipynb>) | Distribuciones y relaciones mediante gráficos |
-| [04_01 EDA inicial](<Notebooks/04_01 EDA inicial.ipynb>) | Exploración de un conjunto de datos |
-| [04_02_Codificacion de Variables](<Notebooks/04_02_Codificacion de Variables.ipynb>) | Codificación categórica |
-| [04_03_Escalado de Caracteristicas](<Notebooks/04_03_Escalado de Caracteristicas.ipynb>) | Estandarización de variables |
-| [Laboratorio](Notebooks/Laboratorio.ipynb) | Práctica guiada con Sakila |
+| [Sesión 1 · De cero a tu primer programa](docs/sesion-1/README.md) | Qué es programar, cómo ejecuta el ordenador un programa (compilado frente a interpretado), instalación de Python, VS Code y Git, terminal, tipos de datos, variables, `input`, decisiones y errores |
+| [Sesión 2 · Del programa a los datos](docs/sesion-2/README.md) | Listas, bucles y funciones, Markdown, Git y GitHub, entornos virtuales, notebooks, NumPy, pandas con el catálogo de FraSoHome y conexión con su base de datos |
 
-## Dónde está cada material
+También tienes un [glosario](docs/glosario.md) y [anexos](docs/anexos/README.md) con guías de instalación detalladas y solución de problemas.
 
-| Carpeta o archivo | Uso |
+## Estructura
+
+| Ruta | Contenido |
 |---|---|
-| [00-Fundamentos](00-Fundamentos/README.md) | Conceptos previos; se pueden leer sin instalar nada |
-| [Requisitos](Requisitos/README.md) | Instalación, entornos, Jupyter y solución de problemas |
-| [01-Primeros-pasos](01-Primeros-pasos/README.md) | Lecciones, ejemplos ejecutables, ejercicios y soluciones |
-| [Notebooks](Notebooks/GUIA.md) | Notebook inicial nuevo, 12 originales y paquete de demostración |
-| [py](py/) | Scripts y Markdown originales de apoyo; no equivalen a todos los notebooks |
-| [resources](resources/) | Recursos de apoyo originales |
-| [requirements-inicio.txt](requirements-inicio.txt) | Dependencia mínima del primer notebook |
-| [requirements-datos.txt](requirements-datos.txt) | Dependencias del bloque de análisis |
-| [docs](docs/REESTRUCTURACION.md) | Análisis de la reorganización y documentación histórica |
+| `docs/` | Todo el material del alumno, en Markdown. Es también la fuente de la web del seminario |
+| `docs/sesion-*/ejemplos/` | Programas de ejemplo de cada sesión |
+| `docs/sesion-2/datos/` | Datos de FraSoHome (`productos.csv`, `tiendas.csv`) |
+| `docs/sesion-2/requirements.txt` | Paquetes del entorno del alumno |
+| `mkdocs.yml` | Configuración de la web (MkDocs Material) |
+| `.devcontainer/` | Entorno para GitHub Codespaces, el plan B si falla la instalación local |
 
-## Cómo trabajar
+## Ver la web en local
 
-1. [Descarga y abre el curso](01-Primeros-pasos/01-primer-programa.md). Git es opcional.
-2. Escribe tus prácticas en `mis-ejercicios`; conserva los ejemplos para comparar.
-3. Predice cada resultado, ejecuta, cambia un dato y explica lo ocurrido.
-4. Completa [la comprobación del entorno](Requisitos/Comprobacion.md) antes de avanzar a notebooks.
+```bash
+pip install mkdocs-material
+mkdocs serve
+```
 
-También puedes utilizar [Google Colab](https://colab.research.google.com/) para el bloque de notebooks, con las condiciones explicadas en [Requisitos](Requisitos/README.md). La ruta desde cero utiliza VS Code local para aprender terminal y archivos.
+Y abre `http://127.0.0.1:8000`.
 
-## Para el docente
+## Versiones anteriores
 
-El material anterior partía de experiencia con datos. El nuevo tramo inicial permite incorporar alumnado sin esa base: unas **4–5 horas orientativas**, más instalación, según ritmo y ejercicios. Se puede ofrecer como preparación previa o como sesiones iniciales. No sustituye las horas del bloque de análisis.
-
-[Análisis, conservación del contenido y notas de validación](docs/REESTRUCTURACION.md) · [Fuentes oficiales](docs/FUENTES.md) · [Guías anteriores](docs/historico/INDICE.md).
+El material del curso 2025-26 (fundamentos genéricos y notebooks sobre Sakila) se conserva en la etiqueta [`intro-python-2025-26`](https://github.com/antoniosql/materiales-cursos/tree/intro-python-2025-26/Intro-Python). Los notebooks de análisis continúan en [Python-Analitica](../Python-Analitica/).
 
 ## Licencia
 

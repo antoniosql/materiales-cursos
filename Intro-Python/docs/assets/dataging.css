@@ -1,0 +1,53 @@
+/* Colores de marca Dataging: turquesa #22b8bb y verde #8bd841 */
+:root,
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #22b8bb;
+  --md-primary-fg-color--light: #7ad4d6;
+  --md-primary-fg-color--dark: #1a8f91;
+  --md-primary-bg-color: #ffffff;
+  --md-accent-fg-color: #6fb52c;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #1a8f91;
+  --md-primary-fg-color--light: #22b8bb;
+  --md-primary-fg-color--dark: #136b6d;
+  --md-accent-fg-color: #8bd841;
+}
+
+/* Recuadros "Pruébalo", "Idea clave", "Cuidado"... (citas de Markdown) */
+.md-typeset blockquote {
+  border-left: 0.25rem solid var(--md-primary-fg-color) !important;
+  background: color-mix(in srgb, var(--md-primary-fg-color) 7%, transparent);
+  color: var(--md-typeset-color);
+  padding: 0.4rem 1rem;
+  border-radius: 0 0.3rem 0.3rem 0;
+}
+
+/* Soluciones desplegables */
+.md-typeset details {
+  border: 1px solid color-mix(in srgb, var(--md-accent-fg-color) 50%, transparent);
+  border-radius: 0.3rem;
+  padding: 0.3rem 1rem;
+  margin: 1rem 0;
+}
+
+.md-typeset details > summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--md-accent-fg-color);
+}
+
+/* El logo de la portada lleva fondo blanco: se enmarca en modo oscuro */
+[data-md-color-scheme="slate"] .md-typeset img[src*="logo-dataging"] {
+  background: #ffffff;
+  padding: 0.5rem;
+  border-radius: 0.3rem;
+}
+
+/* Icono de la cabecera sobre fondo blanco para que se vea sobre el turquesa */
+.md-header__button.md-logo img {
+  background: #ffffff;
+  border-radius: 0.25rem;
+  padding: 0.1rem;
+}

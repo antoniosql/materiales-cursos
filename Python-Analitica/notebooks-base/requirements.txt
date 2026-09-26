@@ -1,0 +1,11 @@
+# Dependencias observadas en los notebooks originales; validar versiones antes de la clase.
+# MySQL/Sakila y la conectividad se preparan aparte. No es un lockfile.
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+mysql-connector-python
+python-dotenv

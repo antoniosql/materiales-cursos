@@ -1,3 +1,5 @@
+<img src="Intro-Python/docs/assets/logo-dataging.png" alt="Dataging" width="220"/>
+
 # Materiales de cursos
 
 Repositorio central con los **materiales docentes** de los cursos y seminarios que
@@ -11,12 +13,13 @@ Cada curso vive en su propio directorio y es autocontenido: dentro encontrarás 
 
 | Curso | Tema | Contenido |
 |---|---|---|
-| [Intro-Python](Intro-Python/) | Introducción a Python para el análisis de datos | Fundamentos del lenguaje, Pandas, limpieza de datos y análisis exploratorio (EDA), con notebooks y laboratorio guiado |
+| [Intro-Python](Intro-Python/) | Seminario de introducción a Python | Dos sesiones para empezar desde cero: qué es programar, entorno, tipos de datos, colecciones y funciones, Markdown, Git y GitHub, notebooks, NumPy y pandas sobre el caso FraSoHome. [Versión online](https://antoniosql.github.io/materiales-cursos/Intro-Python/) |
+| [Python-Analitica](Python-Analitica/) | Python para analítica de datos y Machine Learning | Acceso a datos, calidad y preparación, EDA, codificación y escalado de variables. *En preparación sobre FraSoHome*; de momento contiene los notebooks de partida |
 | [cursoml](cursoml/) | Desarrollo de soluciones con Machine Learning | Ciclo de vida de un proyecto ML: preparación de datos, algoritmos supervisados y no supervisados, ingeniería de características, despliegue e interpretabilidad |
 | [bigdata](bigdata/) | Big Data con Hadoop, Hive, Spark y Databricks | Almacenamiento distribuido, MapReduce, Hive, Spark (RDD, DataFrames, ML, Streaming), Databricks y Delta Lake |
 | [IntroBigData](IntroBigData/) | Introducción a Big Data — datos | Conjuntos de datos del curso introductorio (Instacart, sales records, Tiendas 24H, Titanic) y diagrama de arquitectura *medallion* |
-| [seminario-fabric](seminario-fabric/) | Seminario: Microsoft Fabric | Arquitectura moderna de datos en Fabric: OneLake, ingesta y ETL, arquitectura medallón, lakehouse y warehouse, tiempo real, Data Activator y Fabric Databases. [Versión online](https://antoniosql.github.io/seminario-fabric/) |
-| [rag-copilot-studio](rag-copilot-studio/) | Seminario: RAG con Copilot Studio | Arquitectura RAG empresarial, orígenes de conocimiento, arquitectura híbrida con Dataverse, evaluación, seguridad y gobierno. 5 laboratorios sobre el caso FraSoHome |
+| [seminario-fabric](seminario-fabric/) | Seminario: Microsoft Fabric | Arquitectura moderna de datos en Fabric: OneLake, ingesta y ETL, arquitectura medallón, lakehouse y warehouse, tiempo real, Data Activator y Fabric Databases. [Versión online](https://antoniosql.github.io/materiales-cursos/seminario-fabric/) |
+| [rag-copilot-studio](rag-copilot-studio/) | Seminario: RAG con Copilot Studio | Arquitectura RAG empresarial, orígenes de conocimiento, arquitectura híbrida con Dataverse, evaluación, seguridad y gobierno. 5 laboratorios sobre el caso FraSoHome. [Versión online](https://antoniosql.github.io/materiales-cursos/rag-copilot-studio/) |
 | [rag-local-lab](rag-local-lab/) | Taller: RAG local con Ollama, Qdrant y LangChain | Stack RAG 100 % local con Docker: AnythingLLM como demo visual y notebooks para construir el pipeline pieza a pieza |
 
 ## Cómo usar este repositorio
@@ -55,6 +58,14 @@ instrucciones concretas están en el README de cada curso.
 - **`demos/`** contiene lo que se ejecuta durante la clase; **`laboratorios/`** o
   **`labs/`**, lo que resuelve el alumnado; **`datos/`** o **`materiales/`**, los
   conjuntos de datos y documentos de apoyo.
+
+## Webs de los cursos
+
+Los cursos con un `mkdocs.yml` en su carpeta se publican automáticamente como web en
+[antoniosql.github.io/materiales-cursos](https://antoniosql.github.io/materiales-cursos/)
+cada vez que cambia su contenido en `main` (workflow `.github/workflows/webs-cursos.yml`).
+Para verlos en local: `pip install mkdocs-material` y `mkdocs serve` dentro de la carpeta
+del curso.
 
 ## Otros materiales
 

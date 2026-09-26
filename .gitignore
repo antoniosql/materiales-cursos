@@ -1,0 +1,22 @@
+# Entornos virtuales de Python (nunca se suben: se recrean con requirements.txt)
+.venv/
+venv/
+env/
+
+# Bytecode de Python
+__pycache__/
+*.py[cod]
+
+# Credenciales y configuración local
+.env
+!*.env.example
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Webs generadas con MkDocs
+site/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

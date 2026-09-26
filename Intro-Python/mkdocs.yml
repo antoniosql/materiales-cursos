@@ -1,0 +1,84 @@
+site_name: Seminario de introducción a Python
+site_description: De cero a analizar datos con Python, con el caso FraSoHome
+site_author: Antonio Soto · Dataging
+repo_url: https://github.com/antoniosql/materiales-cursos
+edit_uri: edit/main/Intro-Python/docs/
+copyright: Dataging · Antonio Soto · Materiales bajo licencia MIT
+docs_dir: docs
+
+theme:
+  name: material
+  language: es
+  logo: assets/icono-dataging.png
+  favicon: assets/icono-dataging.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Modo oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+  features:
+    - navigation.sections
+    - navigation.footer
+    - navigation.top
+    - navigation.indexes
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+
+extra_css:
+  - assets/dataging.css
+
+markdown_extensions:
+  - md_in_html
+  - tables
+  - attr_list
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+nav:
+  - Inicio: README.md
+  - Sesión 1 · De cero a tu primer programa:
+      - sesion-1/README.md
+      - sesion-1/01-bienvenida-a-frasohome.md
+      - sesion-1/02-que-es-programar.md
+      - sesion-1/03-como-entiende-el-ordenador-un-programa.md
+      - sesion-1/04-las-piezas-del-entorno.md
+      - sesion-1/05-instalacion-guiada.md
+      - sesion-1/06-carpetas-y-terminal.md
+      - sesion-1/07-tu-primer-programa.md
+      - sesion-1/08-tipos-de-datos-y-variables.md
+      - sesion-1/09-preguntar-y-responder.md
+      - sesion-1/10-tomar-decisiones.md
+      - sesion-1/11-cuando-algo-falla.md
+      - sesion-1/12-resumen-y-retos.md
+  - Sesión 2 · Del programa a los datos:
+      - sesion-2/README.md
+      - sesion-2/01-listas-diccionarios-y-bucles.md
+      - sesion-2/02-funciones-y-modulos.md
+      - sesion-2/03-markdown.md
+      - sesion-2/04-git-y-github.md
+      - sesion-2/05-paquetes-y-entornos-virtuales.md
+      - sesion-2/06-notebooks.md
+      - sesion-2/07-numpy.md
+      - sesion-2/08-pandas.md
+      - sesion-2/09-conexion-y-cierre.md
+  - Glosario: glosario.md
+  - Anexos:
+      - anexos/README.md
+      - anexos/instalacion-windows.md
+      - anexos/instalacion-macos.md
+      - anexos/extension-python.md
+      - anexos/solucion-de-problemas.md

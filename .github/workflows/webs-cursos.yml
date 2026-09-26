@@ -1,0 +1,82 @@
+name: Publicar las webs de los cursos
+
+# Construye con MkDocs cada curso que tenga un mkdocs.yml en su carpeta y los
+# publica juntos en GitHub Pages:
+#   https://antoniosql.github.io/materiales-cursos/<carpeta-del-curso>/
+# Requisito (una vez): Settings > Pages > Build and deployment > Source: GitHub Actions.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "*/mkdocs.yml"
+      - "*/docs/**"
+      - ".github/workflows/webs-cursos.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  construir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # MkDocs 2.0 rompe la compatibilidad con Material: se fija la rama 1.x
+      - name: Instalar MkDocs
+        run: pip install "mkdocs>=1.6,<2" "mkdocs-material>=9,<10" pymdown-extensions
+
+      - name: Construir cada curso
+        run: |
+          mkdir -p _site
+          echo "<ul>" > /tmp/lista.html
+          for config in */mkdocs.yml; do
+            curso="$(dirname "$config")"
+            echo "::group::$curso"
+            (cd "$curso" && mkdocs build --strict --site-dir "$GITHUB_WORKSPACE/_site/$curso")
+            titulo="$(grep -m1 '^site_name:' "$config" | cut -d: -f2- | sed 's/^ *//')"
+            echo "<li><a href=\"$curso/\">$titulo</a></li>" >> /tmp/lista.html
+            echo "::endgroup::"
+          done
+          echo "</ul>" >> /tmp/lista.html
+
+      - name: Página de inicio
+        run: |
+          cp Intro-Python/docs/assets/logo-dataging.png _site/logo-dataging.png
+          {
+            echo '<!doctype html><html lang="es"><head><meta charset="utf-8">'
+            echo '<meta name="viewport" content="width=device-width, initial-scale=1">'
+            echo '<title>Materiales de cursos · Dataging</title>'
+            echo '<style>body{font-family:system-ui,sans-serif;max-width:40rem;margin:3rem auto;padding:0 1rem;color:#1f2933;background:#fff}a{color:#1a8f91}li{margin:.5rem 0}</style>'
+            echo '</head><body>'
+            echo '<img src="logo-dataging.png" alt="Dataging" width="220">'
+            echo '<h1>Materiales de cursos</h1>'
+            cat /tmp/lista.html
+            echo '<p><a href="https://github.com/antoniosql/materiales-cursos">Repositorio en GitHub</a></p>'
+            echo '</body></html>'
+          } > _site/index.html
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  publicar:
+    needs: construir
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.despliegue.outputs.page_url }}
+    steps:
+      - id: despliegue
+        uses: actions/deploy-pages@v4
