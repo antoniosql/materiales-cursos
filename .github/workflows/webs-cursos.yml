@@ -27,9 +27,9 @@ jobs:
   construir:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -44,7 +44,13 @@ jobs:
           for config in */mkdocs.yml; do
             curso="$(dirname "$config")"
             echo "::group::$curso"
-            (cd "$curso" && mkdocs build --strict --site-dir "$GITHUB_WORKSPACE/_site/$curso")
+            # Primero en modo estricto (enlaces rotos = error). Si falla, se publica
+            # igualmente sin modo estricto y se deja un aviso: un curso con enlaces
+            # rotos no debe impedir que se publiquen los demás.
+            if ! (cd "$curso" && mkdocs build --strict --site-dir "$GITHUB_WORKSPACE/_site/$curso"); then
+              echo "::warning title=$curso::La web tiene avisos (enlaces rotos u otros). Se publica sin modo estricto; revisa el registro."
+              (cd "$curso" && mkdocs build --site-dir "$GITHUB_WORKSPACE/_site/$curso")
+            fi
             titulo="$(grep -m1 '^site_name:' "$config" | cut -d: -f2- | sed 's/^ *//')"
             echo "<li><a href=\"$curso/\">$titulo</a></li>" >> /tmp/lista.html
             echo "::endgroup::"
@@ -67,7 +73,7 @@ jobs:
             echo '</body></html>'
           } > _site/index.html
 
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v4
         with:
           path: _site
 
