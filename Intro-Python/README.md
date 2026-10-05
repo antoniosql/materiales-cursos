@@ -5,7 +5,7 @@
 Seminario de **dos sesiones de 3 horas** para personas que **nunca han programado**: parte de qué es un programa y termina analizando datos reales con pandas y leyéndolos de una base de datos. Todo el recorrido sigue el caso **FraSoHome**, una cadena de tiendas de muebles y decoración con sus datos (y sus errores) reales.
 
 **[Empieza aquí: portada del seminario →](docs/README.md)**
-
+Cambios de Clase
 ## Las dos sesiones
 
 | Sesión | Contenido |
